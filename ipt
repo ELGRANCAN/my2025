@@ -1,0 +1,23 @@
+{   "name": "USAR VPN / ACT300325",
+    "groups": [{
+			"name": "SERVIDOR 01",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 02",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 03",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 04",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+			"import": "false"
+		}]
+}
