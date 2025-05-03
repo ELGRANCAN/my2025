@@ -1,0 +1,29 @@
+{   "name": "Telegram: @E7Arte",
+    "author": "Administrador",
+    "groups": [{
+			"name": "DEPORTES",
+			"image": "https://i.ibb.co/X2vY6xT/sport.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
+			"import": "false"
+		},{
+			"name": "IPTV",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/ipt",
+			"import": "false"
+		},{
+			"name": "TV ONLINE",
+			"image": "https://i.ibb.co/0K9MYtD/tv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/vt",
+			"import": "false"
+		}//COPIAR: AQUI <--------------------------------
+		,{
+		"name": "OTROS",
+		"groups": [{
+				"name": "aficionados",
+				"url": "https://af1c1onados.vercel.app/af1cionados.w3u"
+				},{
+				"name": "bylucas",
+				"url": "https://actualsebastian.vercel.app/base.txt"
+				}]
+		}],"url": "https://aiopaste.com/raw/admin-1000"
+}
