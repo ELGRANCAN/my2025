@@ -1,0 +1,23 @@
+{   "name": "TV ONLINE",
+    "groups": [{
+			"name": "SAMSUNG TV PLUS",
+			"image": "https://i.ibb.co/PYF7fJN/santv.png",
+			"url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/main/tv/m3u/SamsungTVPlus_tv_ES.m3u",
+			"import": "false"
+		},{
+			"name": "RAKUTEN TV",
+			"image": "https://i.ibb.co/c8LBv2W/rakutentv.png",
+			"url": "https://helmerluzo.github.io/RakutenTV_HL/tv/m3u/RakutenTV_tv.m3u",
+			"import": "false"
+		},{
+			"name": "RUNTIME",
+			"image": "https://i.ibb.co/xmsf3ry/runtime.png",
+			"url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/m3u/RuntimeTV_tv.m3u",
+			"import": "false"
+		},{
+			"name": "CANELATV",
+			"image": "https://i.ibb.co/tP4DY3R/canelatv.png",
+			"url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
+			"import": "false"
+		}]
+}
