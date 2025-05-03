@@ -19,5 +19,10 @@
 			"image": "https://i.ibb.co/tP4DY3R/canelatv.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
 			"import": "false"
+		},{
+			"name": "X3",
+			"image": "",
+			"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/x3",
+			"import": "false"
 		}]
 }
