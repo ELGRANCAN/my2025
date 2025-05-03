@@ -1,4 +1,4 @@
-{	"name": "Suscripción: 10/05/2025",
+{	"name": "SuscripciÃ³n: 10/05/2025",
     "author": "7897",
     "groups": [{
 			"name": "DEPORTES",
@@ -6,7 +6,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
 			"import": "false"
 		},{
-			"name": "IPTV",
+			"name": "IPTV (EXTERNAS)",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/ipt",
 			"import": "false"
