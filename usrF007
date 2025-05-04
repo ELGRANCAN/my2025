@@ -1,0 +1,19 @@
+{	"name": "Suscripción: 20/12/2025",
+    "author": "F007",
+    "groups": [{
+			"name": "DEPORTES",
+			"image": "https://i.ibb.co/X2vY6xT/sport.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
+			"import": "false"
+		},{
+			"name": "IPTV",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/ipt",
+			"import": "false"
+		},{
+			"name": "TV ONLINE",
+			"image": "https://i.ibb.co/0K9MYtD/tv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/vt",
+			"import": "false"
+		}],"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/usrF007"
+}                                                                                                   
