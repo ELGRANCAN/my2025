@@ -1,4 +1,4 @@
-{   "name": "USAR VPN / ACT300325",
+{   "name": "USAR VPN / ACT060525",
     "groups": [{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
@@ -12,12 +12,17 @@
 		},{
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
+			"url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 04",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 05",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://box.xtemus.com/?playlist=u256y494u21596x2",
 			"import": "false"
 		},{
 			"name": "SERVIDOR X3",
