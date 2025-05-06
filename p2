@@ -1847,19 +1847,44 @@
 				"url": "acestream://d8c2ed470e847154a88f011137cc206319f6bed5"
 				},{
 				"name": "DEPORTES",
-				"info": "SERVIDOR 1",
+				"info": "SERVIDOR 0",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
 				"url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
 				},{
 				"name": "DEPORTES",
+				"info": "SERVIDOR 1",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
+				},{
+				"name": "DEPORTES",
 				"info": "SERVIDOR 2",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
+				"url": "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"
 				},{
 				"name": "DEPORTES",
 				"info": "SERVIDOR 3",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://"
+				"url": "acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 4",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://67a33c3f74956eed14b9b400523462fe362e0e66"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 5",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 6",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 7",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
 				},{
 				"name": "DEPORTES 2",
 				"info": "SERVIDOR 1",
