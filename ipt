@@ -2,17 +2,7 @@
     "groups": [{
 			"name": "SERVIDOR 000",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "http://nxt.plus:8080/player_api.php?username=cablestream&password=uSgBFYRL78sA&type=m3u_plus",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 001",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "http://smarterstv99.dyndns.tv:25461/get.php?username=N@NOFULLIPTV4&password=VjNZX8q5qrgw&type=m3u_plus",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 002",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "http://tadeotv1.guiritv.xyz:8080/get.php?username=danicasa&password=UwcER42ebVdm&type=m3u_plus",
+			"url": "http://nxt.plus:8080/get.php?username=cablestream&password=uSgBFYRL78sA&type=m3u_plus",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 003",
