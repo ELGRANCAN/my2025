@@ -5,24 +5,19 @@
 			"url": "http://nxt.plus:8080/get.php?username=cablestream&password=uSgBFYRL78sA&type=m3u_plus",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 003",
+			"name": "SERVIDOR 001",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "http://tadeotv1.guiritv.xyz:8080/get.php?username=pablocarloshigueron&password=HcNoWaA3Km&type=m3u_plus",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 004",
+			"name": "SERVIDOR 002",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "http://tadeotv1.guiritv.xyz:8080/get.php?username=9GNW0m3ILO&password=UAeHXf1UVn&type=m3u_plus",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 005",
+			"name": "SERVIDOR 003",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "http://qwert.odin55.xyz:8080/get.php?username=E8bwTllHlW&password=LgeC1cZllQ&type=m3u_plus",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 006",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "http://bluedk.xyz:8080/get.php?username=llqman1rasol&password=004571800440esdw&type=m3u_plus",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 01",
