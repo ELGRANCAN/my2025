@@ -7,12 +7,12 @@
 		},{
 			"name": "SERVIDOR 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u",
+			"url": "https://github.com/chukyvaliente/ChukyDeport/raw/refs/heads/main/ChukyDeport",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
+			"url": "https://github.com/chukyvaliente/ChukHoodCine/raw/refs/heads/main/ChukyHoodCines",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 04",
@@ -23,6 +23,11 @@
 			"name": "SERVIDOR 05",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://box.xtemus.com/?playlist=u256y494u21596x2",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 06",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://raw.githubusercontent.com/chukyvaliente/prueba-jose/refs/heads/main/Italia",
 			"import": "false"
 		},{
 			"name": "SERVIDOR X3",
