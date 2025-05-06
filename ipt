@@ -12,57 +12,57 @@
 		},{
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://github.com/chukyvaliente/ChukHoodCine/raw/refs/heads/main/ChukyHoodCines",
+			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 04",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
+			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Being.w3u",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 05",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlIxeThKZVBsbjkzNkkwcF9CRWhzZDVCUlZ3SDYxbUxObXhzU2t3cFBhTERjbHBtWlBhX2FBWFlFMHRwdV9Xamhid3B6a1I2QlRybHc4Qy9wdWI/Z2lkPTc4MDQ4NjkwMyZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 06.1",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Being.w3u",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 06.2",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Calvo-Sport.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.3",
+			"name": "SERVIDOR 06",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Contacto%20y%20Basket.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.4",
+			"name": "SERVIDOR 07",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Deportes.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.5",
+			"name": "SERVIDOR 08",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/F%C3%BAbol%20Paises%20Europeos%20y%20Jeinmacias.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.6",
+			"name": "SERVIDOR 09",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/F%C3%BAtbol%20de%20Espa%C3%B1oles.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.7",
+			"name": "SERVIDOR 10",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/Movistar(Uso%20posible%20VPN).w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 06.8",
+			"name": "SERVIDOR 11",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://github.com/chukyvaliente/pack-wise-deportchuky/raw/refs/heads/main/NBA.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 12",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlIxeThKZVBsbjkzNkkwcF9CRWhzZDVCUlZ3SDYxbUxObXhzU2t3cFBhTERjbHBtWlBhX2FBWFlFMHRwdV9Xamhid3B6a1I2QlRybHc4Qy9wdWI/Z2lkPTc4MDQ4NjkwMyZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 13",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://github.com/chukyvaliente/ChukHoodCine/raw/refs/heads/main/ChukyHoodCines",
 			"import": "false"
 		},{
 			"name": "SERVIDOR X3",
