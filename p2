@@ -130,6 +130,11 @@
 			"image": "https://i.ibb.co/bMYDjL5g/rally.png",
 			"stations": [{
 					"name": "RALLYTV",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
+					},{
+					"name": "RALLYTV",
 					"info": "SERVIDOR 2",
 					"image": "",
 					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
