@@ -1,5 +1,15 @@
 {   "name": "TV ONLINE",
     "groups": [{
+			"name": "TDTChannels (TV)",
+			"image": "https://i.ibb.co/VWN9K2Yc/tdtc.png",
+			"url": "https://www.tdtchannels.com/lists/tv.m3u",
+			"import": "false"
+		},{
+			"name": "TDTChannels (Radio)",
+			"image": "https://i.ibb.co/VWN9K2Yc/tdtc.png",
+			"url": "https://www.tdtchannels.com/lists/radio.m3u",
+			"import": "false"
+		},{
 			"name": "PLUTO TV",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/AIO.w3u",
