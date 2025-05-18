@@ -2387,7 +2387,7 @@
 		 },{
 		"name": "LIVE SPORTS",
 		"image": "https://i.ibb.co/xkyVWXH/Sin-t-tulo-removebg-preview.png",
-		"url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/m3u/FreeLiveSportsTV_tv.m3u",
+		"url": "https://raw.githubusercontent.com/HelmerLuzo/FreeLiveSportsTV_HL/refs/heads/main/tv/w3u/FreeLiveSportsTV_tv.w3u",
 		"import": "false"
 			},{
 		"name": "CANALES 3",
