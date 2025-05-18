@@ -130,14 +130,14 @@
 			"image": "https://i.ibb.co/bMYDjL5g/rally.png",
 			"stations": [{
 					"name": "RALLYTV",
-					"info": "SERVIDOR 1",
-					"image": "",
-					"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
-					},{
-					"name": "RALLYTV",
 					"info": "SERVIDOR 2",
 					"image": "",
 					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+					},{
+					"name": "BT SPORT 2",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/HG4cZpT/BTS.png",
+					"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
 					}]
 			},{
 			"name": "DAKAR",
