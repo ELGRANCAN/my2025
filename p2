@@ -1,4 +1,4 @@
-{   "name": "ACT010625",
+{   "name": "ACT160625",
     "groups": [{
 		"name": "MOTOR",
 		"image": "https://i.ibb.co/9hLkpmq/motor.png",
@@ -34,7 +34,7 @@
 					"name": "DAZN F1",
 					"info": "SERVIDOR 5",
 					"image": "https://i.ibb.co/Xjhb97f/daznf1.png",
-					"url": "acestream://d8068894248c1f21eea31e538917276a8c49ec06"
+					"url": "acestream://b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1"
 					},{
 					"name": "DAZN F1",
 					"info": "SERVIDOR 6",
@@ -44,17 +44,17 @@
 					"name": "DAZN F1",
 					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/Xjhb97f/daznf1.png",
-					"url": "acestream://2c6e4c897661e6b0257bfe931b66d20b2ec763b6"
+					"url": "acestream://bcf9dc38f92e90a71b87bd54b3bac91b76d09a69"
 					},{
 					"name": "DAZN F1",
 					"info": "SERVIDOR 8",
 					"image": "https://i.ibb.co/Xjhb97f/daznf1.png",
-					"url": "acestream://71eef80158aa8b37f3dc59f6793c6696df9a2dfa"
+					"url": "acestream://fd53cfa7055fe458d4f5c0ff59a06cd43723be55"
 					},{
 					"name": "DAZN F1",
 					"info": "SERVIDOR 9",
 					"image": "https://i.ibb.co/Xjhb97f/daznf1.png",
-					"url": "acestream://268289e7a3c5209960b53b4d43c8c65fab294b85"
+					"url": "acestream://ed6188dcbb491efeb2092c1a6199226c27f61727"
 					},{
 					"name": "SKYSPORT F1",
 					"info": "SERVIDOR 1",
@@ -83,10 +83,25 @@
 					"name": "DAZN 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+					"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
 					"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
 					},{
@@ -98,15 +113,30 @@
 					"name": "DAZN 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+					"url": "acestream://8b081c8afbd9beafc8c5fbf0115eb36eadb07a35"
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+					"url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 6",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
 					"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
 					},{
@@ -118,10 +148,25 @@
 					"name": "DAZN 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/rftYgTY/dazn3.png",
+					"url": "acestream://3785f04aa15a5e6ef1484f0bea7f4664f2c1a4ea"
+					},{
+					"name": "DAZN 3",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/rftYgTY/dazn3.png",
 					"url": "acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9"
 					},{
 					"name": "DAZN 4",
 					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
+					"url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
+					},{
+					"name": "DAZN 4",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
+					"url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+					},{
+					"name": "DAZN 4",
+					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
 					"url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
 					}]
@@ -130,14 +175,14 @@
 			"image": "https://i.ibb.co/bMYDjL5g/rally.png",
 			"stations": [{
 					"name": "RALLYTV",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+					},{
+					"name": "RALLYTV",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
-					},{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
 					},{
 					"name": "BT SPORT 2",
 					"info": "SERVIDOR 1",
@@ -148,6 +193,11 @@
 			"name": "DAKAR",
 			"image": "https://i.ibb.co/hBm9TYK/dakar.png",
 			"stations": [{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
+					},{
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
@@ -166,17 +216,42 @@
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
+					"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
 					},{
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 5",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
 					"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
 					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
+					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
 					"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 1",
@@ -185,11 +260,6 @@
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 2",
-					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-					"url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-					},{
-					"name": "TDP",
-					"info": "SERVIDOR 3",
 					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 					"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
 					}]
@@ -211,76 +281,76 @@
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
 				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/W4j20Gtn/mplus2.png",
 				"url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
-				},{
+				},/*{
 					"name": "LALIGA TVBAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/pJDjpKB/laligabar.png",
 					"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
-					},{
-					"name": "LALIGA TVBAR",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/pJDjpKB/laligabar.png",
-					"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
-					},{
-					"name": "LALIGA TV",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde"
-					},{
-					"name": "LALIGA TV",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
-					},{
+					},*/{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+					"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+					"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+					"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+					"url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+					},{
+					"name": "LALIGA TV",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
+					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
+					},{
+					"name": "LALIGA TV",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
+					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
 					},{
 					"name": "LALIGA TV 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/CKDB9M6y/laliga2.png",
-					"url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
+					"url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec"
 					},{
 					"name": "LALIGA TV 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.postimg.cc/CKDB9M6y/laliga2.png",
-					"url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
+					"url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8"
 					},{
 					"name": "LALIGA TV 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/43zyBLms/laliga3.png",
-					"url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
+					"url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87"
 					},{
 					"name": "LALIGA TV 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.postimg.cc/43zyBLms/laliga3.png",
-					"url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
-					},{
+					"url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39"
+					}/*,{
 					"name": "LALIGA TV 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/KzGGQm6D/laliga4.png",
 					"url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
-					}/*,{
+					},{
 					"name": "LALIGA TV 5",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/bF0pd5Y/laliga5.png",
@@ -294,32 +364,22 @@
 					"name": "DAZN LALIGA",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/Wpn2Jvm/daznl.png",
-					"url": "acestream://110d441ddc9713a7452588770d2bc85504672f47"
+					"url": "acestream://e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05"
 					},{
 					"name": "DAZN LALIGA",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/Wpn2Jvm/daznl.png",
-					"url": "acestream://ec29289b0b14756e686c03a501bae1efa05be70c"
-					},{
-					"name": "DAZN LALIGA",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/Wpn2Jvm/daznl.png",
-					"url": "acestream://6de4794cd02f88f14354b5996823413a59a1de0f"
-					},{
-					"name": "DAZN LALIGA",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/Wpn2Jvm/daznl.png",
-					"url": "acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb"
+					"url": "acestream://4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f"
 					},{
 					"name": "DAZN LALIGA 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/mBZsh61/daznl2.png",
-					"url": "acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9"
+					"url": "acestream://a231b2fa1f7754433efeb8bb8d69d7b9096dcba8"
 					},{
 					"name": "DAZN LALIGA 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/mBZsh61/daznl2.png",
-					"url": "acestream://97ba38d47680954be40e48bd8f43e17222fefecb"
+					"url": "acestream://c976c7b37964322752db562b4ad65515509c8d36"
 					}/*,{
 					"name": "DAZN LALIGA 3",
 					"info": "SERVIDOR 1",
@@ -350,6 +410,11 @@
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
 				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/W4j20Gtn/mplus2.png",
@@ -358,43 +423,23 @@
 					"name": "HYPERMOTION",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/SwvXDTZ/hyper.png",
-					"url": "acestream://83e8a605ffebe2062f15dad76b6ffe9486a28eb3"
+					"url": "acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0"
 					},{
 					"name": "HYPERMOTION",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/SwvXDTZ/hyper.png",
-					"url": "acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb"
-					},{
-					"name": "HYPERMOTION",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/SwvXDTZ/hyper.png",
-					"url": "acestream://121f719ebb94193c6086ef92865cf9b197750980"
+					"url": "acestream://a4f072c9b614323ac1258a175f868a909ea3c8cd"
 					},{
 					"name": "HYPERMOTION 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/0rY0pDn/hyper2.png",
-					"url": "acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d"
-					},{
-					"name": "HYPERMOTION 2",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/0rY0pDn/hyper2.png",
-					"url": "acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a"
+					"url": "acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8"
 					},{
 					"name": "HYPERMOTION 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/JKhsczY/hyper3.png",
-					"url": "acestream://fefd45ed6ff415e05f1341b7d9da2988eacd13ea"
-					}/*,{
-					"name": "HYPERMOTION 4",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/SwvXDTZ/hyper.png",
-					"url": "acestream://"
-					},{
-					"name": "HYPERMOTION 5",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/SwvXDTZ/hyper.png",
-					"url": "acestream://"
-					}*/]
+					"url": "acestream://778d2f60bb7207addedcca0b9aed98f41529724e"
+					}]
 			},{
 			"name": "CHAMPIONS LEAGUE",
 			"image": "https://i.ibb.co/r7mX273/champions.png",
@@ -409,21 +454,16 @@
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
 				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/W4j20Gtn/mplus2.png",
 				"url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
 				},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
-					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
@@ -432,78 +472,53 @@
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+					"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+					"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+					"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
+					"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+					"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+					"url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+					"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
-					},{
-					"name": "CAMPEONES 3",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
-					},{
+					"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+					},/*{
 					"name": "CAMPEONES 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/XLTm7Sm/ligacam4.png",
@@ -583,16 +598,21 @@
 					"info": "SERVIDOR 1",
 					"image": "",
 					"url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-					},{
-					"name": "DAZN 1 BAR (DE)",
+					},*/{
+					"name": "DAZN 1 BAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+					"url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
 					},{
-					"name": "DAZN 2 BAR (DE)",
-					"info": "ACTIVO 24H",
+					"name": "DAZN 1 BAR",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://8e5d8387559b72217d01745e56733d63db779324"
+					},{
+					"name": "DAZN 2 BAR",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+					"url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
 					},{
 						"name": "BT SPORT 1",
 						"info": "SERVIDOR 1",
@@ -619,16 +639,6 @@
 			"image": "https://i.ibb.co/BN4b6Dd/euconferenceleague.png",
 			"stations": [{
 					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
-					},{
-					"name": "CAMPEONES",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
@@ -636,78 +646,53 @@
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+					"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+					"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+					"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
+					"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+					"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+					"url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+					"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
-					},{
-					"name": "CAMPEONES 3",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
-					},{
+					"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+					},/*{
 					"name": "CAMPEONES 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/XLTm7Sm/ligacam4.png",
@@ -787,16 +772,16 @@
 					"info": "SERVIDOR 1",
 					"image": "",
 					"url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-					},{
-					"name": "DAZN 1 BAR (DE)",
+					},*/{
+					"name": "DAZN 1 BAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+					"url": "acestream://8e5d8387559b72217d01745e56733d63db779324"
 					},{
-					"name": "DAZN 2 BAR (DE)",
-					"info": "ACTIVO 24H",
+					"name": "DAZN 2 BAR",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+					"url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
 					},{
 						"name": "BT SPORT 1",
 						"info": "SERVIDOR 1",
@@ -822,25 +807,60 @@
 			"name": "PREMIER LEAGUE",
 			"image": "https://i.ibb.co/J50bwxf/premier.png",
 			"stations": [{
-					"name": "PREMIER LEAGUE (UK)",
+					"name": "PREMIER LEAGUE",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
-					"url": "acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e"
+					"url": "acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565"
+					},{
+					"name": "PREMIER LEAGUE 2",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
+					"url": "acestream://4903ca695edb64bc72ae29eb85a5333ba0139537"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
+					"url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+					"url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
 					"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 1",
@@ -849,6 +869,26 @@
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 6",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
 					"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
 					},{
@@ -869,28 +909,23 @@
 					},{
 					"name": "DAZN 4",
 					"info": "SERVIDOR 1",
-					"image": "",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
 					"url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
 					},{
 					"name": "DAZN 4",
 					"info": "SERVIDOR 2",
-					"image": "",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
+					"url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+					},{
+					"name": "DAZN 4",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
 					"url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
 					}]
 			},{
 			"name": "EUROPA LEAGUE",
 			"image": "https://i.ibb.co/B29M2VH/europaleague.png",
 			"stations": [{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
-					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
@@ -899,78 +934,53 @@
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+					"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+					"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+					"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
+					"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+					"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+					"url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+					"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
-					},{
-					"name": "CAMPEONES 3",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
-					},{
+					"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+					},/*{
 					"name": "CAMPEONES 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/XLTm7Sm/ligacam4.png",
@@ -1050,16 +1060,16 @@
 					"info": "SERVIDOR 1",
 					"image": "",
 					"url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-					},{
-					"name": "DAZN 1 BAR (DE)",
+					},*/{
+					"name": "DAZN 1 BAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+					"url": "acestream://8e5d8387559b72217d01745e56733d63db779324"
 					},{
-					"name": "DAZN 2 BAR (DE)",
-					"info": "ACTIVO 24H",
+					"name": "DAZN 2 BAR",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+					"url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
 					},{
 						"name": "BT SPORT 1",
 						"info": "SERVIDOR 1",
@@ -1096,16 +1106,6 @@
 			"image": "https://i.ibb.co/HG5sGL9/bundesliga.png",
 			"stations": [{
 					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
-					},{
-					"name": "CAMPEONES",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
@@ -1113,78 +1113,53 @@
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+					"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+					"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+					"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
+					"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+					"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+					"url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+					"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
-					},{
-					"name": "CAMPEONES 3",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
-					},{
+					"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+					},/*{
 					"name": "CAMPEONES 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/XLTm7Sm/ligacam4.png",
@@ -1264,16 +1239,21 @@
 					"info": "SERVIDOR 1",
 					"image": "",
 					"url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-					},{
-					"name": "DAZN 1 BAR (DE)",
+					},*/{
+					"name": "DAZN 1 BAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+					"url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
 					},{
-					"name": "DAZN 2 BAR (DE)",
-					"info": "ACTIVO 24H",
+					"name": "DAZN 1 BAR",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://8e5d8387559b72217d01745e56733d63db779324"
+					},{
+					"name": "DAZN 2 BAR",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+					"url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
 					},{
 						"name": "BT SPORT 1",
 						"info": "SERVIDOR 1",
@@ -1355,16 +1335,6 @@
 			"image": "https://i.ibb.co/wzNsJmK/seriea.png",
 			"stations": [{
 					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://152169ce99e1fd27f2249c18384a121079cdef29"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://7b8d9d280e8a3a9ccbdf560a63b3652b4f0d6f13"
-					},{
-					"name": "CAMPEONES",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
@@ -1372,78 +1342,53 @@
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc"
+					"url": "acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a"
+					"url": "acestream://2b51710cee513e8939785fa3e7980f32d4e0415f"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0"
+					"url": "acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://6d88c66c89f3dbe1e6dacb5a8f7c9a98b12e6c63"
+					"url": "acestream://b028202ff335911db3118bceac027df3e8ef6c32"
 					},{
 					"name": "CAMPEONES",
 					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://a9025d4e168764248d33129c30940502cea0e1c2"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
-					"url": "acestream://47223e64a576c21bd61e818a42397a753d34fba5"
-					},{
-					"name": "CAMPEONES",
-					"info": "SERVIDOR 7",
 					"image": "https://i.ibb.co/KxCPKMy/ligacam.png",
 					"url": "acestream://e572a5178ff72eed7d1d751a18b4b3419699f370"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb"
+					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f"
+					"url": "acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5"
 					},{
 					"name": "CAMPEONES 2",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://3bb6c5f346369d4f2a6bde45ec0bfe100d0e1f42"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://4c6ed0cd87c090f3cf85b2c8adbe8b37dba08565"
-					},{
-					"name": "CAMPEONES 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/YTgRkv6/ligacam2.png",
-					"url": "acestream://abdf9058786a48623d0de51a3adb414ae10b6e72"
+					"url": "acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d"
+					"url": "acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7"
 					},{
 					"name": "CAMPEONES 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://4fc2fce0d019bdb622164bba3cff84c120fb9243"
-					},{
-					"name": "CAMPEONES 3",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/56Mbzww/ligacam3.png",
-					"url": "acestream://15127320406cf6a072c4f485f31c841d7d3e62f3"
-					},{
+					"url": "acestream://cfc371890bfb502737a26de5215e50929c52d0f9"
+					},/*{
 					"name": "CAMPEONES 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/XLTm7Sm/ligacam4.png",
@@ -1523,16 +1468,21 @@
 					"info": "SERVIDOR 1",
 					"image": "",
 					"url": "acestream://a15a132ffe7867a2b61b49617df39a8309cce27c"
-					},{
-					"name": "DAZN 1 BAR (DE)",
+					},*/{
+					"name": "DAZN 1 BAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://897e73c9d578848f596585314ecb9ae067c0e229"
+					"url": "acestream://688e785893b50acc1d00cb37f15bfc42e72f5ae3"
 					},{
-					"name": "DAZN 2 BAR (DE)",
-					"info": "ACTIVO 24H",
+					"name": "DAZN 1 BAR",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://8e5d8387559b72217d01745e56733d63db779324"
+					},{
+					"name": "DAZN 2 BAR",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
-					"url": "acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865"
+					"url": "acestream://2f9211669499f413dab1a490198afab2a9b4b57c"
 					},{
 						"name": "BT SPORT 1",
 						"info": "SERVIDOR 1",
@@ -1642,76 +1592,86 @@
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
 				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/W4j20Gtn/mplus2.png",
 				"url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
-				},{
+				},/*{
 					"name": "LALIGA TVBAR",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/pJDjpKB/laligabar.png",
 					"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
-					},{
-					"name": "LALIGA TVBAR",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/pJDjpKB/laligabar.png",
-					"url": "acestream://94d34491106e00394835c8cb68aa94481339b53f"
-					},{
-					"name": "LALIGA TV",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://d15a0eaf825b5f8f94259d5209688a7e97e6acde"
-					},{
-					"name": "LALIGA TV",
-					"info": "SERVIDOR 4K",
-					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
-					},{
+					},*/{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://d3de78aebe544611a2347f54d5796bd87f16c92d"
+					"url": "acestream://00c9bc9c5d7d87680a5a6bed349edfa775a89947"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163"
+					"url": "acestream://c9321006921967d6258df6945f1d598a5c0cbf1e"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e"
+					"url": "acestream://4b528d10eaad747ddf52251206177573ee3e9f74"
 					},{
 					"name": "LALIGA TV",
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
-					"url": "acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e"
+					"url": "acestream://14b6cd8769cd485f2cffdca64be9698d9bfeac58"
+					},{
+					"name": "LALIGA TV",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
+					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
+					},{
+					"name": "LALIGA TV",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/Rp7mvWN/laliga.png",
+					"url": "acestream://cc9b7f5fe416069a2110da0909b0f915043c468b"
 					},{
 					"name": "LALIGA TV 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/CKDB9M6y/laliga2.png",
-					"url": "acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3"
+					"url": "acestream://51b363b1c4d42724e05240ad068ad219df8042ec"
 					},{
 					"name": "LALIGA TV 2",
 					"info": "SERVIDOR 2",
 					"image": "https://i.postimg.cc/CKDB9M6y/laliga2.png",
-					"url": "acestream://f31a586422c9244196c810c84b6c85da350318a5"
+					"url": "acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8"
 					},{
 					"name": "LALIGA TV 3",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/43zyBLms/laliga3.png",
-					"url": "acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4"
+					"url": "acestream://7ad14386deef2f45ffe17d30a631dbf79b6a1a87"
 					},{
 					"name": "LALIGA TV 3",
 					"info": "SERVIDOR 2",
 					"image": "https://i.postimg.cc/43zyBLms/laliga3.png",
-					"url": "acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1"
-					},{
+					"url": "acestream://382b14499e3d76e557d449d2e5bbc4e4bd63bd39"
+					}/*,{
 					"name": "LALIGA TV 4",
 					"info": "SERVIDOR 1",
 					"image": "https://i.postimg.cc/KzGGQm6D/laliga4.png",
 					"url": "acestream://68697ea4f261289d97bbc3418ad3cbc4180aa32f"
-					}]
+					},{
+					"name": "LALIGA TV 5",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/bF0pd5Y/laliga5.png",
+					"url": "acestream://"
+					},{
+					"name": "LALIGA TV 6",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/TWHN2Xh/laliga6.png",
+					"url": "acestream://"
+					}*/]
 			},{
 			"name": "SUPERCOPA",
 			"image": "https://i.ibb.co/89w6yyQ/supercopa.png",
@@ -1725,6 +1685,11 @@
 				"info": "SERVIDOR 2",
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
 				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
@@ -1757,11 +1722,6 @@
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 2",
-					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-					"url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-					},{
-					"name": "TDP",
-					"info": "SERVIDOR 3",
 					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 					"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
 					},{
@@ -1805,6 +1765,11 @@
 				"image": "https://i.ibb.co/t2gXsr8/nba.png",
 				"url": "acestream://e72d03fb9694164317260f684470be9ab781ed95"
 				},{
+				"name": "NBA TV",
+				"info": "SERVIDOR 2",
+				"image": "https://i.ibb.co/t2gXsr8/nba.png",
+				"url": "acestream://7acefb808a6c67d95e977b452d53070947bd072b"
+				},{
 				"name": "MOVISTAR+",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
@@ -1814,6 +1779,11 @@
 				"info": "SERVIDOR 2",
 				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
 				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
 				},{
 				"name": "MOVISTAR+ 2",
 				"info": "SERVIDOR 1",
@@ -1838,17 +1808,22 @@
 				"name": "#VAMOS",
 				"info": "SERVIDOR 4",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
+				"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
 				},{
 				"name": "#VAMOS",
 				"info": "SERVIDOR 5",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
+				"url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
 				},{
 				"name": "#VAMOS",
 				"info": "SERVIDOR 6",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
+				"url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+				},{
+				"name": "#VAMOS",
+				"info": "SERVIDOR 7",
+				"image": "https://i.ibb.co/z5f02nn/vamos.png",
+				"url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
 				},{
 				"name": "#VAMOS ELLAS",
 				"info": "SERVIDOR 1",
@@ -1857,11 +1832,6 @@
 				},{
 				"name": "#VAMOS ELLAS",
 				"info": "SERVIDOR 2",
-				"image": "https://i.postimg.cc/VLRFHg09/vell.png",
-				"url": "acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc"
-				},{
-				"name": "#VAMOS ELLAS",
-				"info": "SERVIDOR 3",
 				"image": "https://i.postimg.cc/VLRFHg09/vell.png",
 				"url": "acestream://d8c2ed470e847154a88f011137cc206319f6bed5"
 				},{
@@ -1888,20 +1858,15 @@
 				"name": "DEPORTES",
 				"info": "SERVIDOR 4",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://67a33c3f74956eed14b9b400523462fe362e0e66"
+				"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
 				},{
 				"name": "DEPORTES",
 				"info": "SERVIDOR 5",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
-				},{
-				"name": "DEPORTES",
-				"info": "SERVIDOR 6",
-				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
 				"url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
 				},{
 				"name": "DEPORTES",
-				"info": "SERVIDOR 7",
+				"info": "SERVIDOR 6",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
 				"url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
 				},{
@@ -1959,6 +1924,26 @@
 			"name": "TENIS",
 			"image": "https://i.ibb.co/0nTkz1H/tenis.png",
 			"stations": [{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 1",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://b2a4d1eba9b46df5f52a87105df779f9d39abeb4"
+				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 2",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://56ac8e227d526e722624675ccdd91b0cc850582f"
+				},{
+				"name": "MOVISTAR+",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/0fsZjLQ/mplus.png",
+				"url": "acestream://1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78"
+				},{
+				"name": "MOVISTAR+ 2",
+				"info": "SERVIDOR 1",
+				"image": "https://i.ibb.co/W4j20Gtn/mplus2.png",
+				"url": "acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c"
+				},{
 				"name": "#VAMOS",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
@@ -1977,17 +1962,22 @@
 				"name": "#VAMOS",
 				"info": "SERVIDOR 4",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://1205151f6fa5d95c0eeb543cbce43ccfa6a1b216"
+				"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
 				},{
 				"name": "#VAMOS",
 				"info": "SERVIDOR 5",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2"
+				"url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
 				},{
 				"name": "#VAMOS",
 				"info": "SERVIDOR 6",
 				"image": "https://i.ibb.co/z5f02nn/vamos.png",
-				"url": "acestream://12ba546d229bc39f01c3c18988a034b215fe6adb"
+				"url": "acestream://c7c81acdd1a03ecc418c94c2f28e2adb0556c40b"
+				},{
+				"name": "#VAMOS",
+				"info": "SERVIDOR 7",
+				"image": "https://i.ibb.co/z5f02nn/vamos.png",
+				"url": "acestream://0e5d8c9724fa9163f49096b70484e315251eb785"
 				},{
 				"name": "#VAMOS ELLAS",
 				"info": "SERVIDOR 1",
@@ -1997,27 +1987,52 @@
 				"name": "#VAMOS ELLAS",
 				"info": "SERVIDOR 2",
 				"image": "https://i.postimg.cc/VLRFHg09/vell.png",
-				"url": "acestream://ab0d8baaf889017c5e87b2e484203a359585c9dc"
-				},{
-				"name": "#VAMOS ELLAS",
-				"info": "SERVIDOR 3",
-				"image": "https://i.postimg.cc/VLRFHg09/vell.png",
 				"url": "acestream://d8c2ed470e847154a88f011137cc206319f6bed5"
 				},{
 					"name": "DAZN 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+					},{
+					"name": "DAZN 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
+					"url": "acestream://6538b79ce0da657d8455d1da6a5f342398899a0e"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
-					"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+					"url": "acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9"
 					},{
 					"name": "DAZN 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://4141892f5df7d6474bf0279895ce02b7336c9928"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://6a1703a6bbe6110a1d27f35a41c88661e1740bfa"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://35c7f0c966ecde3390f4510bb4caded40018c07a"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
+					"url": "acestream://eb6ffec065b26259ad3d1811e0bbb0a5332ed276"
+					},{
+					"name": "DAZN 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/1d4whFq/dazn1.png",
 					"url": "acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 1",
@@ -2026,6 +2041,26 @@
 					},{
 					"name": "DAZN 2",
 					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://0f5402f75107112d59d924a5f381cfed33dbe6d2"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://a929eeec1268d69d1556a2e3ace793b2577d8810"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
+					"url": "acestream://ae68a0835039fab28fd2314108fabd4fab33b8ab"
+					},{
+					"name": "DAZN 2",
+					"info": "SERVIDOR 6",
 					"image": "https://i.ibb.co/X80kGZd/dazn2.png",
 					"url": "acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516"
 					},{
@@ -2046,54 +2081,99 @@
 					},{
 					"name": "DAZN 4",
 					"info": "SERVIDOR 1",
-					"image": "",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
 					"url": "acestream://7e27e46c25d4308d16098d9dc67fcd8736e8c1f0"
 					},{
 					"name": "DAZN 4",
 					"info": "SERVIDOR 2",
-					"image": "",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
+					"url": "acestream://75306ac6ffbe33b08c5c28487674f75f012c7f50"
+					},{
+					"name": "DAZN 4",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/5WBkSGqn/dazn4.png",
 					"url": "acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8"
 					},{
 				"name": "DEPORTES",
+				"info": "SERVIDOR 0",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
+				},{
+				"name": "DEPORTES",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://81c467f75aa3e4b02361730bb8973ca2234cf684"
+				"url": "acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a"
 				},{
 				"name": "DEPORTES",
 				"info": "SERVIDOR 2",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://b5842718859345a596107ab8e6b24d7bfa2d617e"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://be02b9918b8fe7224cfa9af1e37856760f95b1b8"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 4",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 5",
+				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
+				"url": "acestream://3a74d9869b13e763476800740c6625e715a39879"
+				},{
+				"name": "DEPORTES",
+				"info": "SERVIDOR 6",
 				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
 				"url": "acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3"
 				},{
 				"name": "DEPORTES 2",
 				"info": "SERVIDOR 1",
-				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://911b6c35f4802fd358b78b328528af4650eca020"
+				"image": "https://i.ibb.co/JF2LYRFB/deportes2.png",
+				"url": "acestream://edd06f11e1cef292a1d795e15207ef2f580e298c"
 				},{
 				"name": "DEPORTES 2",
 				"info": "SERVIDOR 2",
-				"image": "https://i.ibb.co/x1YrpX1/deportes.png",
-				"url": "acestream://d80d6e2a4350bc9886fbb55a2149b3de3c057ddf"
+				"image": "https://i.ibb.co/JF2LYRFB/deportes2.png",
+				"url": "acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7"
 				},{
 				"name": "DEPORTES 3",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/GCT8Zyj/deportes3.png",
-				"url": "acestream://dba6e81dab3150e40ca49bef03f931a990bb93ea"
+				"url": "acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee"
 				},{
 				"name": "DEPORTES 4",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/c6mC5xG/deportes4.png",
-				"url": "acestream://77b36b785e84efa9a41d2a1ef90dd9652b8d2916"
+				"url": "acestream://58a4c880ab18486d914751db32a12760e74b75a4"
 				},{
 				"name": "DEPORTES 5",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/55Y5jpK/deportes5.png",
-				"url": "acestream://5ff896ae397b57a68435b25cde2937fac3e6cec1"
+				"url": "acestream://f6961e0dbf9b6ede4f5be93b72dc15533b4063d4"
+				},{
+				"name": "DEPORTES 5",
+				"info": "SERVIDOR 2",
+				"image": "https://i.ibb.co/55Y5jpK/deportes5.png",
+				"url": "acestream://fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac"
 				},{
 				"name": "DEPORTES 6",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/C9sjhnQ/deportes6.png",
-				"url": "acestream://7ba003da71c2af61e5dd16c75ca025494769aa88"
+				"url": "acestream://cc5782d37ae6b6e0bab396dd64074982d0879046"
 				},{
+				"name": "DEPORTES 7",
+				"info": "SERVIDOR 1",
+				"image": "https://i.ibb.co/pZdtLgs/deportes7.png",
+				"url": "acestream://070f82d6443a52962d6a2ed9954c979b29404932"
+				},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
+					},{
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
@@ -2107,12 +2187,47 @@
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
+					"url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
 					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
+					"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 1",
@@ -2121,11 +2236,6 @@
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 2",
-					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-					"url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-					},{
-					"name": "TDP",
-					"info": "SERVIDOR 3",
 					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
 					"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
 					},{
@@ -2137,12 +2247,12 @@
 					"name": "TENNIS CHANNEL",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/Mn49R4q/tc.png",
-					"url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
+					"url": "acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf"
 					},{
 					"name": "TENNIS CHANNEL",
 					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/Mn49R4q/tc.png",
-					"url": "acestream://eefe89d7b0a73e207622f2f9b7e5bffce9727ae4"
+					"url": "acestream://039fae21c9e7e5214d3d898cba80863e37e623ac"
 					},{
 					"name": "TENNIS CHANNEL",
 					"info": "SERVIDOR 3",
@@ -2154,7 +2264,7 @@
 					"image": "https://i.ibb.co/Mn49R4q/tc.png",
 					"url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8"
 					},{
-					"name": "MAIN EVENT (UK)",
+					"name": "MAIN EVENT",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
 					"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
@@ -2163,6 +2273,11 @@
 		"name": "CICLISMO",
 		"image": "https://i.ibb.co/n8nMrSv/ciclismo.png",
 		"stations": [{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
+					},{
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
@@ -2176,28 +2291,58 @@
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
+					"url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
 					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
+					"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
 					},{
-				"name": "TDP",
-				"info": "SERVIDOR 1",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-				"url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
-				},{
-				"name": "TDP",
-				"info": "SERVIDOR 2",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-				"url": "https://rtvelivestream-clnx.rtve.es/rtvesec/tdp/tdp_main.m3u8"
-				},{
-				"name": "TDP",
-				"info": "SERVIDOR 3",
-				"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
-				"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
-				},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+					},{
+					"name": "TDP",
+					"info": "SERVIDOR 1",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+					"url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
+					},{
+					"name": "TDP",
+					"info": "SERVIDOR 2",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+					"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
+					},{
 				"name": "LA 1",
 				"info": "SERVIDOR 1",
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
@@ -2223,7 +2368,7 @@
 				"url": "acestream://8546cff89e4ee8bf3ad31cf6457c3bc2c4341031"
 				},{
 				"name": "M. GOLF",
-				"info": "SERVIDOR 2",
+				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/T2DS4dc/golf.png",
 				"url": "acestream://872608e734992db636eb79426802cd08f4029afb"
 				},{
@@ -2231,39 +2376,21 @@
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/cD7k23Q/golf2.png",
 				"url": "acestream://96e82321c731e41768a806992ee4d3b9b7a0e7d7"
-				},{
+				},/*{
 				"name": "ZIGGO GOLF",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/yBcc6kx/ziggosgo.png",
 				"url": "acestream://05c698a31324b497334207aedf68a011dad62347"
-				},{
-				"name": "ZIGGO GOLF (BE)",
-				"info": "SERVIDOR 2",
-				"image": "https://i.ibb.co/yBcc6kx/ziggosgo.png",
-				"url": "acestream://035e34b791335962ca817f42fd14300382af3797"
-				},{
-				"name": "GOLF CHANNEL (PL)",
-				"info": "SERVIDOR 1",
-				"image": "https://i.ibb.co/XD91wyv/ziggos.png",
-				"url": "acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689"
-				},{
+				},*/{
 				"name": "ONEGOLF",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/XD91wyv/ziggos.png",
 				"url": "acestream://60e1595db53c6af5339b50ad21d957ad9a44a311"
 				},{
-				"name": "MAIN EVENT (UK)",
+				"name": "MAIN EVENT",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
 				"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
-				},{
-				"name": "SKY SPORT GOLF",
-				"info": "SERVIDOR 1",
-				"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
-				"url": "https://webufffit.mizhls.ru/lb/skygolf/index.m3u8",
-				"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
-				"referer" : "https://qqwebplay.xyz/",
-				"online":"true"
 				}]
 		},{
 		"name": "CANALES 1",
@@ -2279,6 +2406,16 @@
 		"name": "UFC",
 		"image": "https://i.ibb.co/rbg5xCv/ufc.png",
 		"stations": [{
+				"name": "UFC FIGHT PASS",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139"
+				},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
+					},{
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
@@ -2292,12 +2429,47 @@
 					"name": "EUROSPORT 1",
 					"info": "SERVIDOR 3",
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://1d04e3b27c2ac3ff52dc949e76f36207fbb235c4"
+					"url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 6",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
 					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://4b87a5b67f39dfc151a163ec8c08039520f0a372"
+					"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
 					},{
 				"name": "FS PREMIUM",
 				"info": "SERVIDOR 1",
