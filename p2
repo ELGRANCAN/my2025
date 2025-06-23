@@ -2614,12 +2614,12 @@
 		},{
 		"name": "",
 		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-		"url": "https://0000",
+		"url": "",
 		"import": "false"
 		},{
 		"name": "",
 		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-		"url": "https://0000",
+		"url": "",
 		"import": "false"
 		},{
 		"name": "HOLLYWOOD",
@@ -2631,23 +2631,28 @@
 				"url": "http://188.40.59.230:5100/hollywood"
 				}]
 		},{
-		"name": "M. ACCIÓN",
-		"image": "https://i.postimg.cc/HWbzLNtz/accion.png",
+		"name": "MOVISTAR",
+		"image": "https://i.postimg.cc/TwZvRsfg/mov.png",
 		"stations": [{
-				"name": "M. ACCIÓN",
+				"name": "ACCIÓN",
 				"info": "SERVIDOR 01",
 				"image": "https://i.postimg.cc/HWbzLNtz/accion.png",
 				"url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+				},{
+				"name": "HITS",
+				"info": "SERVIDOR 01",
+				"image": "https://i.postimg.cc/wjdx51KL/hits.png",
+				"url": "acestream://2752dee68a7faa9c847216dc22a6821661db891a"
 				}]
 		},{
 		"name": "",
 		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-		"url": "https://0000",
+		"url": "",
 		"import": "false"
 		},{
 		"name": "",
 		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-		"url": "https://0000",
+		"url": "",
 		"import": "false"
 		}]
 }
