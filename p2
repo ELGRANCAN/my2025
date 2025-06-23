@@ -228,6 +228,11 @@
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
 					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
 					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
+					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
@@ -252,6 +257,11 @@
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
 					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 1",
@@ -2204,6 +2214,11 @@
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
 					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
 					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
+					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
@@ -2228,6 +2243,11 @@
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
 					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 1",
@@ -2308,6 +2328,11 @@
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
 					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
 					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
+					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
@@ -2332,6 +2357,11 @@
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
 					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
 					},{
 					"name": "TDP",
 					"info": "SERVIDOR 1",
@@ -2446,6 +2476,11 @@
 					"image": "https://i.ibb.co/KWtftN6/euro1.png",
 					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
 					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
+					},{
 					"name": "EUROSPORT 2",
 					"info": "SERVIDOR 0",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
@@ -2470,6 +2505,11 @@
 					"info": "SERVIDOR 4",
 					"image": "https://i.ibb.co/KwfzXms/euro2.png",
 					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
 					},{
 				"name": "FS PREMIUM",
 				"info": "SERVIDOR 1",
@@ -2570,6 +2610,34 @@
 		"name": "CANALES 4",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/inter",
+		"import": "false"
+		},{
+		"name": "",
+		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+		"url": "",
+		"import": "false"
+		},{
+		"name": "",
+		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+		"url": "",
+		"import": "false"
+		},{
+		"name": "HOLLYWOOD",
+		"image": "https://i.postimg.cc/hjfYw0Fw/hollywood.png",
+		"url": "http://188.40.59.230:5100/hollywood"
+		},{
+		"name": "M. ACCIÓN",
+		"image": "https://i.postimg.cc/HWbzLNtz/accion.png",
+		"url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+		},{
+		"name": "",
+		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+		"url": "",
+		"import": "false"
+		},{
+		"name": "",
+		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+		"url": "",
 		"import": "false"
 		}]
 }
