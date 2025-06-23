@@ -2601,7 +2601,7 @@
 		"image": "https://i.ibb.co/xkyVWXH/Sin-t-tulo-removebg-preview.png",
 		"url": "https://raw.githubusercontent.com/HelmerLuzo/FreeLiveSportsTV_HL/refs/heads/main/tv/w3u/FreeLiveSportsTV_tv.w3u",
 		"import": "false"
-			},{
+		},{
 		"name": "CANALES 3",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"url": "https://search-ace.stream/playlist",
@@ -2624,11 +2624,21 @@
 		},{
 		"name": "HOLLYWOOD",
 		"image": "https://i.postimg.cc/hjfYw0Fw/hollywood.png",
-		"url": "http://188.40.59.230:5100/hollywood"
+		"stations": [{
+				"name": "HOLLYWOOD",
+				"info": "SERVIDOR 01",
+				"image": "https://i.postimg.cc/hjfYw0Fw/hollywood.png",
+				"url": "http://188.40.59.230:5100/hollywood"
+				}]
 		},{
 		"name": "M. ACCIÓN",
 		"image": "https://i.postimg.cc/HWbzLNtz/accion.png",
-		"url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+		"stations": [{
+				"name": "M. ACCIÓN",
+				"info": "SERVIDOR 01",
+				"image": "https://i.postimg.cc/HWbzLNtz/accion.png",
+				"url": "acestream://102bcb79ca391e37ac1fc9ee77dc53440d0a59ce"
+				}]
 		},{
 		"name": "",
 		"image": "https://i.postimg.cc/TwJKznrV/blank.png",
