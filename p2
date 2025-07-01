@@ -1,5 +1,5 @@
-{   "name": "ACT230625",
-    "groups": [{
+{   "name": "ACT010725",
+    "groups": [/*{
 		"name": "MOTOR",
 		"image": "https://i.ibb.co/9hLkpmq/motor.png",
 			"groups": [{
@@ -2457,7 +2457,7 @@
 				"image": "https://i.ibb.co/GHM1RBJ/skysport.png",
 				"url": "acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e"
 				}]
-		},{
+		},*/{
 		"name": "CANALES 1",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
@@ -2465,7 +2465,7 @@
 			},{
 		"name": "CANALES 2",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-		"url": "https://proxy.zeronet.dev/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista%20acestream.m3u",
+		"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 		"import": "false"
 			},{
 		"name": "UFC",
@@ -2476,76 +2476,6 @@
 				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
 				"url": "acestream://0ce88d9e7273fddbc9b49f578b6b255513697139"
 				},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 0",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://bae98f69fbf867550b4f73b4eb176dae84d7f909"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://714e14e6d6e27660fd25a75b57b0ac5580fe705d"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://16ffa1713f42aa27317ee039a2bd0cdbc89a1580"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://c3da6c4f91d9d10ade00318a869435e19f204d0e"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 6",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "acestream://d830c1dc3b74e74f79cbb823804cf2037857e78a"
-					},{
-					"name": "EUROSPORT 1",
-					"info": "SERVIDOR 7",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 0",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://2773b39926d15dd3d9495d94c4050604792d7031"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 3",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://0585e09bb8ac9720e4c11934f1b184e309291551"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 4",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "acestream://5c910d614894635153a7d42de98cc2e4a958a53f"
-					},{
-					"name": "EUROSPORT 2",
-					"info": "SERVIDOR 5",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
-					},{
 				"name": "FS PREMIUM",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/zVzx6VY/foxsports.png",
