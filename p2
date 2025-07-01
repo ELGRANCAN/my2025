@@ -111,12 +111,12 @@
 		},{
 		"name": "CANALES 3",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-		"url": "https://search-ace.stream/playlist",
+		"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
 		"import": "false"
 		},{
 		"name": "CANALES 4",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-		"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
+		"url": "https://search-ace.stream/playlist",
 		"import": "false"
 		}]
 }
