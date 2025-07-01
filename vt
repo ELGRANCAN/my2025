@@ -1,15 +1,5 @@
 {   "name": "TV ONLINE",
     "groups": [{
-			"name": "TDTChannels (TV)",
-			"image": "https://i.ibb.co/VWN9K2Yc/tdtc.png",
-			"url": "https://www.tdtchannels.com/lists/tv.m3u",
-			"import": "false"
-		},{
-			"name": "TDTChannels (Radio)",
-			"image": "https://i.ibb.co/VWN9K2Yc/tdtc.png",
-			"url": "https://www.tdtchannels.com/lists/radio.m3u",
-			"import": "false"
-		},{
 			"name": "PLUTO TV",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/AIO.w3u",
@@ -33,6 +23,11 @@
 			"name": "CANELATV",
 			"image": "https://i.ibb.co/tP4DY3R/canelatv.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR X3",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/x3",
 			"import": "false"
 		}]
 }
