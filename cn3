@@ -36,27 +36,8 @@
 				"name": "NBA TV",
 				"info": "SERVIDOR 3",
 				"image": "https://i.ibb.co/t2gXsr8/nba.png",
-				"url": "acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856"
-				},{
-				"name": "NBA TV",
-				"info": "SERVIDOR 4",
-				"image": "https://i.ibb.co/t2gXsr8/nba.png",
-				"url": "acestream://435b481700ca9a87336285c828d292a0bbe23739"
+				"url": "acestream://518b2f0e86619f003b7f9c16b4a464e93ab9b6ea"
 				}] 
-		 },{
-			"name": "RALLY",
-			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-			"stations": [{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-					},{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
-					}]
 		 },{
 			"name": "DAZN",
 			"image": "https://i.ibb.co/q9CjnCn/dazn.png",
