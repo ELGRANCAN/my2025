@@ -32,11 +32,6 @@
 				"info": "SERVIDOR 2",
 				"image": "https://i.ibb.co/t2gXsr8/nba.png",
 				"url": "acestream://7acefb808a6c67d95e977b452d53070947bd072b"
-				},{
-				"name": "NBA TV",
-				"info": "SERVIDOR 3",
-				"image": "https://i.ibb.co/t2gXsr8/nba.png",
-				"url": "acestream://518b2f0e86619f003b7f9c16b4a464e93ab9b6ea"
 				}] 
 		 },{
 			"name": "DAZN",
