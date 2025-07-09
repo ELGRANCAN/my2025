@@ -32,7 +32,17 @@
 				"info": "SERVIDOR 2",
 				"image": "https://i.ibb.co/t2gXsr8/nba.png",
 				"url": "acestream://7acefb808a6c67d95e977b452d53070947bd072b"
-				}]
+				},{
+				"name": "NBA TV",
+				"info": "SERVIDOR 3",
+				"image": "https://i.ibb.co/t2gXsr8/nba.png",
+				"url": "acestream://6ba718a6f5a638e2ae15de6904ea2fa553895856"
+				},{
+				"name": "NBA TV",
+				"info": "SERVIDOR 4",
+				"image": "https://i.ibb.co/t2gXsr8/nba.png",
+				"url": "acestream://435b481700ca9a87336285c828d292a0bbe23739"
+				}] 
 		 },{
 			"name": "RALLY",
 			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
