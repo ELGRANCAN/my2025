@@ -1,10 +1,5 @@
-{   "name": "ACT010725",
+{   "name": "ACT090725",
     "groups": [{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
-			"import": "false"
-		},{
 			"name": "CANALES 1",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
@@ -35,6 +30,16 @@
 			"url": "",
 			"import": "false"
 		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "",
+			"import": "false"
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "",
+			"import": "false"
+		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u",
@@ -53,11 +58,6 @@
 			"name": "SERVIDOR 04",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlIxeThKZVBsbjkzNkkwcF9CRWhzZDVCUlZ3SDYxbUxObXhzU2t3cFBhTERjbHBtWlBhX2FBWFlFMHRwdV9Xamhid3B6a1I2QlRybHc4Qy9wdWI/Z2lkPTc4MDQ4NjkwMyZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
 			"import": "false"
 		}]
 }
