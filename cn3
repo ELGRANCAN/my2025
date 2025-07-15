@@ -43,6 +43,39 @@
 					"url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8"
 					}]
 		 },{
+			"name": "TDP",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+			"stations": [{
+					"name": "TDP",
+					"info": "SERVIDOR 1",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+					"url": "https://ztnr.rtve.es/ztnr/1712295.m3u8"
+					},{
+					"name": "TDP",
+					"info": "SERVIDOR 2",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png",
+					"url": "https://d2a02gfcid1k4a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-clihr3vf54f9j/Teledeporte_ES.m3u8"
+					}]
+		 },{
+			"name": "LA1",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+			"stations": [{
+				"name": "LA 1",
+				"info": "SERVIDOR 1",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+				"url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
+				},{
+				"name": "LA 1",
+				"info": "SERVIDOR 2",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+				"url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8"
+				},{
+				"name": "LA 1",
+				"info": "SERVIDOR 3",
+				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png",
+				"url": "https://dh6vo1bovy43s.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x3gcl32l5ffq2/La_1_ES.m3u8"
+				}]
+		 },{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
 			"url": "",
