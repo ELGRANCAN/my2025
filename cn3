@@ -29,9 +29,9 @@
 					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
 					}]
 		 },{
-		"name": "COMBATE",
-		"image": "https://i.ibb.co/rbg5xCv/ufc.png",
-		"stations": [{
+			"name": "COMBATE",
+			"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+			"stations": [{
 				"name": "HARDK NOCKS",
 				"info": "SERVIDOR 1",
 				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
@@ -99,12 +99,12 @@
 				"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/1920px-TVE.svg.png",
 				"url": "https://ztnr.rtve.es/ztnr/1688877.m3u8"
 				}]
-		 }/*,{
+		 },{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
 			"url": "",
 			"import": "false"
-		}*/,{
+		},{
 		"name": "NBA TV",
 		"image": "https://i.ibb.co/t2gXsr8/nba.png",
 			"stations": [{
