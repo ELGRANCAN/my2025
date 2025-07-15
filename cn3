@@ -1,20 +1,6 @@
 {		"name": "CANALES 3",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"groups": [{
-			"name": "RALLY",
-			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-			"stations": [{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
-					},{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
-					}]
-		 },{
 			"name": "EUROSPORT",
 			"image": "https://i.ibb.co/5WZrcTkb/euro.png",
 			"stations": [{
@@ -39,6 +25,34 @@
 					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
 					}]
 			 }]
+		 },{
+			"name": "RALLY",
+			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+			"stations": [{
+					"name": "RALLYTV",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8"
+					},{
+					"name": "RALLYTV",
+					"info": "SERVIDOR 2",
+					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
+					}]
+		 },{
+			"name": "TENNIS CHANNEL",
+			"image": "https://i.ibb.co/Mn49R4q/tc.png",
+			"stations": [{
+					"name": "TENNIS CHANNEL",
+					"info": "SERVIDOR 3",
+					"image": "https://i.ibb.co/Mn49R4q/tc.png",
+					"url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
+					},{
+					"name": "TENNIS CHANNEL",
+					"info": "SERVIDOR 4",
+					"image": "https://i.ibb.co/Mn49R4q/tc.png",
+					"url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8"
+					}]
 		 },{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
