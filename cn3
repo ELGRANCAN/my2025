@@ -28,17 +28,51 @@
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
 					}]
+		 }{
+		"name": "COMBATE",
+		"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+		"stations": [{
+				"name": "HARDK NOCKS",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8"
+				},{
+				"name": "HARD KNOCKS",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
+				},{
+				"name": "BOXING TV",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v6.m3u8"
+				},{
+				"name": "BOXING TV",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8"
+				},{
+				"name": "AXS TV",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"
+				},{
+				"name": "PFL",
+				"info": "ACTIVO 24H",
+				"image": "https://i.ibb.co/rbg5xCv/ufc.png",
+				"url": "https://d856dff4.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/22e27f77-d243-40b2-9dd3-cb6efe6e61a0/5.m3u8"
+				}]
 		 },{
 			"name": "TENNIS CHANNEL",
 			"image": "https://i.ibb.co/Mn49R4q/tc.png",
 			"stations": [{
 					"name": "TENNIS CHANNEL",
-					"info": "SERVIDOR 3",
+					"info": "SERVIDOR 1",
 					"image": "https://i.ibb.co/Mn49R4q/tc.png",
 					"url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8"
 					},{
 					"name": "TENNIS CHANNEL",
-					"info": "SERVIDOR 4",
+					"info": "SERVIDOR 2",
 					"image": "https://i.ibb.co/Mn49R4q/tc.png",
 					"url": "https://jmp2.uk/sam-ESBD2600001ME.m3u8"
 					}]
