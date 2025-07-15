@@ -15,6 +15,31 @@
 					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
 					}]
 		 },{
+			"name": "EUROSPORT",
+			"image": "https://i.ibb.co/5WZrcTkb/euro.png",
+			"stations": [{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.189.225.157/EuroSport1/index.m3u8"
+					},{
+					"name": "EUROSPORT 1",
+					"info": "SERVIDOR 7",
+					"image": "https://i.ibb.co/KWtftN6/euro1.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/718615486"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 0",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
+					},{
+					"name": "EUROSPORT 2",
+					"info": "SERVIDOR 5",
+					"image": "https://i.ibb.co/KwfzXms/euro2.png",
+					"url": "http://185.112.249.46:9981/stream/channelid/737993602"
+					}]
+			 }]
+		 },{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
 			"url": "",
