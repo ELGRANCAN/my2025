@@ -30,9 +30,9 @@
 			"url": "https://search-ace.stream/playlist",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
+			"name": "PELÍCULAS 01",
+			"image": "",
+			"url": "https://elcano-kappa-sage.vercel.app/PelisAcestream.txt",
 			"import": "false"
 		},{
 			"name": "",
