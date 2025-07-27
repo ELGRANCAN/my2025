@@ -17,17 +17,17 @@
 		},{
 			"name": "CANALES 04",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://search-ace.stream/playlist",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
 			"import": "false"
 		},{
 			"name": "CANALES 05",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/cn5",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
+			"name": "CANALES 06",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://search-ace.stream/playlist",
 			"import": "false"
 		},{
 			"name": "",
