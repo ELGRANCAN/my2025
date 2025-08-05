@@ -1,0 +1,9 @@
+{	"name": "TEST",
+    "author": "TEST",
+    "stations": [{
+			"name": "MAGENTA 9 (DE)",
+					"info": "SERVIDOR 1",
+					"image": "https://i.ibb.co/PxJk0PP/magenta.png",
+					"url": "acestream://86495fe134ff065d5217497babe6be33f81d37d1"
+					}],"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/usr0011"
+}                                                                                                   
