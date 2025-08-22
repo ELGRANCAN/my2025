@@ -1,20 +1,6 @@
 {		"name": "CANALES 5",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"groups": [{
-			"name": "TEMPORALES",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"name": "ENLACE 01",
-					"info": "SIN ENLACE",
-					"image": "https://i.ibb.co/KWtftN6/euro1.png",
-					"url": ""
-					},{
-					"name": "ENLACE 02",
-					"info": "SIN ENLACE",
-					"image": "https://i.ibb.co/KwfzXms/euro2.png",
-					"url": ""
-					}]
-		 },{
 			"name": "EUROSPORT",
 			"image": "https://i.ibb.co/5WZrcTkb/euro.png",
 			"stations": [{
@@ -476,4 +462,5 @@
 					"url": "acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91"
 					}]
 				}]
+
 }
