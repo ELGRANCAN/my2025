@@ -2,13 +2,22 @@
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"groups": [{
 			"name": "DIEMA SPORT",
-			"image": "",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
 			"stations": [{
-					"name": "DIEMA SPORT 1",
+                    "name": "ACB - Diema Sport ",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
 					"info": "SERVIDOR 1",
-					"image": "",
-					"url": "acestream://8c6a3a49e43b6d05ac93b83fe4a41660caffae01"
-					}]
+                    "url" : "https://lostfascinate.net/embed/o2rrn0p?color=45A5F4", 
+                    "referer" : "https://powerover.site/",
+					"isHost" : "true"
+                    },{ 
+                    "name": "ACB - Diema Sport ",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
+					"info": "SERVIDOR 1",
+                    "url" :  "https://hornpot.net/embed/1nvj87fwd7dkrk",
+                    "referer" : "https://streamhd247.world/",
+					"isHost" : "true"   
+                    }]
 		 },{
 			"name": "EUROSPORT",
 			"image": "https://i.ibb.co/5WZrcTkb/euro.png",
@@ -473,5 +482,6 @@
 				}]
 
 }
+
 
 
