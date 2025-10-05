@@ -1,6 +1,25 @@
 {		"name": "CANALES 5",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"groups": [{
+			"name": "DIEMA SPORT",
+			"image": "",
+			"stations": [{
+					"name": "DIEMA SPORT 1",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://75ca8b97d36a9e086c2ed8145e33c00496fb6002"
+					},{
+					"name": "DIEMA SPORT 2",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://62d2c4663aef06df2907e7373b9542e645fe23c5"
+					},{
+					"name": "DIEMA SPORT 3",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://cc7fd7d3bed2c345abdf14e0c64e9b6618c0450f"
+					}]
+		 },{
 			"name": "EUROSPORT",
 			"image": "https://i.ibb.co/5WZrcTkb/euro.png",
 			"stations": [{
