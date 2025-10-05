@@ -22,12 +22,12 @@
 		},{
 			"name": "CANALES 05",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
+			"url": "https://search-ace.stream/playlist",
 			"import": "false"
 		},{
-			"name": "CANALES 06",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://search-ace.stream/playlist",
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "",
 			"import": "false"
 		},{
 			"name": "",
@@ -61,6 +61,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
