@@ -30,9 +30,9 @@
 			"url": "",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
+			"name": "FLS",
+			"image": "https://i.ibb.co/S79KknYM/FLS.png",
+			"url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/m3u/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
 		},{
 			"name": "",
@@ -61,6 +61,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
