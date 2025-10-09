@@ -5,7 +5,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
 			"import": "false"
 		},{
-			"name": "CANALES 02 (NUEVA)",
+			"name": "CANALES 02 (*)",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 			"import": "false"
@@ -30,7 +30,7 @@
 			"url": "",
 			"import": "false"
 		},{
-			"name": "FLS",
+			"name": "",
 			"image": "https://i.ibb.co/S79KknYM/FLS.png",
 			"url": "https://helmerluzo.github.io/FreeLiveSportsTV_HL/tv/m3u/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
@@ -61,9 +61,3 @@
 			"import": "false"
 		}]
 }
-
-
-
-
-
-
