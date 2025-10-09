@@ -27,7 +27,7 @@
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
+			"url": "https://",
 			"import": "false"
 		},{
 			"name": "",
@@ -37,7 +37,7 @@
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"url": "",
+			"url": "https://",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 01",
@@ -61,3 +61,4 @@
 			"import": "false"
 		}]
 }
+
