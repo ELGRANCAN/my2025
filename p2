@@ -2,7 +2,7 @@
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
+			"url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
 			"import": "false"
 		},{
 			"name": "CANALES 02 (*)",
@@ -61,6 +61,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
