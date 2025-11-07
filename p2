@@ -5,29 +5,29 @@
 			"url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
 			"import": "false"
 		},{
-			"name": "CANALES 02 (*)",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
-			"import": "false"
-		},{
-			"name": "CANALES 03",
+			"name": "CANALES 02",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
 			"import": "false"
 		},{
-			"name": "CANALES 04",
+			"name": "CANALES 03",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
 			"import": "false"
 		},{
-			"name": "CANALES 05 (*)",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
-			"import": "false"
-		},{
-			"name": "CANALES 06",
+			"name": "CANALES 04",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://search-ace.stream/playlist",
+			"import": "false"
+		},{
+			"name": "CANALES 05 (*)",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
+			"import": "false"
+		},{
+			"name": "CANALES 06 (*)",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
 			"import": "false"
 		},{
 			"name": "",
@@ -61,6 +61,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
