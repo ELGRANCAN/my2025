@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,.
-acestream://3c9d8e3fa674fe832b1d08682e526e463752347b&pid=1
+#EXTINF:-1,.1
+acestream://3c9d8e3fa674fe832b1d08682e526e463752347b
 #EXTINF:-1,.
 acestream://65f3618fba4badc8b3d7277ee238243102dc0b94&pid=2
 #EXTINF:-1,.
@@ -2155,3 +2155,4 @@ acestream://c2c9a862d6dc692c4c8ec464a0cba6fc42915e4c&pid=1076
 acestream://65ae3e0427ef14d9ef88f0183c011e6ff42ca062&pid=1077
 #EXTINF:-1,Хоккейный HD [RU]
 acestream://8b7c300e60486a80c1e25bc5ecd693533fca52a4&pid=1078
+
