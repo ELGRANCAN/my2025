@@ -1,22 +1,45 @@
 {		"name": "CANALES 03",
 		"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 		"groups": [{
-			"name": "DIEMA SPORT",
-			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
+			"name": "LIGA ENDESA",
+			"image": "https://i.ibb.co/JFQQxrRt/channels4-profile-removebg-preview.png",
 			"stations": [{
-                    "name": "ACB - Diema Sport ",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
+					"name": "DAZN",
 					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a"
+					},{
+					"name": "DAZN",
+					"info": "SERVIDOR 2",
+					"image": "",
+					"url": "acestream://34944c86bad01c3963ef113c28c033858085adb7"
+					},{
+					"name": "SPORTKLUB PL",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee"
+					},{
+					"name": "FOX SPORTS 2",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://0b48cd93de3c714e36961a93805798307a5608ac"
+					},{
+					"name": "ELEVEN SPORTS 3",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e"
+					},{
+					"name": "ELEVEN SPORTS 4",
+					"info": "SERVIDOR 1",
+					"image": "",
+					"url": "acestream://0f32c0131a2d9444996410801f4e18b04384db98"
+					},{
+                    "name": "DIEMA SPORT",
+					"info": "SERVIDOR 1",
+					"image": "",
                     "url" : "https://lostfascinate.net/embed/o2rrn0p?color=45A5F4", 
                     "referer" : "https://powerover.site/",
 					"isHost" : "true"
-                    },{ 
-                    "name": "ACB - Diema Sport ",
-                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBwjDQ_gLz-XQ_6P-3H9b__lOB1dwavRFdVw&s",
-					"info": "SERVIDOR 1",
-                    "url" :  "https://hornpot.net/embed/1nvj87fwd7dkrk",
-                    "referer" : "https://streamhd247.world/",
-					"isHost" : "true"   
                     }]
 		 },{
 			"name": "EUROSPORT",
@@ -477,4 +500,5 @@
 				}]
 
 }
+
 
