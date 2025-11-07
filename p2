@@ -17,7 +17,8 @@
 		},{
 			"name": "CANALES 04",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://search-ace.stream/playlist",
+			"info": "https://search-ace.stream/playlist",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
 			"import": "false"
 		},{
 			"name": "CANALES 05 (*)",
@@ -61,6 +62,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
