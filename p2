@@ -37,7 +37,7 @@
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-			"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8",
+			"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 01",
@@ -61,6 +61,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
