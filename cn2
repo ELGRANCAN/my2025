@@ -56,20 +56,6 @@
 					"url": "http://185.189.225.157/EuroSport2/index.m3u8"
 					}]
 		 },{
-			"name": "RALLY",
-			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-			"stations": [{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 1",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
-					},{
-					"name": "RALLYTV",
-					"info": "SERVIDOR 2",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea"
-					}]
-		 },{
 			"name": "COMBATE",
 			"image": "https://i.ibb.co/rbg5xCv/ufc.png",
 			"stations": [{
@@ -500,4 +486,5 @@
 				}]
 
 }
+
 
