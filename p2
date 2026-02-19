@@ -47,7 +47,7 @@
 		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u",
+			"url": "https://xuperdeno.xuperlist-2-0.deno.net/",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 02",
@@ -66,6 +66,7 @@
 			"import": "false"
 		}]
 }
+
 
 
 
