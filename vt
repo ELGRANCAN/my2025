@@ -1,10 +1,5 @@
 {   "name": "TV ONLINE",
     "groups": [{
-			"name": "PLUTO TV",
-			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/AIO.w3u",
-			"import": "false"
-		},{
 			"name": "SAMSUNG TV PLUS",
 			"image": "https://i.ibb.co/PYF7fJN/santv.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/AIO.w3u",
@@ -18,11 +13,6 @@
 			"name": "RUNTIME",
 			"image": "https://i.ibb.co/xmsf3ry/runtime.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/w3u/RuntimeTV_tv.w3u",
-			"import": "false"
-		},{
-			"name": "CANELATV",
-			"image": "https://i.ibb.co/tP4DY3R/canelatv.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
 			"import": "false"
 		}]
 }
