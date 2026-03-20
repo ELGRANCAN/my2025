@@ -31,13 +31,6 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/t2gXsr8/nba.png",
-			"stations": [{
-					"image": "https://i.ibb.co/t2gXsr8/nba.png",
-					"url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=NBAFASTChannel&ads.csid=xumo_[PLATFORM]_NBAFASTChannel_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4185&ads.xumo_contentName=NBAFASTChannel&ads.xumo_providerId=4185&ads.xumo_providerName=NBAFASTChannel&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951383&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]"
-					}]
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 			"stations": [{
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
@@ -46,6 +39,11 @@
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
 					}]
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "https://i.postimg.cc/TwJKznrV/blank.m3u",
+			"import": "false"
 		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
