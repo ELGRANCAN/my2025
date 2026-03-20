@@ -7,7 +7,7 @@
 		},{
 			"name": "PLUTO TV",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
 			"import": "false"
 		},{
 			"name": "SAMSUNG TV+",
