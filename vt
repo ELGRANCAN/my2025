@@ -60,24 +60,14 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/RadTV_tv.m3u",
 			"import": "false"
 		},{
-			"name": "XIAOMI",
-			"image": "",
-			"url": "https://www.apsattv.com/xiaomi.m3u",
-			"import": "false"
-		},{
 			"name": "XUMO",
 			"image": "",
 			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
 		},{
-			"name": "REDBOX",
-			"image": "",
-			"url": "https://www.apsattv.com/redbox.m3u",
-			"import": "false"
-		},{
 			"name": "IPTV FREE",
 			"image": "",
-			"url": "https://iptv-org.github.io/iptv/index.m3u",
+			"url": "blob:https://iptv-org.github.io/fd0ac623-738a-406b-bdab-fe419f6135c0",
 			"import": "false"
 		}]
 }
