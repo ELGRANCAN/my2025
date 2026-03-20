@@ -1,8 +1,8 @@
 {   "name": "TV ONLINE",
     "groups": [{
-			"name": "FREELIVESPORTSTV",
+			"name": "TDTCHANNELS",
 			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
+			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
 			"name": "LG",
@@ -28,6 +28,11 @@
 			"name": "RUNTIME",
 			"image": "https://i.ibb.co/xmsf3ry/runtime.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/w3u/RuntimeTV_tv.w3u",
+			"import": "false"
+		},{
+			"name": "FREELIVESPORTSTV",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
 		},{
 			"name": "ROKU",
