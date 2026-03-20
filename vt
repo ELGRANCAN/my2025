@@ -10,17 +10,17 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
 			"import": "false"
 		},{
-			"name": "PLUTO TV",
+			"name": "PLUTO",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
 			"import": "false"
 		},{
-			"name": "SAMSUNG TV+",
+			"name": "SAMSUNG",
 			"image": "https://i.ibb.co/PYF7fJN/santv.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsungtvplus_all.m3u",
 			"import": "false"
 		},{
-			"name": "RAKUTEN TV",
+			"name": "RAKUTEN",
 			"image": "https://i.ibb.co/c8LBv2W/rakutentv.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/tv/w3u/RakutenTV_tv.w3u",
 			"import": "false"
@@ -30,7 +30,7 @@
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/w3u/RuntimeTV_tv.w3u",
 			"import": "false"
 		},{
-			"name": "FREELIVESPORTSTV",
+			"name": "FREELIVESPORTS",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
