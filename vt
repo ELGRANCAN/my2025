@@ -1,5 +1,10 @@
 {   "name": "TV ONLINE",
     "groups": [{
+			"name": "ROKU",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku.m3u",
+			"import": "false"
+		},{
 			"name": "LG",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
