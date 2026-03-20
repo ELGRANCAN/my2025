@@ -1,8 +1,8 @@
 {   "name": "TV ONLINE",
     "groups": [{
-			"name": "SAMSUNG TV+",
+			"name": "LG",
 			"image": "https://i.ibb.co/PYF7fJN/santv.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsungtvplus_es.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
 			"import": "false"
 		},{
 			"name": "RAKUTEN TV",
