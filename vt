@@ -45,11 +45,6 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/tubi_all.m3u",
 			"import": "false"
 		},{
-			"name": "XIAOMI",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/xiaomi.m3u",
-			"import": "false"
-		},{
 			"name": "METAX",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/metax.m3u",
