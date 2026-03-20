@@ -1,5 +1,10 @@
 {   "name": "TV ONLINE",
     "groups": [{
+			"name": "RADIO ONLINE",
+			"image": "",
+			"url": "https://www.tdtchannels.com/lists/radio.m3u",
+			"import": "false"
+		},{
 			"name": "TDTCHANNELS",
 			"image": "",
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
