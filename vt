@@ -5,14 +5,14 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
 			"import": "false"
 		},{
-			"name": "PLUTO TV1",
+			"name": "PLUTO TV",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
 			"import": "false"
 		},{
 			"name": "SAMSUNG TV+",
 			"image": "https://i.ibb.co/PYF7fJN/santv.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/AIO.w3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsungtvplus_all.m3u",
 			"import": "false"
 		},{
 			"name": "RAKUTEN TV",
