@@ -45,33 +45,33 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku.m3u",
 			"import": "false"
 		},{
-			"name": "TUBI",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/tubi_all.m3u",
 			"import": "false"
 		},{
-			"name": "METAX",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/sdndwDWH/image-9.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/metax.m3u",
 			"import": "false"
 		},{
-			"name": "DISTRO",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/distro.m3u",
 			"import": "false"
 		},{
-			"name": "RADTV",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/bj6rKzyd/image-6.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/RadTV_tv.m3u",
 			"import": "false"
 		},{
-			"name": "XUMO",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
 		},{
-			"name": "IPTV FREE",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/Xx9BQbYP/image-8.png",
 			"url": "https://iptv-org.github.io/iptv/index.m3u",
 			"import": "false"
 		}]
