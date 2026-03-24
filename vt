@@ -1,17 +1,17 @@
 {   "name": "TV ONLINE",
     "groups": [{
-			"name": "RADIO ONLINE",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
 			"url": "https://www.tdtchannels.com/lists/radio.m3u",
 			"import": "false"
 		},{
-			"name": "TDTCHANNELS",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "LG",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/mrrB9zLH/image.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
 			"import": "false"
 		},{
@@ -40,8 +40,8 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
 		},{
-			"name": "ROKU",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/spFsVwK2/image-2.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku.m3u",
 			"import": "false"
 		},{
