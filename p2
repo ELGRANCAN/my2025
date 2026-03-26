@@ -1,4 +1,4 @@
-{   "name": "ACT200326",
+{   "name": "ACT260326",
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
@@ -31,31 +31,6 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-			"stations": [{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-64df7ab4dfa32400083c517b.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-64805922536e0c0008a1a1e6.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-64df7a9a44fe100009b6ac5a.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-648056f0f77b61000828f1ba.m3u8"
-					},{
-					"image": "https://i.ibb.co/prGH9GKj/901272-Photoroom.png",
-					"url": "https://jmp2.uk/plu-64805755536e0c0008a19fa1.m3u8"
-					}]
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 			"stations": [{
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
@@ -64,6 +39,11 @@
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
 					}]
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "https://i.postimg.cc/TwJKznrV/blank.m3u",
+			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
