@@ -1,4 +1,4 @@
-{   "name": "ACT240326",
+{   "name": "ACT260326",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
@@ -63,11 +63,6 @@
 			"name": "",
 			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/xumo.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/S79KknYM/FLS.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
 		}]
 }
