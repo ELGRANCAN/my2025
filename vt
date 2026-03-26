@@ -66,11 +66,6 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/Xx9BQbYP/image-8.png",
-			"url": "https://iptv-org.github.io/iptv/index.m3u",
-			"import": "false"
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/S79KknYM/FLS.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/FreeLiveSportsTV_tv.m3u",
 			"import": "false"
