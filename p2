@@ -45,9 +45,14 @@
 			"url": "https://i.postimg.cc/TwJKznrV/blank.m3u",
 			"import": "false"
 		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"url": "https://i.postimg.cc/TwJKznrV/blank.m3u",
+			"import": "false"
+		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://xuperdeno.xuperlist-2-0.deno.net/",
+			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 02",
@@ -58,11 +63,6 @@
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 04",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlIxeThKZVBsbjkzNkkwcF9CRWhzZDVCUlZ3SDYxbUxObXhzU2t3cFBhTERjbHBtWlBhX2FBWFlFMHRwdV9Xamhid3B6a1I2QlRybHc4Qy9wdWI/Z2lkPTc4MDQ4NjkwMyZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
 			"import": "false"
 		}]
 }
