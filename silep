@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,¡Instala VLC Player para reproducir el contenido!
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XrJDpv11/import.png",¡Instala VLC Player para reproducir el contenido!
 http://0000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hRFsm7SS/play.png",Avatar: El sentido del agua (2022) @E7Arte
 vlc://https://pixeldrain.net/api/file/TpijrYHM?download
