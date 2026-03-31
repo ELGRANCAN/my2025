@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,¡Necesario VLC Player!
-#EXTINF:-1,Avatar: El sentido del agua (2022) @E7Arte
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png" group-title="Roku",Avatar: El sentido del agua (2022) @E7Arte
 vlc://https://pixeldrain.net/api/file/TpijrYHM?download
 #EXTINF:-1,Escuadrón letal (2025) @E7Arte
 vlc://https://pixeldrain.net/api/file/4W4w4D9i?download
