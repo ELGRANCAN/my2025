@@ -2,10 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrJDpv11/import.png",¡Instala VLC Player para reproducir el contenido!
 http://0000
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Avatar: Fuego y ceniza (2025) @E7Arte
-vlc://https://pixeldrain.net/api/file/soYBCoVE?download
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Avatar: El sentido del agua (2022) @E7Arte
-vlc://https://pixeldrain.net/api/file/TpijrYHM?download
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Avatar (2009) @E7Arte
-vlc://https://pixeldrain.net/api/file/7Wj3qCH8?download
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Escuadrón letal (2025) @E7Arte
-vlc://https://pixeldrain.net/api/file/4W4w4D9i?download
+https://pixeldrain.net/api/file/7Aw1VPrs?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Scream 7 (2026) @E7Arte
+https://pixeldrain.net/api/file/6TuPcMJ7?download
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Cumbres borrascosas (2026) @E7Arte
+https://pixeldrain.net/api/file/1d9KCrQZ?download
