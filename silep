@@ -2,6 +2,6 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XrJDpv11/import.png",¡Inicia VLC Player para reproducir el contenido!
 http://e7arte
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Super Mario Galaxy: La película (2026) @E7Arte
-https://dai.ly/k3JlNZZmz3OFQqFq8UW
+vlc://https://dai.ly/k3JlNZZmz3OFQqFq8UW
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gvtv8FCx/play.png",Super Mario Galaxy: La película (2026) @E7Arte
-https://cdn.pixeldrain.eu.cc/Prw7deyg
+vlc://https://cdn.pixeldrain.eu.cc/Prw7deyg
