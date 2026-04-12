@@ -40,9 +40,9 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku_all.m3u",
 			"import": "false"
 		},{
-			"name": "X",
+			"name": "",
 			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
 			"import": "false"
 		},{
 			"name": "X",
