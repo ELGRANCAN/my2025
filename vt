@@ -75,9 +75,9 @@
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
 			"import": "false"
 		},{
-			"name": "DM",
+			"name": "Colombia",
 			"image": "",
-			"url": "https://raw.githubusercontent.com/dmelendez11/lista-canales-m3u/refs/heads/main/canales.m3u",
+			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
 			"import": "false"
 		}]
 }
