@@ -80,9 +80,9 @@
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
 			"import": "false"
 		},{
-			"name": "Love",
+			"name": "DM",
 			"image": "",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/love/refs/heads/main/playlist.m3u",
+			"url": "https://raw.githubusercontent.com/dmelendez11/lista-canales-m3u/refs/heads/main/canales.m3u",
 			"import": "false"
 		}]
 }
