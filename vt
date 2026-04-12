@@ -60,6 +60,11 @@
 			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
 		},{
+			"name": "Vizio",
+			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"url": "https://www.apsattv.com/vizio.m3u",
+			"import": "false"
+		},{
 			"name": "WhaleTV",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
