@@ -74,5 +74,10 @@
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
 			"import": "false"
+		},{
+			"name": "BuddyLive",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u",
+			"import": "false"
 		}]
 }
