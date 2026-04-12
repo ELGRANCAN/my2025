@@ -50,9 +50,9 @@
 			"url": "",
 			"import": "false"
 		},{
-			"name": "X",
+			"name": "",
 			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/distro-playlist-generator/refs/heads/main/playlists/distrotv_all.m3u",
 			"import": "false"
 		},{
 			"name": "",
