@@ -72,7 +72,7 @@
 		},{
 			"name": "Plex",
 			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
 			"import": "false"
 		},{
 			"name": "TV",
