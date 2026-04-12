@@ -45,11 +45,6 @@
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
 			"import": "false"
 		},{
-			"name": "X",
-			"image": "https://i.ibb.co/sdndwDWH/image-9.png",
-			"url": "",
-			"import": "false"
-		},{
 			"name": "",
 			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/distro-playlist-generator/refs/heads/main/playlists/distrotv_all.m3u",
