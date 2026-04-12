@@ -60,16 +60,6 @@
 			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
 		},{
-			"name": "Vizio",
-			"image": "",
-			"url": "https://www.apsattv.com/vizio.m3u",
-			"import": "false"
-		},{
-			"name": "Ssungph",
-			"image": "",
-			"url": "https://www.apsattv.com/redeitv.m3u",
-			"import": "false"
-		},{
 			"name": "WhaleTV",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
@@ -78,6 +68,16 @@
 			"name": "Plex",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+			"import": "false"
+		},{
+			"name": "Vizio",
+			"image": "",
+			"url": "https://www.apsattv.com/vizio.m3u",
+			"import": "false"
+		},{
+			"name": "redeitv",
+			"image": "",
+			"url": "https://www.apsattv.com/redeitv.m3u",
 			"import": "false"
 		},{
 			"name": "TV",
