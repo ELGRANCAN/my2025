@@ -75,6 +75,11 @@
 			"url": "https://www.apsattv.com/vizio.m3u",
 			"import": "false"
 		},{
+			"name": "LG",
+			"image": "",
+			"url": "https://www.apsattv.com/lg.m3u",
+			"import": "false"
+		},{
 			"name": "redeitv",
 			"image": "",
 			"url": "https://www.apsattv.com/redeitv.m3u",
