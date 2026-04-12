@@ -70,6 +70,11 @@
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
 			"import": "false"
 		},{
+			"name": "FireTV",
+			"image": "",
+			"url": "https://www.apsattv.com/firetv.m3u",
+			"import": "false"
+		},{
 			"name": "Vizio",
 			"image": "",
 			"url": "https://www.apsattv.com/vizio.m3u",
