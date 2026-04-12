@@ -1,4 +1,4 @@
-{   "name": "ACT260326",
+{   "name": "ACT120426",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
@@ -52,7 +52,7 @@
 		},{
 			"name": "X",
 			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/distro.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
 			"import": "false"
 		},{
 			"name": "",
