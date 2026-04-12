@@ -85,11 +85,6 @@
 			"url": "https://www.apsattv.com/lg.m3u",
 			"import": "false"
 		},{
-			"name": "Tablo",
-			"image": "",
-			"url": "https://www.apsattv.com/tablo.m3u",
-			"import": "false"
-		},{
 			"name": "RedeiTV",
 			"image": "",
 			"url": "https://www.apsattv.com/redeitv.m3u",
