@@ -42,17 +42,17 @@
 		},{
 			"name": "X",
 			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/tubi_all.m3u",
+			"url": "",
 			"import": "false"
 		},{
 			"name": "X",
 			"image": "https://i.ibb.co/sdndwDWH/image-9.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/metax.m3u",
+			"url": "",
 			"import": "false"
 		},{
 			"name": "X",
 			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
+			"url": "",
 			"import": "false"
 		},{
 			"name": "",
@@ -67,7 +67,12 @@
 		},{
 			"name": "WhaleTV",
 			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_es.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
+			"import": "false"
+		},{
+			"name": "Plex",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
 			"import": "false"
 		}]
 }
