@@ -55,6 +55,11 @@
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/refs/heads/main/tv/w3u/RadTV_tv.w3u",
 			"import": "false"
 		},{
+			"name": "MetaX",
+			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"url": "https://www.apsattv.com/metax.m3u",
+			"import": "false"
+		},{
 			"name": "",
 			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/xumo.m3u",
@@ -63,6 +68,11 @@
 			"name": "Vizio",
 			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/vizio.m3u",
+			"import": "false"
+		},{
+			"name": "KoganTVPlus",
+			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"url": "https://www.apsattv.com/kogantvplus.m3u",
 			"import": "false"
 		},{
 			"name": "WhaleTV",
