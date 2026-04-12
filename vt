@@ -17,12 +17,12 @@
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/PYF7fJN/santv.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsungtvplus_all.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsungtvplus_es.m3u",
 			"import": "false"
 		},{
 			"name": "",
