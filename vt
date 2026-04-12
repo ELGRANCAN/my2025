@@ -79,5 +79,10 @@
 			"image": "",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
 			"import": "false"
+		},{
+			"name": "Love",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/love/refs/heads/main/playlist.m3u",
+			"import": "false"
 		}]
 }
