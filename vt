@@ -74,5 +74,10 @@
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
 			"import": "false"
+		},{
+			"name": "Roxiestreams",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/sports/refs/heads/main/Roxiestreams.m3u",
+			"import": "false"
 		}]
 }
