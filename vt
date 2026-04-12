@@ -56,7 +56,7 @@
 			"import": "false"
 		},{
 			"name": "MetaX",
-			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"image": "",
 			"url": "https://www.apsattv.com/metax.m3u",
 			"import": "false"
 		},{
@@ -66,12 +66,12 @@
 			"import": "false"
 		},{
 			"name": "Vizio",
-			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"image": "",
 			"url": "https://www.apsattv.com/vizio.m3u",
 			"import": "false"
 		},{
 			"name": "KoganTVPlus",
-			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"image": "",
 			"url": "https://www.apsattv.com/kogantvplus.m3u",
 			"import": "false"
 		},{
