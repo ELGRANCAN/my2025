@@ -37,20 +37,20 @@
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/spFsVwK2/image-2.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku.m3u",
+			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku_all.m3u",
 			"import": "false"
 		},{
-			"name": "",
+			"name": "X",
 			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/tubi_all.m3u",
 			"import": "false"
 		},{
-			"name": "",
+			"name": "X",
 			"image": "https://i.ibb.co/sdndwDWH/image-9.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/metax.m3u",
 			"import": "false"
 		},{
-			"name": "",
+			"name": "X",
 			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/distro.m3u",
 			"import": "false"
@@ -63,6 +63,11 @@
 			"name": "",
 			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/xumo.m3u",
+			"import": "false"
+		},{
+			"name": "WhaleTV",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_es.m3u",
 			"import": "false"
 		}]
 }
