@@ -90,11 +90,6 @@
 			"url": "https://www.apsattv.com/tablo.m3u",
 			"import": "false"
 		},{
-			"name": "RewardedTV",
-			"image": "",
-			"url": "https://www.apsattv.com/rewardedtv.m3u",
-			"import": "false"
-		},{
 			"name": "RedeiTV",
 			"image": "",
 			"url": "https://www.apsattv.com/redeitv.m3u",
