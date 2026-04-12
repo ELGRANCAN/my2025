@@ -85,6 +85,26 @@
 			"url": "https://www.apsattv.com/lg.m3u",
 			"import": "false"
 		},{
+			"name": "Xiaomi",
+			"image": "",
+			"url": "https://www.apsattv.com/xiaomi.m3u",
+			"import": "false"
+		},{
+			"name": "TCL",
+			"image": "",
+			"url": "https://www.apsattv.com/tcl.m3u",
+			"import": "false"
+		},{
+			"name": "SportsTV",
+			"image": "",
+			"url": "https://www.apsattv.com/sportstv.m3u",
+			"import": "false"
+		},{
+			"name": "FreeTV",
+			"image": "",
+			"url": "https://www.apsattv.com/freetv.m3u",
+			"import": "false"
+		},{
 			"name": "redeitv",
 			"image": "",
 			"url": "https://www.apsattv.com/redeitv.m3u",
