@@ -2,7 +2,7 @@
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://ipfs.io/ipns/k2k4r8oqlcjxsritt5mczkcn4mmvcmymbqw7113fz2flkrerfwfps004/data/listas/lista_fuera_iptv.m3u",
+			"url": "https://ipfs.io/ipns/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
 			"import": "false"
 		},{
 			"name": "CANALES 02",
@@ -50,6 +50,16 @@
 					"url": ""
 					}]
 		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": "https://clouding.wideiptv.top/OneToro/index.fmp4.m3u8?token=9f683478d2b91f1ade156cee3b20e54f31100a88-c9aabd78d0ec59979c9c0a4c316fc59d-1775402962-1775399362"
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
+		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
@@ -63,11 +73,6 @@
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://rebrand.ly/u3?q=aHR0cHM6Ly9kb2NzLmdvb2dsZS5jb20vc3ByZWFkc2hlZXRzL2QvZS8yUEFDWC0xdlIxeThKZVBsbjkzNkkwcF9CRWhzZDVCUlZ3SDYxbUxObXhzU2t3cFBhTERjbHBtWlBhX2FBWFlFMHRwdV9Xamhid3B6a1I2QlRybHc4Qy9wdWI/Z2lkPTc4MDQ4NjkwMyZzaW5nbGU9dHJ1ZSZvdXRwdXQ9dHN2",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 04",
-			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://iptv-org.github.io/iptv/index.m3u",
 			"import": "false"
 		}]
 }
