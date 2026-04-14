@@ -1,4 +1,4 @@
-{   "name": "ACT120426",
+{   "name": "ACT150426",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
@@ -9,6 +9,18 @@
 			"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
+		},{
+			"name": "TDT Internacional",
+			"image": "",
+			"stations": [{
+					"name": "Argentina",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u"
+					},{
+					"name": "Colombia",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u"
+					}]
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/mrrB9zLH/image.png",
@@ -80,11 +92,6 @@
 			"url": "https://www.apsattv.com/vizio.m3u",
 			"import": "false"
 		},{
-			"name": "LG",
-			"image": "",
-			"url": "https://www.apsattv.com/lg.m3u",
-			"import": "false"
-		},{
 			"name": "RedeiTV",
 			"image": "",
 			"url": "https://www.apsattv.com/redeitv.m3u",
@@ -93,16 +100,6 @@
 			"name": "TV",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
-			"import": "false"
-		},{
-			"name": "Colombia",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
-			"import": "false"
-		},{
-			"name": "Argentina",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
 			"import": "false"
 		}]
 }
