@@ -56,6 +56,11 @@
 			"import": "false"
 		},{
 			"name": "",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+			"import": "false"
+		},{
+			"name": "",
 			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
 			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
@@ -63,11 +68,6 @@
 			"name": "WhaleTV",
 			"image": "",
 			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
-			"import": "false"
-		},{
-			"name": "Plex",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
 			"import": "false"
 		},{
 			"name": "FireTV",
