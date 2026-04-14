@@ -99,5 +99,10 @@
 			"image": "",
 			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
 			"import": "false"
+		},{
+			"name": "Argentina",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
+			"import": "false"
 		}]
 }
