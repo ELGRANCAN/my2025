@@ -10,20 +10,6 @@
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "TDT Internacional",
-			"image": "",
-			"stations": [{
-					"name": "Argentina",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
-					"import": "false"
-					},{
-					"name": "Colombia",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
-					"import": "false"
-					}]
-		},{
 			"name": "",
 			"image": "https://i.ibb.co/mrrB9zLH/image.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
@@ -103,5 +89,19 @@
 			"image": "",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
 			"import": "false"
+		},{
+			"name": "TDT Internacional",
+			"image": "",
+			"groups": [{
+					"name": "Argentina",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
+					"import": "false"
+					},{
+					"name": "Colombia",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
+					"import": "false"
+					}]
 		}]
 }
