@@ -56,13 +56,13 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+			"url": "https://www.apsattv.com/xumo.m3u",
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
-			"url": "https://www.apsattv.com/xumo.m3u",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
 			"import": "false"
 		},{
 			"name": "WhaleTV",
