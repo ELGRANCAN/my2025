@@ -94,12 +94,12 @@
 			"image": "",
 			"groups": [{
 					"name": "Argentina",
-					"image": "",
+					"image": "https://i.ibb.co/twqcdNhS/ar.png",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
 					"import": "false"
 					},{
 					"name": "Colombia",
-					"image": "",
+					"image": "https://i.ibb.co/JP509VH/co.png",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
 					"import": "false"
 					}]
