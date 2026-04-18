@@ -1,136 +1,136 @@
 {	"name": "Películas",
     "groups": [{
-			"name": "Estrenos",
+			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/2026",
 			"import": "false"
 		},{
-			"name": "Alpha",
+			"name": "Alpha (262)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Alpha",
 			"import": "false"
 		},{
-			"name": "Bravo",
+			"name": "Bravo (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Bravo",
 			"import": "false"
 		},{
-			"name": "Charlie",
+			"name": "Charlie (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Charlie",
 			"import": "false"
 		},{
-			"name": "Delta",
+			"name": "Delta (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Delta",
 			"import": "false"
 		},{
-			"name": "Echo",
+			"name": "Echo (593)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Echo",
 			"import": "false"
 		},{
-			"name": "Foxtrot",
+			"name": "Foxtrot (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Foxtrot",
 			"import": "false"
 		},{
-			"name": "Golf",
+			"name": "Golf (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Golf",
 			"import": "false"
 		},{
-			"name": "Hotel",
+			"name": "Hotel (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Hotel",
 			"import": "false"
 		},{
-			"name": "India",
+			"name": "India (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/India",
 			"import": "false"
 		},{
-			"name": "Juliet",
+			"name": "Juliet (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Juliet",
 			"import": "false"
 		},{
-			"name": "Kilo",
+			"name": "Kilo (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Kilo",
 			"import": "false"
 		},{
-			"name": "Lima",
+			"name": "Lima (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Lima",
 			"import": "false"
 		},{
-			"name": "Mike",
+			"name": "Mike (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Mike",
 			"import": "false"
 		},{
-			"name": "November",
+			"name": "November (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/November",
 			"import": "false"
 		},{
-			"name": "Oscar",
+			"name": "Oscar (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Oscar",
 			"import": "false"
 		},{
-			"name": "Papa",
+			"name": "Papa (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Papa",
 			"import": "false"
 		},{
-			"name": "Quebec",
+			"name": "Quebec (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Quebec",
 			"import": "false"
 		},{
-			"name": "Romeo",
+			"name": "Romeo (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Romeo",
 			"import": "false"
 		},{
-			"name": "Sierra",
+			"name": "Sierra (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Sierra",
 			"import": "false"
 		},{
-			"name": "Tango",
+			"name": "Tango (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Tango",
 			"import": "false"
 		},{
-			"name": "Uniform",
+			"name": "Uniform (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Uniform",
 			"import": "false"
 		},{
-			"name": "Victor",
+			"name": "Victor (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Victor",
 			"import": "false"
 		},{
-			"name": "Whiskey",
+			"name": "Whiskey (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Whiskey",
 			"import": "false"
 		},{
-			"name": "X-ray",
+			"name": "X-ray (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/X-ray",
 			"import": "false"
 		},{
-			"name": "Yankee",
+			"name": "Yankee (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Yankee",
 			"import": "false"
 		},{
-			"name": "Zulu",
+			"name": "Zulu (X)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Zulu",
 			"import": "false"
