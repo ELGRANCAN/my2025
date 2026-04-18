@@ -93,9 +93,34 @@
 			"name": "TDT Internacional",
 			"image": "",
 			"groups": [{
+					"name": "Afghanistan",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
+					"import": "false"
+					},{
+					"name": "Albania",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/al.m3u",
+					"import": "false"
+					},{
 					"name": "Argentina",
 					"image": "https://i.ibb.co/twqcdNhS/ar.png",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
+					"import": "false"
+					},{
+					"name": "Australia",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u",
+					"import": "false"
+					},{
+					"name": "Austria",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/at.m3u",
+					"import": "false"
+					},{
+					"name": "Azerbaijan",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/az.m3u",
 					"import": "false"
 					},{
 					"name": "Brazil",
