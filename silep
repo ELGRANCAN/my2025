@@ -1,4 +1,4 @@
-{	"name": "Películas ()",
+{	"name": "(700) Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -50,7 +50,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/India",
 			"import": "false"
 		},{
-			"name": "Juliet (X)",
+			"name": "Juliet (60)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Juliet",
 			"import": "false"
