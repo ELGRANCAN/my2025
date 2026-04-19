@@ -1,4 +1,4 @@
-{	"name": "3412 Películas",
+{	"name": "3647 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -100,7 +100,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Sierra",
 			"import": "false"
 		},{
-			"name": "Tango (X)",
+			"name": "Tango (235)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Tango",
 			"import": "false"
