@@ -1,4 +1,4 @@
-{	"name": "3904 Películas",
+{	"name": "3918 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -140,7 +140,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Yankee",
 			"import": "false"
 		},{
-			"name": "Zulu (X)",
+			"name": "Zulu (14)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Zulu",
 			"import": "false"
