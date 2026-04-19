@@ -1,4 +1,4 @@
-{	"name": "3775 Películas",
+{	"name": "3847 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -120,7 +120,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Uniform",
 			"import": "false"
 		},{
-			"name": "Victor (X)",
+			"name": "Victor (72)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Victor",
 			"import": "false"
