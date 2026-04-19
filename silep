@@ -1,4 +1,4 @@
-{	"name": "2839 Películas",
+{	"name": "2891 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -75,7 +75,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/November",
 			"import": "false"
 		},{
-			"name": "Oscar (X)",
+			"name": "Oscar (52)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Oscar",
 			"import": "false"
