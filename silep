@@ -1,4 +1,4 @@
-{	"name": "3890 Películas",
+{	"name": "3904 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -135,7 +135,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/X-ray",
 			"import": "false"
 		},{
-			"name": "Yankee (X)",
+			"name": "Yankee (14)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Yankee",
 			"import": "false"
