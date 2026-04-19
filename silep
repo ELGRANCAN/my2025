@@ -1,4 +1,4 @@
-{	"name": "3075 Películas",
+{	"name": "3175 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -90,7 +90,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Quebec",
 			"import": "false"
 		},{
-			"name": "Romeo (X)",
+			"name": "Romeo (100)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Romeo",
 			"import": "false"
