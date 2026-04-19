@@ -1,8 +1,13 @@
-{	"name": "3647 Películas",
+{	"name": "3775 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/2026",
+			"import": "false"
+		},{
+			"name": "#!¿ (X)",
+			"image": "https://i.ibb.co/679Mv684/web.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Especiales",
 			"import": "false"
 		},{
 			"name": "Alpha (262)",
@@ -75,6 +80,11 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/November",
 			"import": "false"
 		},{
+			"name": "Ñoño (X)",
+			"image": "https://i.ibb.co/679Mv684/web.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Nono",
+			"import": "false"
+		},{
 			"name": "Oscar (52)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Oscar",
@@ -105,7 +115,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Tango",
 			"import": "false"
 		},{
-			"name": "Uniform (X)",
+			"name": "Uniform (128)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Uniform",
 			"import": "false"
