@@ -1,4 +1,4 @@
-{	"name": "3847 Películas",
+{	"name": "3877 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -125,7 +125,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Victor",
 			"import": "false"
 		},{
-			"name": "Whiskey (X)",
+			"name": "Whiskey (30)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Whiskey",
 			"import": "false"
