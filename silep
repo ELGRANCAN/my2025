@@ -1,4 +1,4 @@
-{	"name": "2891 Películas",
+{	"name": "3058 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -80,7 +80,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Oscar",
 			"import": "false"
 		},{
-			"name": "Papa (X)",
+			"name": "Papa (167)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Papa",
 			"import": "false"
