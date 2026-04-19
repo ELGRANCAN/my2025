@@ -1,11 +1,11 @@
-{	"name": "3918 Películas",
+{	"name": "4023 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/2026",
 			"import": "false"
 		},{
-			"name": "Caracteres especiales (0)",
+			"name": "Caracteres especiales (105)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/CE",
 			"import": "false"
