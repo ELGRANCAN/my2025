@@ -1,4 +1,4 @@
-{	"name": "3058 Películas",
+{	"name": "3075 Películas",
     "groups": [{
 			"name": "Estrenos (6)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
@@ -85,7 +85,7 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Papa",
 			"import": "false"
 		},{
-			"name": "Quebec (X)",
+			"name": "Quebec (17)",
 			"image": "https://i.ibb.co/679Mv684/web.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Quebec",
 			"import": "false"
