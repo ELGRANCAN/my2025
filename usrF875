@@ -1,19 +1,19 @@
-{	"name": "Suscripcion: 24/05/2026",
-    "author": "F008",
+{	"name": "Suscripcion: 30/06/2026",
+    "author": "F875",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/S4s0tgxw/dep.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/d4nP31h7/silep.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/silep",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/QFQkT0Y9/tv.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/vt",
 			"import": "false"
 		}],"url": "https://github.com/ELGRANCAN/my2025/raw/refs/heads/main/usrF875"
 }                                                                                                   
