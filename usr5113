@@ -1,9 +1,14 @@
-{	"name": "Suscripción: 18/04/2027",
+{	"name": "SuscripciÃ³n: 18/04/2027",
     "author": "5113",
     "groups": [{
 			"name": "DEPORTES",
 			"image": "https://i.ibb.co/X2vY6xT/sport.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
+			"import": "false"
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/d4nP31h7/silep.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/silep",
 			"import": "false"
 		},{
 			"name": "TV ONLINE",
