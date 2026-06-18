@@ -26,16 +26,6 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": "https://clouding.wideiptv.top/OneToro/index.fmp4.m3u8?token=9f683478d2b91f1ade156cee3b20e54f31100a88-c9aabd78d0ec59979c9c0a4c316fc59d-1775402962-1775399362"
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/S79KknYM/FLS.png",
 			"url": "https://raw.githubusercontent.com/HelmerLuzo/FreeLiveSportsTV_HL/refs/heads/main/tv/w3u/FreeLiveSportsTV_tv.w3u",
 			"import": "false"
