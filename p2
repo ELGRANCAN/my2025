@@ -1,16 +1,16 @@
-{   "name": "ACT060826",
+{   "name": "ACT080826",
     "groups": [{
+			"name": "08/08/2026",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
+			"import": "false"
+		},{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes_acestream.m3u",
 			"import": "false"
 		},{
 			"name": "CANALES 02",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb.ipns.inbrowser.link/data/listas/lista_fuera_iptv.m3u",
-			"import": "false"
-		},{
-			"name": "CANALES 03",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 			"import": "false"
