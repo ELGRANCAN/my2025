@@ -5,12 +5,7 @@
 			"url": "https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes_acestream.m3u",
 			"import": "false"
 		},{
-			"name": "CANALES 022",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://savmrl.it/r/lQUhE",
-			"import": "false"
-		},{
-			"name": "CANALES 03",
+			"name": "CANALES 02",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 			"import": "false"
@@ -19,7 +14,17 @@
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
 			"stations": [{
 					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": "https://clouding.wideiptv.top/OneToro/index.fmp4.m3u8?token=9f683478d2b91f1ade156cee3b20e54f31100a88-c9aabd78d0ec59979c9c0a4c316fc59d-1775402962-1775399362"
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
 					},{
 					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
 					"url": ""
