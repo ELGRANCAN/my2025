@@ -12,18 +12,13 @@
 		},{
 			"name": "CANALES 03",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
+			"url": "https://k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs.ipns.dweb.link/hashes_acestream.m3u",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
+			"name": "CANALES 03",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
+			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
