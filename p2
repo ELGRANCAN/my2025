@@ -1,4 +1,4 @@
-{   "name": "ACT040926",
+{   "name": "ACT060926",
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
@@ -20,15 +20,10 @@
 			"url": "https://git.gay/TokyoGhoulles/AceStream_IDs/raw/branch/main/hashes_acestream.m3u",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
+			"name": "CANALES 05",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://search-ace.stream/playlist",
+			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/S79KknYM/FLS.png",
