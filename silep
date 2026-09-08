@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1,1Auri_(2026)_BluRay_1080p_SPANISH
-http://localhost:8090/stream/Auri_(2026)_BluRay_1080p_SPANISH?link=5a3512e4d8573202c7e34a9db782ece709617adf&index=1&m3u
-#EXTINF:-1,Exit_Protocol_(2025)_BluRay_1080p_SPANISH
-http://localhost:8090/stream/Exit_Protocol_(2025)_BluRay_1080p_SPANISH?link=dd708c832481b93a814edd9cb5800c7e3ff00d69&index=1&play
-#EXTINF:-1,Fin_de_semana_salvaje_Bone_Lake_2024_BluRay_1080p_SPANISH
-http://localhost:8090/stream/Fin_de_semana_salvaje_Bone_Lake_2024_BluRay_1080p_SPANISH?link=aa4a64695fbaffbfb5f73b556c0f1fcf8a80c560&index=1&play
-#EXTINF:-1,gigante--giant---2025---BluRay-1080p_16_1029
-http://localhost:8090/stream/gigante--giant---2025---BluRay-1080p_16_1029?link=cbff43f3c4fb60c9c8bd0abc02a044fe5ef22184&index=1&play
-#EXTINF:-1,novia_a_la_fuerza_borderline_2025_BluRay_1080p_41_1029
-http://localhost:8090/stream/novia_a_la_fuerza_borderline_2025_BluRay_1080p_41_1029?link=6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&index=1&play
-#EXTINF:-1,Sunrise_El_ultimo_amanecer_(2026)_4KUHDrip_SPANISH
-http://localhost:8090/stream/Sunrise_El_ultimo_amanecer_(2026)_4KUHDrip_SPANISH?link=87cc3cf8a63996192ad4f677ae5d2265fc06e50b&index=1&play
-#EXTINF:-1,Susurran_tu_nombre_The_Whisper_Man_2026_4KUHDrip_SPANISH
-http://localhost:8090/stream/Susurran_tu_nombre_The_Whisper_Man_2026_4KUHDrip_SPANISH?link=e098a2896f8abde2dfd45ff505706027e22ebfc1&index=1&play
-#EXTINF:-1,The_Runner_(A_la_carrera)_(2026)_4KUHDrip_SPANISH
-http://localhost:8090/stream/The_Runner_(A_la_carrera)_(2026)_4KUHDrip_SPANISH?link=a3c60f31556d4acce157a59771b43e9478c0e926&index=1&play
-#EXTINF:-1,The_Runner_(A_la_carrera)_(2026)_BluRay_1080p_SPANISH
-http://localhost:8090/stream/The_Runner_(A_la_carrera)_(2026)_BluRay_1080p_SPANISH?link=443a86e68ef5b6d30337947d2946fce39f415390&index=1&play
-#EXTINF:-1,Una_mujer_sin_pasado_(2026)_4lk_2160p_4KUHDrip_SPANISH
-http://localhost:8090/stream/Una_mujer_sin_pasado_(2026)_4lk_2160p_4KUHDrip_SPANISH?link=8f8d59aa1d2d62cc79fffdf389d24025f65a98cb&index=1&play
-#EXTINF:-1,Yo_no_morire_de_amor_(2026)_BluRay_1080p_SPANISH
-http://localhost:8090/stream/Yo_no_morire_de_amor_(2026)_BluRay_1080p_SPANISH?link=81355c2861744286567d9b939afe5b5d55428dce&index=1&play
+#EXTINF:0,Auri_(2026)_BluRay_1080p_SPANISH - Auri (2026) [HDTV 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/Auri%20(2026)%20%5BHDTV%201080p%5D%5BEsp%5D.mkv?link=5a3512e4d8573202c7e34a9db782ece709617adf&index=0&play
+#EXTINF:0,Exit_Protocol_(2025)_BluRay_1080p_SPANISH - The Shards [HDTV 1080p][Cap.106].mkv
+http://127.0.0.1:8090/stream/The%20Shards%20%5BHDTV%201080p%5D%5BCap.106%5D.mkv?link=dd708c832481b93a814edd9cb5800c7e3ff00d69&index=0&play
+#EXTINF:0,Fin_de_semana_salvaje_Bone_Lake_2024_BluRay_1080p_SPANISH - La Casa Nostra [HDTV 1080p][Cap.110].mkv
+http://127.0.0.1:8090/stream/La%20Casa%20Nostra%20%5BHDTV%201080p%5D%5BCap.110%5D.mkv?link=aa4a64695fbaffbfb5f73b556c0f1fcf8a80c560&index=0&play
+#EXTINF:0,gigante--giant---2025---BluRay-1080p_16_1029 - Gigante (Giant) (2025) [Bluray 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/Gigante%20(Giant)%20(2025)%20%5BBluray%201080p%5D%5BEsp%5D.mkv?link=cbff43f3c4fb60c9c8bd0abc02a044fe5ef22184&index=0&play
+#EXTINF:0,novia_a_la_fuerza_borderline_2025_BluRay_1080p_41_1029 - Novia a la fuerza (Borderline) (2025) [Bluray 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/Novia%20a%20la%20fuerza%20(Borderline)%20(2025)%20%5BBluray%201080p%5D%5BEsp%5D.mkv?link=6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&index=0&play
+#EXTINF:0,Sunrise_El_ultimo_amanecer_(2026)_4KUHDrip_SPANISH - Sunrise El ultimo amanecer (2026) [4k 2160p][Esp].mkv
+http://127.0.0.1:8090/stream/Sunrise%20El%20ultimo%20amanecer%20(2026)%20%5B4k%202160p%5D%5BEsp%5D.mkv?link=87cc3cf8a63996192ad4f677ae5d2265fc06e50b&index=0&play
+#EXTINF:0,Susurran_tu_nombre_The_Whisper_Man_2026_4KUHDrip_SPANISH - Exit Protocol (2025) [Bluray 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/Exit%20Protocol%20(2025)%20%5BBluray%201080p%5D%5BEsp%5D.mkv?link=e098a2896f8abde2dfd45ff505706027e22ebfc1&index=0&play
+#EXTINF:0,The_Runner_(A_la_carrera)_(2026)_4KUHDrip_SPANISH - The Runner (A la carrera) (2026) [4k 2160p][Esp].mkv
+http://127.0.0.1:8090/stream/The%20Runner%20(A%20la%20carrera)%20(2026)%20%5B4k%202160p%5D%5BEsp%5D.mkv?link=a3c60f31556d4acce157a59771b43e9478c0e926&index=0&play
+#EXTINF:0,The_Runner_(A_la_carrera)_(2026)_BluRay_1080p_SPANISH - The Runner (A la carrera) (2026) [Bluray 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/The%20Runner%20(A%20la%20carrera)%20(2026)%20%5BBluray%201080p%5D%5BEsp%5D.mkv?link=443a86e68ef5b6d30337947d2946fce39f415390&index=0&play
+#EXTINF:0,Una_mujer_sin_pasado_(2026)_4lk_2160p_4KUHDrip_SPANISH - Una mujer sin pasado (2026) [4lk 2160p][Esp].mkv
+http://127.0.0.1:8090/stream/Una%20mujer%20sin%20pasado%20(2026)%20%5B4lk%202160p%5D%5BEsp%5D.mkv?link=8f8d59aa1d2d62cc79fffdf389d24025f65a98cb&index=0&play
+#EXTINF:0,Yo_no_morire_de_amor_(2026)_BluRay_1080p_SPANISH - Yo no morire de amor (2026) [Bluray 1080p][Esp].mkv
+http://127.0.0.1:8090/stream/Yo%20no%20morire%20de%20amor%20(2026)%20%5BBluray%201080p%5D%5BEsp%5D.mkv?link=81355c2861744286567d9b939afe5b5d55428dce&index=0&play
