@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 group-title="4K / UHD (2160p)",Mayday (4K 2160p)(Esp) - 20.63 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Mayday (4K 2160p) - 20.63 GB
 magnet:?xt=urn:btih:366696789e2b5084684954f51bad549f4f95a43a&so=0
-#EXTINF:-1 group-title="1080p / Full HD",The Runner (A la carrera) (2026) (Bluray 1080p)(Esp) - 6.38 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",The Runner (A la carrera) (2026) (Bluray 1080p) - 6.38 GB
 magnet:?xt=urn:btih:443a86e68ef5b6d30337947d2946fce39f415390&so=0
-#EXTINF:-1 group-title="4K / UHD (2160p)",De verdad estoy bien (Paaz) (4k 2160p)(Esp) - 13.42 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",De verdad estoy bien (Paaz) (4k 2160p) - 13.42 GB
 magnet:?xt=urn:btih:161a1f6174a70c89be928291828f92c372dedad5&so=0
-#EXTINF:-1 group-title="720p / HD",Fauda (HDTV 720p)(Cap.507) - 1.01 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="720p / HD",Fauda (HDTV 720p)(Cap.507) - 1.01 GB
 magnet:?xt=urn:btih:043eebb66e03618d593a344d5dcafb2124825c6d&so=0
-#EXTINF:-1 group-title="720p / HD",Fauda (HDTV 720p)(Cap.510) - 1017.51 MB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="720p / HD",Fauda (HDTV 720p)(Cap.510) - 1017.51 MB
 magnet:?xt=urn:btih:5a19b1d6c3dc05a82dc1b8496964455df3213363&so=0
-#EXTINF:-1 group-title="1080p / Full HD",La Casa Nostra (HDTV 1080p)(Cap.110) - 1.54 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",La Casa Nostra (HDTV 1080p)(Cap.110) - 1.54 GB
 magnet:?xt=urn:btih:aa4a64695fbaffbfb5f73b556c0f1fcf8a80c560&so=0
-#EXTINF:-1 group-title="4K / UHD (2160p)",Gandhari (2026) (4k 2160p)(Esp) - 17.72 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Gandhari (2026) (4k 2160p) - 17.72 GB
 magnet:?xt=urn:btih:7b5b72580e110db673f7f3854e6afb67996d88ca&so=0
-#EXTINF:-1 group-title="1080p / Full HD",Gigante (Giant) (2025) (Bluray 1080p)(Esp) - 15.37 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Gigante (Giant) (2025) (Bluray 1080p) - 15.37 GB
 magnet:?xt=urn:btih:cbff43f3c4fb60c9c8bd0abc02a044fe5ef22184&so=0
-#EXTINF:-1 group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) (Bluray 1080p)(Esp) - 9.76 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) (Bluray 1080p) - 9.76 GB
 magnet:?xt=urn:btih:6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&so=0
-#EXTINF:-1 group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) (Bluray 1080p)(Esp) - 9.76 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) (Bluray 1080p) - 9.76 GB
 magnet:?xt=urn:btih:6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&so=0
-#EXTINF:-1 group-title="4K / UHD (2160p)",Patrulla nocturna (Night Patrol) (2025) (4k 2160p)(Esp) - 12.09 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Patrulla nocturna (Night Patrol) (2025) (4k 2160p) - 12.09 GB
 magnet:?xt=urn:btih:b081885872bd5198f91627c58693ad36c980af53&so=0
-#EXTINF:-1 group-title="4K / UHD (2160p)",Sunrise El ultimo amanecer (2026) (4k 2160p)(Esp) - 12.40 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Sunrise El ultimo amanecer (2026) (4k 2160p) - 12.40 GB
 magnet:?xt=urn:btih:87cc3cf8a63996192ad4f677ae5d2265fc06e50b&so=0
-#EXTINF:-1 group-title="4K / UHD (2160p)",Susurran tu nombre (The Whisper Man) (2026) (4k 2160p)(Esp) - 16.93 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Susurran tu nombre (The Whisper Man) (2026) (4k 2160p) - 16.93 GB
 magnet:?xt=urn:btih:8d1788af7306a4f724af7593e370321ee2adbecb&so=0
-#EXTINF:-1 group-title="1080p / Full HD",The Runner (A la carrera) (2026) (Bluray 1080p)(Esp) - 6.38 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",The Runner (A la carrera) (2026) (Bluray 1080p) - 6.38 GB
 magnet:?xt=urn:btih:443a86e68ef5b6d30337947d2946fce39f415390&so=0
-#EXTINF:-1 group-title="1080p / Full HD",Vaiana (2026) (Bluray 1080p)(Esp) - 9.23 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Vaiana (2026) (Bluray 1080p) - 9.23 GB
 magnet:?xt=urn:btih:a683758e90ac277dc2824ad3466637bcb73f264c&so=0
-#EXTINF:-1 group-title="1080p / Full HD",Yo no morire de amor (2026) (Bluray 1080p)(Esp) - 7.02 GB
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Yo no morire de amor (2026) (Bluray 1080p) - 7.02 GB
 magnet:?xt=urn:btih:81355c2861744286567d9b939afe5b5d55428dce&so=0
