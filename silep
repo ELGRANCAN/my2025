@@ -1,148 +1,23 @@
-{	"name": "4025 Películas",
-    "groups": [{
-			"name": "Estrenos (6)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/2026",
-			"import": "false"
-		},{
-			"name": "Caracteres especiales (105)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/CE",
-			"import": "false"
-		},{
-			"name": "Alpha (262)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Alpha",
-			"import": "false"
-		},{
-			"name": "Bravo (165)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Bravo",
-			"import": "false"
-		},{
-			"name": "Charlie (277)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Charlie",
-			"import": "false"
-		},{
-			"name": "Delta (167)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Delta",
-			"import": "false"
-		},{
-			"name": "Echo (593)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Echo",
-			"import": "false"
-		},{
-			"name": "Foxtrot (88)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Foxtrot",
-			"import": "false"
-		},{
-			"name": "Golf (70)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Golf",
-			"import": "false"
-		},{
-			"name": "Hotel (100)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Hotel",
-			"import": "false"
-		},{
-			"name": "India (71)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/India",
-			"import": "false"
-		},{
-			"name": "Juliet (60)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Juliet",
-			"import": "false"
-		},{
-			"name": "Kilo (34)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Kilo",
-			"import": "false"
-		},{
-			"name": "Lima (629)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Lima",
-			"import": "false"
-		},{
-			"name": "Mike (241)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Mike",
-			"import": "false"
-		},{
-			"name": "November (84)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/November",
-			"import": "false"
-		},{
-			"name": "Ñoño (0)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Nono",
-			"import": "false"
-		},{
-			"name": "Oscar (52)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Oscar",
-			"import": "false"
-		},{
-			"name": "Papa (167)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Papa",
-			"import": "false"
-		},{
-			"name": "Quebec (17)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Quebec",
-			"import": "false"
-		},{
-			"name": "Romeo (100)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Romeo",
-			"import": "false"
-		},{
-			"name": "Sierra (237)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Sierra",
-			"import": "false"
-		},{
-			"name": "Tango (235)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Tango",
-			"import": "false"
-		},{
-			"name": "Uniform (128)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Uniform",
-			"import": "false"
-		},{
-			"name": "Victor (72)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Victor",
-			"import": "false"
-		},{
-			"name": "Whiskey (30)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Whiskey",
-			"import": "false"
-		},{
-			"name": "X-ray (13)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/X-ray",
-			"import": "false"
-		},{
-			"name": "Yankee (14)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Yankee",
-			"import": "false"
-		},{
-			"name": "Zulu (14)",
-			"image": "https://i.ibb.co/679Mv684/web.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/Zulu",
-			"import": "false"
-		}]
-}
+#EXTM3U
+#EXTINF:0,Auri_(2026)_BluRay_1080p_SPANISH
+/stream/?link=5a3512e4d8573202c7e34a9db782ece709617adf
+#EXTINF:0,Exit_Protocol_(2025)_BluRay_1080p_SPANISH
+/stream/?link=dd708c832481b93a814edd9cb5800c7e3ff00d69
+#EXTINF:0,Fin_de_semana_salvaje_Bone_Lake_2024_BluRay_1080p_SPANISH
+/stream/?link=aa4a64695fbaffbfb5f73b556c0f1fcf8a80c560
+#EXTINF:0,gigante--giant---2025---BluRay-1080p_16_1029
+/stream/?link=cbff43f3c4fb60c9c8bd0abc02a044fe5ef22184
+#EXTINF:0,novia_a_la_fuerza_borderline_2025_BluRay_1080p_41_1029
+/stream/?link=6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c
+#EXTINF:0,Sunrise_El_ultimo_amanecer_(2026)_4KUHDrip_SPANISH
+/stream/?link=87cc3cf8a63996192ad4f677ae5d2265fc06e50b
+#EXTINF:0,Susurran_tu_nombre_The_Whisper_Man_2026_4KUHDrip_SPANISH
+/stream/?link=e098a2896f8abde2dfd45ff505706027e22ebfc1
+#EXTINF:0,The_Runner_(A_la_carrera)_(2026)_4KUHDrip_SPANISH
+/stream/?link=a3c60f31556d4acce157a59771b43e9478c0e926
+#EXTINF:0,The_Runner_(A_la_carrera)_(2026)_BluRay_1080p_SPANISH
+/stream/?link=443a86e68ef5b6d30337947d2946fce39f415390
+#EXTINF:0,Una_mujer_sin_pasado_(2026)_4lk_2160p_4KUHDrip_SPANISH
+/stream/?link=8f8d59aa1d2d62cc79fffdf389d24025f65a98cb
+#EXTINF:0,Yo_no_morire_de_amor_(2026)_BluRay_1080p_SPANISH
+/stream/?link=81355c2861744286567d9b939afe5b5d55428dce
