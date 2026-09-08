@@ -1,4 +1,4 @@
-{   "name": "ACT150426",
+{   "name": "ACT080926",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
@@ -11,48 +11,13 @@
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/mrrB9zLH/image.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/LG_es.m3u",
-			"import": "false"
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
 			"import": "false"
 		},{
 			"name": "",
-			"image": "https://i.ibb.co/PYF7fJN/santv.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/AIO.w3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/c8LBv2W/rakutentv.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/tv/w3u/RakutenTV_tv.w3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/xmsf3ry/runtime.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/w3u/RuntimeTV_tv.w3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/spFsVwK2/image-2.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/roku_all.m3u",
-			"import": "false"
-		},{
-			"name": "",
 			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/VW5zz8rC/image-5.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/distro-playlist-generator/refs/heads/main/playlists/distrotv_all.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/bj6rKzyd/image-6.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/refs/heads/main/tv/w3u/RadTV_tv.w3u",
 			"import": "false"
 		},{
 			"name": "",
@@ -63,11 +28,6 @@
 			"name": "",
 			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
 			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
-			"import": "false"
-		},{
-			"name": "WhaleTV",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
 			"import": "false"
 		},{
 			"name": "FireTV",
