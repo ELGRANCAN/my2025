@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0,1Auri_(2026)_BluRay_1080p_SPANISH
+#EXTINF:0,2Auri_(2026)_BluRay_1080p_SPANISH
 http://localhost:8090/stream/video.mkv?link=5a3512e4d8573202c7e34a9db782ece709617adf&index=0&play
