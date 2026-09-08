@@ -1,59 +1,33 @@
 #EXTM3U
-#EXTINF:-1,Caminando con el diablo (2026) [Bluray 1080p][Esp] - 5.07 GB
-magnet:?xt=urn:btih:9159fca9177450e46d2d7ad257e127700093561f&so=0
-#EXTINF:-1,Alter ego (2026) [Bluray 1080p][Esp] - 7.76 GB
-magnet:?xt=urn:btih:e451ef9565aabf5d2f2f1eae1f1d242f8e53bbf2&so=0
-#EXTINF:-1,The History of Sound (La Historia del Sonido) (2025) [Bluray 1080p][Esp] - 14.93 GB
-magnet:?xt=urn:btih:3adbb0d9c93a93358db41ab9486b8baa02e10a9e&so=0
-#EXTINF:-1,Rey Marfil (King Ivory) (2026)  [Bluray 1080p][esp] - 10.30 GB
-magnet:?xt=urn:btih:4e33c891bd0947e3d298f3345d07027967092763&so=0
-#EXTINF:-1,Mi mejor amigo su novia y yo (2026) [Bluray 1080p][Esp] - 4.56 GB
-magnet:?xt=urn:btih:80af644bae56513e9f5b68980e40d40f83869b40&so=0
-#EXTINF:-1,La puerta del sotano (2026) [Bluray 1080p][Esp] - 6.17 GB
-magnet:?xt=urn:btih:842f73d15b1c96c8cadb94b7b963c5f7ece10719&so=0
-#EXTINF:-1,Unas Vacaciones En Invierno (2026) [Bluray 1080p][Esp] - 10.25 GB
-magnet:?xt=urn:btih:5444b2a40c135722a49c902c72d8abc877b79643&so=0
-#EXTINF:-1,40 Acres (2024) [Bluray 1080p][Esp] - 11.22 GB
-magnet:?xt=urn:btih:49d2bb23a25c652e77a97009563cf29eb198c260&so=0
-#EXTINF:-1,Invencible Un nino fuera de serie (2025) [Bluray 1080p][Esp] - 8.41 GB
-magnet:?xt=urn:btih:c0e57e9c37485e4972710a029b875215cf2ac253&so=0
-#EXTINF:-1,Regreso a los 90 (Back to the 90s) (2026) [Bluray 1080p][Esp] - 6.62 GB
-magnet:?xt=urn:btih:7f3cf2cb2e46a72081eaf7100a5e25b5f3b6982d&so=0
-#EXTINF:-1,Posesion infernal En llamas (2026) [Bluray 1080p][Esp] - 7.72 GB
-magnet:?xt=urn:btih:cac1dd012d132e4a4c11ca9a4cddc506ff72fdf6&so=0
-#EXTINF:-1,La isla de Amrum (2025) [Bluray 1080p][Esp] - 8.98 GB
-magnet:?xt=urn:btih:a7cf1795ee1195740c33d8d76472047943ab906c&so=0
-#EXTINF:-1,Mi hermana Bertille (2025) [Bluray 1080p][Esp] - 6.96 GB
-magnet:?xt=urn:btih:f6cef446d3bee92c0936f2cd26cdc11b4d01befd&so=0
-#EXTINF:-1,Rosebush Pruning (2026) [Bluray 1080p][Esp] - 7.52 GB
-magnet:?xt=urn:btih:228dfb44619c7b3710618ada2c9d6ed3fd73c236&so=0
-#EXTINF:-1,Zona 3 (Chien 51) (2025) [Bluray 1080p][Esp] - 14.14 GB
-magnet:?xt=urn:btih:08fa31a0bcf51d738c5d0ecab5effc1f22eccead&so=0
-#EXTINF:-1,Sunrise El ultimo amanecer (2026) [Bluray 1080p][Esp] - 8.44 GB
-magnet:?xt=urn:btih:771bf1bd92600622f5cd3fc3784055fd91a3de43&so=0
-#EXTINF:-1,El ser querido (2026) [Bluray 1080p][Esp] - 9.67 GB
-magnet:?xt=urn:btih:d2d3104d1a370efe5868366e573f976cafc37fd0&so=0
-#EXTINF:-1,Auri (2026) [HDTV 1080p][Esp] - 10.02 GB
-magnet:?xt=urn:btih:5a3512e4d8573202c7e34a9db782ece709617adf&so=0
-#EXTINF:-1,Patrulla nocturna (Night Patrol) (2025) [Bluray 1080p][Esp] - 14.35 GB
-magnet:?xt=urn:btih:86457ec33c0ee152659a1ce4a793bb0192817972&so=0
-#EXTINF:-1,Exit Protocol (2025) [Bluray 1080p][Esp] - 8.55 GB
-magnet:?xt=urn:btih:e098a2896f8abde2dfd45ff505706027e22ebfc1&so=0
-#EXTINF:-1,Yo no morire de amor (2026) [Bluray 1080p][Esp] - 7.02 GB
-magnet:?xt=urn:btih:81355c2861744286567d9b939afe5b5d55428dce&so=0
-#EXTINF:-1,Fin de semana salvaje (Bone Lake) (2024) [Bluray 1080p][Esp] - 12.54 GB
-magnet:?xt=urn:btih:e96dbe9cdefc53fca54b248028f8239cfb3eac96&so=0
-#EXTINF:-1,Couture Alta Costura (2025) [Bluray 1080p][Esp] - 8.06 GB
-magnet:?xt=urn:btih:b56a2605579de844301ebe8387495d2524d7fe87&so=0
-#EXTINF:-1,The Runner (A la carrera) (2026) [Bluray 1080p][Esp] - 6.38 GB
+#EXTINF:-1 group-title="4K / UHD (2160p)",Mayday [4K 2160p][Esp] - 20.63 GB
+magnet:?xt=urn:btih:366696789e2b5084684954f51bad549f4f95a43a&so=0
+#EXTINF:-1 group-title="1080p / Full HD",The Runner (A la carrera) (2026) [Bluray 1080p][Esp] - 6.38 GB
 magnet:?xt=urn:btih:443a86e68ef5b6d30337947d2946fce39f415390&so=0
-#EXTINF:-1,La lucha (2025) [Bluray 1080p][Esp] - 6.93 GB
-magnet:?xt=urn:btih:6ae40a6ab3c2c51976187a929b71aaf4b93fc428&so=0
-#EXTINF:-1,El ultimo gran guerrero (Rise of the Conqueror) (2026) [Bluray 1080p][Esp] - 6.86 GB
-magnet:?xt=urn:btih:c5f4dab2f0d91552a26c5b37b3332a881edb77f0&so=0
-#EXTINF:-1,Gigante (Giant) (2025) [Bluray 1080p][Esp] - 15.37 GB
+#EXTINF:-1 group-title="4K / UHD (2160p)",De verdad estoy bien (Paaz) [4k 2160p][Esp] - 13.42 GB
+magnet:?xt=urn:btih:161a1f6174a70c89be928291828f92c372dedad5&so=0
+#EXTINF:-1 group-title="720p / HD",Fauda [HDTV 720p][Cap.507] - 1.01 GB
+magnet:?xt=urn:btih:043eebb66e03618d593a344d5dcafb2124825c6d&so=0
+#EXTINF:-1 group-title="720p / HD",Fauda [HDTV 720p][Cap.510] - 1017.51 MB
+magnet:?xt=urn:btih:5a19b1d6c3dc05a82dc1b8496964455df3213363&so=0
+#EXTINF:-1 group-title="1080p / Full HD",La Casa Nostra [HDTV 1080p][Cap.110] - 1.54 GB
+magnet:?xt=urn:btih:aa4a64695fbaffbfb5f73b556c0f1fcf8a80c560&so=0
+#EXTINF:-1 group-title="4K / UHD (2160p)",Gandhari (2026) [4k 2160p][Esp] - 17.72 GB
+magnet:?xt=urn:btih:7b5b72580e110db673f7f3854e6afb67996d88ca&so=0
+#EXTINF:-1 group-title="1080p / Full HD",Gigante (Giant) (2025) [Bluray 1080p][Esp] - 15.37 GB
 magnet:?xt=urn:btih:cbff43f3c4fb60c9c8bd0abc02a044fe5ef22184&so=0
-#EXTINF:-1,De verdad estoy bien (Paaz) [Bluray 1080p][Esp] - 6.87 GB
-magnet:?xt=urn:btih:af8f3808c5f531609f6c89a2fe0d94beff2ed7ae&so=0
-#EXTINF:-1,Novia a la fuerza (Borderline) (2025) [Bluray 1080p][Esp] - 9.76 GB
+#EXTINF:-1 group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) [Bluray 1080p][Esp] - 9.76 GB
 magnet:?xt=urn:btih:6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&so=0
+#EXTINF:-1 group-title="1080p / Full HD",Novia a la fuerza (Borderline) (2025) [Bluray 1080p][Esp] - 9.76 GB
+magnet:?xt=urn:btih:6a8ee25bffc60ccfe7b24db84ac303bc4c0d469c&so=0
+#EXTINF:-1 group-title="4K / UHD (2160p)",Patrulla nocturna (Night Patrol) (2025) [4k 2160p][Esp] - 12.09 GB
+magnet:?xt=urn:btih:b081885872bd5198f91627c58693ad36c980af53&so=0
+#EXTINF:-1 group-title="4K / UHD (2160p)",Sunrise El ultimo amanecer (2026) [4k 2160p][Esp] - 12.40 GB
+magnet:?xt=urn:btih:87cc3cf8a63996192ad4f677ae5d2265fc06e50b&so=0
+#EXTINF:-1 group-title="4K / UHD (2160p)",Susurran tu nombre (The Whisper Man) (2026) [4k 2160p][Esp] - 16.93 GB
+magnet:?xt=urn:btih:8d1788af7306a4f724af7593e370321ee2adbecb&so=0
+#EXTINF:-1 group-title="1080p / Full HD",The Runner (A la carrera) (2026) [Bluray 1080p][Esp] - 6.38 GB
+magnet:?xt=urn:btih:443a86e68ef5b6d30337947d2946fce39f415390&so=0
+#EXTINF:-1 group-title="1080p / Full HD",Vaiana (2026) [Bluray 1080p][Esp] - 9.23 GB
+magnet:?xt=urn:btih:a683758e90ac277dc2824ad3466637bcb73f264c&so=0
+#EXTINF:-1 group-title="1080p / Full HD",Yo no morire de amor (2026) [Bluray 1080p][Esp] - 7.02 GB
+magnet:?xt=urn:btih:81355c2861744286567d9b939afe5b5d55428dce&so=0
