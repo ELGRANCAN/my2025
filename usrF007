@@ -12,6 +12,11 @@
 			"import": "false"
 		},{
 			"name": "",
+			"image": "https://i.ibb.co/VYQmypcD/seir.png",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/seir",
+			"import": "false"
+		},{
+			"name": "",
 			"image": "https://i.ibb.co/QFQkT0Y9/tv.png",
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/vt",
 			"import": "false"
