@@ -2,28 +2,43 @@
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
 			"import": "false"
 		},{
 			"name": "CANALES 02",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/c861fbb7e28315d1298d03ad/hashes_acestream.m3u",
-			"import": "false"
-		},{
-			"name": "CANALES 03",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/f9526222109b57c89b83fc99/hashes_acestream.m3u",
-			"import": "false"
-		},{
-			"name": "CANALES 04",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/2f7555aebb6f71bc744e987f/data/listas/lista_fuera_iptv.m3u",
-			"import": "false"
-		},{
-			"name": "CANALES 05",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 			"url": "https://search-ace.stream/playlist?category=sport",
 			"import": "false"
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
+		},{
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
