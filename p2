@@ -10,10 +10,15 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 			"import": "false"
 		},{
-			"name": "CANALES 03",
-			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
-			"import": "false"
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
