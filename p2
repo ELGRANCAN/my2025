@@ -50,16 +50,6 @@
 					"url": ""
 					}]
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
-		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
