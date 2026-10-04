@@ -16,8 +16,18 @@
 			"import": "false"
 		},{
 			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}]
+		},{
+			"name": "",
 			"image": "https://i.ibb.co/S79KknYM/FLS.png",
-			"url": "https://raw.githubusercontent.com/HelmerLuzo/FreeLiveSportsTV_HL/refs/heads/main/tv/w3u/FreeLiveSportsTV_tv.w3u",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
 			"import": "false"
 		},{
 			"name": "",
