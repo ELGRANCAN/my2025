@@ -75,17 +75,17 @@
 					"url": ""
 					}]
 		},{
-			"name": "SERVIDOR 01",
+			"name": "IPTV 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 02",
+			"name": "IPTV 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 03",
+			"name": "IPTV 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u",
 			"import": "false"
