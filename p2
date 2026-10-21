@@ -55,16 +55,6 @@
 					"url": ""
 					}]
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
-		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
@@ -72,16 +62,20 @@
 		},{
 			"name": "SERVIDOR 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
+			"url": "https://raw.githubusercontent.com/la22lo/sports/refs/heads/main/futbol.m3u",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 03",
+			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
+			"url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 04",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
 			"import": "false"
 		}]
 }
-
 
 
 
