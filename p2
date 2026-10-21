@@ -65,17 +65,17 @@
 					"url": ""
 					}]
 		},{
-			"name": "IPTV 01",
+			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
 			"import": "false"
 		},{
-			"name": "IPTV 02",
+			"name": "SERVIDOR 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
 			"import": "false"
 		},{
-			"name": "IPTV 03",
+			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
 			"url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
 			"import": "false"
