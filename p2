@@ -15,25 +15,10 @@
 			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
-		},{
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}]
+			"name": "CANALES 04",
+			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+			"url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
+			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
@@ -87,7 +72,7 @@
 		},{
 			"name": "IPTV 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://af1c1onados.vercel.app/af1cionados.w3u",
+			"url": "https://af1c1onados.vercel.app/09.0.Menu.ZoNa.DepOrTiVa.w3u",
 			"import": "false"
 		},{
 			"name": "IPTV 03",
