@@ -1,4 +1,4 @@
-{   "name": "ACT080926",
+{   "name": "ACT: 22/10/2026 (11:00)",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
@@ -10,14 +10,44 @@
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "",
+			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
 			"import": "false"
 		},{
+			"name": "SERVIDOR 02",
+			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
+			"import": "false"
+		},{
+			"name": "SAMSUNG 01",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
+			"import": "false"
+		},{
+			"name": "SAMSUNG 02",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 01",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
+			"import": "false"
+		},{
+			"name": "SERVIDOR 02",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+			"import": "false"
+		},{
+			"name": "LG",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
+			"import": "false"
+		},{
 			"name": "",
 			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_playlist.m3u",
+			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
 			"import": "false"
 		},{
 			"name": "",
