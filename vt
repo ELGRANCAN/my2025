@@ -29,7 +29,7 @@
 					"import": "false"
 					},{
 					"name": "Argentina",
-					"image": "https://i.ibb.co/twqcdNhS/ar.png",
+					"image": "",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
 					"import": "false"
 					},{
