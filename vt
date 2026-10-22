@@ -111,6 +111,11 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_es.m3u",
 			"import": "false"
 		},{
+			"name": "VIVALIVE",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/vivalive.m3u",
+			"import": "false"
+		},{
 			"name": "OTROS",
 			"image": "",
 			"groups": [{
@@ -127,6 +132,11 @@
 					"name": "TUBI",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
+					"import": "false"
+					},{
+					"name": "PLEX",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_all.m3u",
 					"import": "false"
 					},{
 					"name": "WHALETV",
