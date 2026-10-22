@@ -71,6 +71,11 @@
 					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
 					"import": "false"
+					},{
+					"name": "SERVIDOR 03",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_pluto.m3u",
+					"import": "false"
 					}]
 		},{
 			"name": "",
@@ -100,6 +105,11 @@
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
 					"import": "false"
 					}]
+		},{
+			"name": "RAKUTEN",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+			"import": "false"
 		},{
 			"name": "LG",
 			"image": "",
