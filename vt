@@ -87,6 +87,11 @@
 			"name": "TDT Internacional",
 			"image": "",
 			"groups": [{
+					"name": "España",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u",
+					"import": "false"
+					},{
 					"name": "Afghanistan",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
@@ -118,12 +123,12 @@
 					"import": "false"
 					},{
 					"name": "Brazil",
-					"image": "https://i.ibb.co/LXLkgDLY/br.png",
+					"image": "",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
 					"import": "false"
 					},{
 					"name": "Colombia",
-					"image": "https://i.ibb.co/JP509VH/co.png",
+					"image": "",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
 					"import": "false"
 					}]
