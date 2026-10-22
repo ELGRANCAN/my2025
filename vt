@@ -18,7 +18,8 @@
         "image": "",
         "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u",
         "import": "false"
-    },{
+    },
+	{
         "name": "Afghanistan",
         "image": "",
         "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
