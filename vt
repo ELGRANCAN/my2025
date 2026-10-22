@@ -10,80 +10,6 @@
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"groups": [{
-					"name": "SERVIDOR 01",
-					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
-					"import": "false"
-					},{
-					"name": "SERVIDOR 02",
-					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
-					"import": "false"
-					}]
-		},{
-			"name": "SAMSUNG 01",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
-			"import": "false"
-		},{
-			"name": "SAMSUNG 02",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 01",
-			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 02",
-			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
-			"import": "false"
-		},{
-			"name": "LG",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/PZhQ22Nz/image-4.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/VcJTPt71/image-7.png",
-			"url": "https://www.apsattv.com/xumo.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
-			"import": "false"
-		},{
-			"name": "FireTV",
-			"image": "",
-			"url": "https://www.apsattv.com/firetv.m3u",
-			"import": "false"
-		},{
-			"name": "Vizio",
-			"image": "",
-			"url": "https://www.apsattv.com/vizio.m3u",
-			"import": "false"
-		},{
-			"name": "RedeiTV",
-			"image": "",
-			"url": "https://www.apsattv.com/redeitv.m3u",
-			"import": "false"
-		},{
-			"name": "TV",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
-			"import": "false"
-		},{
 			"name": "TDT Internacional",
 			"image": "",
 			"groups": [{
@@ -130,6 +56,87 @@
 					"name": "Colombia",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "SANSUMG",
+			"image": "",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "LG",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
+			"import": "false"
+		},{
+			"name": "OTROS",
+			"image": "",
+			"groups": [{
+					"name": "TUBI",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
+					"import": "false"
+					},{
+					"name": "XUMO",
+					"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+					"url": "https://www.apsattv.com/xumo.m3u",
+					"import": "false"
+					},{
+					"name": "FIRETV",
+					"image": "",
+					"url": "https://www.apsattv.com/firetv.m3u",
+					"import": "false"
+					},{
+					"name": "VIZIO",
+					"image": "",
+					"url": "https://www.apsattv.com/vizio.m3u",
+					"import": "false"
+					},{
+					"name": "REDEITV",
+					"image": "",
+					"url": "https://www.apsattv.com/redeitv.m3u",
+					"import": "false"
+					},{
+					"name": "VARIOS",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
 					"import": "false"
 					}]
 		}]
