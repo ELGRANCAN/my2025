@@ -10,15 +10,19 @@
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "SERVIDOR 01",
+			"name": "",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
-			"import": "false"
-		},{
-			"name": "SERVIDOR 02",
-			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-			"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
-			"import": "false"
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
+					"import": "false"
+					}]
 		},{
 			"name": "SAMSUNG 01",
 			"image": "",
