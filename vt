@@ -10,8 +10,8 @@
 			"url": "https://www.tdtchannels.com/lists/tv.m3u",
 			"import": "false"
 		},{
-			"name": "TDT Internacional",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/WNkY6KZM/b3713b8a-f6f9-42ee-a8f4-a4904d81e490.png",
 			"groups": [{
 					"name": "España",
 					"image": "",
