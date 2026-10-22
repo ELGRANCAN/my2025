@@ -114,6 +114,16 @@
 			"name": "OTROS",
 			"image": "",
 			"groups": [{
+					"name": "PLUTOTV",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
+					"import": "false"
+					},{
+					"name": "SANSUMG",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_all.m3u",
+					"import": "false"
+					},{
 					"name": "TUBI",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
@@ -125,7 +135,7 @@
 					"import": "false"
 					},{
 					"name": "XUMO",
-					"image": "https://i.ibb.co/VcJTPt71/image-7.png",
+					"image": "",
 					"url": "https://www.apsattv.com/xumo.m3u",
 					"import": "false"
 					},{
