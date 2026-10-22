@@ -1,4 +1,4 @@
-{   "name": "ACT: 21/10/2026 (21:00)",
+{   "name": "ACT: 22/10/2026 (10:00)",
     "groups": [{
 			"name": "CANALES 01",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
@@ -17,12 +17,12 @@
 		},{
 			"name": "CANALES 04",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
+			"url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
 			"import": "false"
 		},{
 			"name": "CANALES 05",
 			"image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-			"url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
 			"import": "false"
 		},{
 			"name": "",
@@ -52,17 +52,17 @@
 		},{
 			"name": "SERVIDOR 01",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
+			"url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 02",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
+			"url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 03",
 			"image": "https://i.ibb.co/tzPq9hx/iptv.png",
-			"url": "https://tinworld.vercel.app/23.0.0.Menu.Only.Sport.w3u",
+			"url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
 			"import": "false"
 		},{
 			"name": "SERVIDOR 04",
