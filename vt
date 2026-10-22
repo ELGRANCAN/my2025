@@ -106,12 +106,22 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
 			"import": "false"
 		},{
+			"name": "WHALETV",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_es.m3u",
+			"import": "false"
+		},{
 			"name": "OTROS",
 			"image": "",
 			"groups": [{
 					"name": "TUBI",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
+					"import": "false"
+					},{
+					"name": "WHALETV",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
 					"import": "false"
 					},{
 					"name": "XUMO",
