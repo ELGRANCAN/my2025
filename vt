@@ -73,20 +73,6 @@
 					"import": "false"
 					}]
 		},{
-			"name": "SANSUMG",
-			"image": "",
-			"groups": [{
-					"name": "SERVIDOR 01",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
-					"import": "false"
-					},{
-					"name": "SERVIDOR 02",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
-					"import": "false"
-					}]
-		},{
 			"name": "",
 			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
 			"groups": [{
@@ -98,6 +84,20 @@
 					"name": "SERVIDOR 02",
 					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "SANSUMG",
+			"image": "",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
 					"import": "false"
 					}]
 		},{
