@@ -1,4 +1,4 @@
-{    "name": "ACT: 23/10/2026 (04:00)",
+{    "name": "ACT: 23/10/2026 (03:00)",
     "groups": [
         {
             "name": "CANALES 01",
@@ -37,38 +37,49 @@
             "import": "false"
         },
         {
-            "name": "RALLY TV",
-            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+            "name": "OTROS",
+            "image": "",
             "groups": [
-                {
-                    "name": "RALLY TV",
-                    "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+				{
+					"name": "",
+					"image": "",
+					"url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+					"import": "false"
+				},
+				{
+					"name": "",
+					"image": "",
+					"url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
+					"import": "false"
+				},{
+                    "name": "",
+                    "image": "",
                     "stations": [
                         {
-                            "name": "Rally TV - Red Bull",
-                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-                            "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
+                            "name": "",
+                            "image": "",
+                            "url": ""
                         },
                         {
-                            "name": "Rally TV - Akamai",
-                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-                            "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+                            "name": "",
+                            "image": "",
+                            "url": ""
                         }
                     ]
                 }
             ]
         },
         {
-			"name": "RALLY TV",
+			"name": "",
 			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 			"stations": [
 				{
-					"name": "Rally TV - Red Bull",
+					"name": "",
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
 				},
 				{
-					"name": "Rally TV - Akamai",
+					"name": "",
 					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
 					"url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
 				}
