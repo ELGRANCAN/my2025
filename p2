@@ -37,32 +37,22 @@
             "import": "false"
         },
         {
-            "name": "OTROS",
+            "name": "EN DIRECTO",
             "image": "",
             "groups": [
                 {
-                    "name": "CANAL 01",
-                    "image": "",
-                    "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
-                },
-                {
-                    "name": "CANAL 02",
-                    "image": "",
-                    "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
-                },
-                {
-                    "name": "Canales adicionales",
+                    "name": "OTROS",
                     "image": "",
                     "stations": [
                         {
-                            "name": "Canal adicional 01",
+                            "name": "CANAL 01",
                             "image": "",
-                            "url": ""
+                            "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
                         },
                         {
-                            "name": "Canal adicional 02",
+                            "name": "CANAL 02",
                             "image": "",
-                            "url": ""
+                            "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
                         }
                     ]
                 }
