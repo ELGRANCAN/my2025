@@ -1,12 +1,12 @@
-{   "name": "ACT: 22/10/2026 (11:00)",
+{   "name": "ACT: 23/10/2026 (02:00)",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
 			"url": "https://www.tdtchannels.com/lists/radio.m3u",
 			"import": "false"
 		},{
-			"name": "https://i.ibb.co/sJyjBPH6/image-1.png",
-			"image": "",
+			"name": "",
+			"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
 			"groups": [{
 					"name": "ESPAÑA",
 					"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
