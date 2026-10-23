@@ -5,100 +5,103 @@
 			"url": "https://www.tdtchannels.com/lists/radio.m3u",
 			"import": "false"
 		},{
-			"name": "",
-			"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
-			"url": "https://www.tdtchannels.com/lists/tv.m3u",
-			"import": "false"
-		},{
-			"name": "",
-			"image": "https://i.ibb.co/WNkY6KZM/b3713b8a-f6f9-42ee-a8f4-a4904d81e490.png",
-			"groups": [
-    {
-        "name": "España",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u",
-        "import": "false"
-    },
-	{
-        "name": "Afghanistan",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Albania",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/al.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Andorra",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ad.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Antigua y Barbuda",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ag.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Argentina",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Armenia",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/am.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Australia",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Austria",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/at.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Azerbaijan",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/az.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Brazil",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Colombia",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
-        "import": "false"
-    },
-    {
-        "name": "Emiratos Árabes",
-        "image": "",
-        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ae.m3u",
-        "import": "false"
-    }
-]
+			"name": "https://i.ibb.co/sJyjBPH6/image-1.png",
+			"image": "",
+			"groups": [{
+					"name": "ESSPAÑA",
+					"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
+					"url": "https://www.tdtchannels.com/lists/tv.m3u",
+					"import": "false"
+					},{
+					"name": "INERNACIONAL",
+					"image": "https://i.ibb.co/WNkY6KZM/b3713b8a-f6f9-42ee-a8f4-a4904d81e490.png",
+					"groups": [
+					{
+						"name": "España",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Afghanistan",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Albania",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/al.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Andorra",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ad.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Antigua y Barbuda",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ag.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Argentina",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Armenia",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/am.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Australia",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Austria",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/at.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Azerbaijan",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/az.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Brazil",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Colombia",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
+						"import": "false"
+					},
+					{
+						"name": "Emiratos Árabes",
+						"image": "",
+						"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ae.m3u",
+						"import": "false"
+					}
+				]}
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
 			"groups": [{
 					"name": "SERVIDOR 01",
 					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
-					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_es.m3u",
+					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
 					"import": "false"
 					},{
 					"name": "SERVIDOR 02",
@@ -117,7 +120,7 @@
 			"groups": [{
 					"name": "SERVIDOR 01",
 					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
-					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_es.m3u",
+					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_all.m3u",
 					"import": "false"
 					},{
 					"name": "SERVIDOR 02",
@@ -131,7 +134,7 @@
 			"groups": [{
 					"name": "SERVIDOR 01",
 					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_es.m3u",
+					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_all.m3u",
 					"import": "false"
 					},{
 					"name": "SERVIDOR 02",
@@ -150,42 +153,12 @@
 			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
 			"import": "false"
 		},{
-			"name": "WHALETV",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_es.m3u",
-			"import": "false"
-		},{
-			"name": "VIVALIVE",
-			"image": "",
-			"url": "https://raw.githubusercontent.com/Llorchico/Otros/refs/heads/main/vivalive.m3u",
-			"import": "false"
-		},{
 			"name": "OTROS",
 			"image": "",
 			"groups": [{
-					"name": "PLUTOTV",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
-					"import": "false"
-					},{
-					"name": "SANSUMG",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_all.m3u",
-					"import": "false"
-					},{
 					"name": "TUBI",
 					"image": "",
 					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
-					"import": "false"
-					},{
-					"name": "PLEX",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_all.m3u",
-					"import": "false"
-					},{
-					"name": "WHALETV",
-					"image": "",
-					"url": "https://raw.githubusercontent.com/Llorchico/Whale_TV/refs/heads/main/whaletvplus_all.m3u",
 					"import": "false"
 					},{
 					"name": "XUMO",
