@@ -1,4 +1,4 @@
-{   "name": "ACT: 23/10/2026 (04:05)",
+{   "name": "ACT: 23/10/2026 (04:00)",
     "groups": [
         {
             "name": "CANALES 01",
@@ -40,6 +40,22 @@
             "name": "EN DIRECTO",
             "image": "",
             "groups": [
+                {
+                    "name": "PARTIDO DE HOY",
+                    "image": "",
+                    "stations": [
+                        {
+                            "name": "SERVIDOR 01",
+                            "image": "",
+                            "url": "00000"
+                        },
+                        {
+                            "name": "SERVIDOR 02",
+                            "image": "",
+                            "url": "00000"
+                        }
+                    ]
+                },
                 {
                     "name": "RALLYTV",
                     "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
