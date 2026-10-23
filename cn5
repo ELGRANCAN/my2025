@@ -1,27 +1,80 @@
-#EXTM3U
-#EXTINF:-1 group-title="Países",España
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u
-#EXTINF:-1 group-title="Países",Afghanistan
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u
-#EXTINF:-1 group-title="Países",Albania
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/al.m3u
-#EXTINF:-1 group-title="Países",Andorra
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ad.m3u
-#EXTINF:-1 group-title="Países",Antigua y Barbuda
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ag.m3u
-#EXTINF:-1 group-title="Países",Argentina
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u
-#EXTINF:-1 group-title="Países",Armenia
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/am.m3u
-#EXTINF:-1 group-title="Países",Australia
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u
-#EXTINF:-1 group-title="Países",Austria
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/at.m3u
-#EXTINF:-1 group-title="Países",Azerbaijan
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/az.m3u
-#EXTINF:-1 group-title="Países",Brazil
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u
-#EXTINF:-1 group-title="Países",Colombia
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u
-#EXTINF:-1 group-title="Países",Emiratos Árabes
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ae.m3u
+{   "name": "ACT: 23/10/2026",
+    "groups": [{
+        "name": "España",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es.m3u",
+        "import": "false"
+    },
+	{
+        "name": "Afghanistan",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/af.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Albania",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/al.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Andorra",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ad.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Antigua y Barbuda",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ag.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Argentina",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ar.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Armenia",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/am.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Australia",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/au.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Austria",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/at.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Azerbaijan",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/az.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Brazil",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/br.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Colombia",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/co.m3u",
+        "import": "false"
+    },
+    {
+        "name": "Emiratos Árabes",
+        "image": "",
+        "url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ae.m3u",
+        "import": "false"
+    }]
+}
