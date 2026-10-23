@@ -1,4 +1,6 @@
-{    "name": "ACT: 23/10/2026 (03:40)",
+
+{
+    "name": "ACT: 23/10/2026 (03:00)",
     "groups": [
         {
             "name": "CANALES 01",
@@ -40,28 +42,29 @@
             "name": "OTROS",
             "image": "",
             "groups": [
-				{
-					"name": "",
-					"image": "",
-					"url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
-					"import": "false"
-				},
-				{
-					"name": "",
-					"image": "",
-					"url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
-					"import": "false"
-				},{
-                    "name": "",
+                {
+                    "name": "CANAL 01",
+                    "image": "",
+                    "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8",
+                    "import": "false"
+                },
+                {
+                    "name": "CANAL 02",
+                    "image": "",
+                    "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8",
+                    "import": "false"
+                },
+                {
+                    "name": "Canales adicionales",
                     "image": "",
                     "stations": [
                         {
-                            "name": "",
+                            "name": "Canal adicional 01",
                             "image": "",
                             "url": ""
                         },
                         {
-                            "name": "",
+                            "name": "Canal adicional 02",
                             "image": "",
                             "url": ""
                         }
@@ -70,20 +73,26 @@
             ]
         },
         {
-			"name": "",
-			"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-			"stations": [
-				{
-					"name": "",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
-				},
-				{
-					"name": "",
-					"image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-					"url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
-				}
-			]
+            "name": "RALLYTV",
+            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+            "groups": [
+                {
+                    "name": "RALLYTV",
+                    "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+                    "stations": [
+                        {
+                            "name": "",
+                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+                            "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
+                        },
+                        {
+                            "name": "",
+                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+                            "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+                        }
+                    ]
+                }
+            ]
         },
         {
             "name": "SERVIDOR 01",
