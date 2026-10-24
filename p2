@@ -33,7 +33,7 @@
 		{
 			"name": "",
 			"image": "https://i.ibb.co/ymnpFJXC/imagen-editada-500x500.png",
-			"stations": [
+			"groups": [
 				{
 					"name": "SERVIDOR 01",
 					"image": "",
