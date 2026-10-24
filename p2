@@ -1,153 +1,162 @@
-{   "name": "ACT: 24/10/2026 (11:00)",
-    "groups": [
+
+{
+  "name": "ACT: 24/10/2026 (12:00)",
+  "groups": [
+    {
+      "name": "CANALES 01",
+      "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
+      "import": "false"
+    },
+    {
+      "name": "CANALES 02",
+      "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
+      "import": "false"
+    },
+    {
+      "name": "CANALES 03",
+      "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
+      "import": "false"
+    },
+    {
+      "name": "CANALES 04",
+      "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
+      "import": "false"
+    },
+    {
+      "name": "CANALES 05",
+      "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
+      "import": "false"
+    },
+    {
+      "name": "",
+      "image": "https://i.ibb.co/ymnpFJXC/imagen-editada-500x500.png",
+      "groups": [
         {
-            "name": "CANALES 01",
-            "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-            "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
-            "import": "false"
+          "name": "SERVIDOR 01",
+          "image": "",
+          "url": "https://fulbollibre.top/live/espn/high.m3u8"
         },
         {
-            "name": "CANALES 02",
-            "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-            "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
-            "import": "false"
-        },
-        {
-            "name": "CANALES 03",
-            "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-            "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
-            "import": "false"
-        },
-        {
-            "name": "CANALES 04",
-            "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-            "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
-            "import": "false"
-        },
-        {
-            "name": "CANALES 05",
-            "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
-            "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
-            "import": "false"
-        },
-		{
-			"name": "",
-			"image": "https://i.ibb.co/ymnpFJXC/imagen-editada-500x500.png",
-			"groups": [
-				{
-					"name": "SERVIDOR 01",
-					"image": "",
-					"url": "https://fulbollibre.top/live/espn/high.m3u8"
-				},
-				{
-					"name": "SERVIDOR 02",
-					"image": "",
-					"url": "00000"
-				}
-			]
-		},
-        {
-            "name": "EN DIRECTO",
-            "image": "https://i.ibb.co/R4Zkg106/imagen-editada-548x572.png",
-            "groups": [
-				{
-					"name": "",
-					"image": "https://i.ibb.co/S79KknYM/FLS.png",
-					"url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
-					"import": "false"
-				},
-                {
-                    "name": "RALLYTV",
-                    "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-                    "stations": [
-                        {
-                            "name": "SERVIDOR 01",
-                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-                            "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
-                        },
-                        {
-                            "name": "SERVIDOR 02",
-                            "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
-                            "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
-                        }
-                    ]
-                },
-                {
-                    "name": "OTROS",
-                    "image": "",
-                    "stations": [https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
-                        {
-                            "name": "ESPN",
-                            "image": "",
-                            "url": "https://fulbollibre.top/live/espn/high.m3u8"
-                        },
-                        {
-                            "name": "REALMADRIDTV",
-                            "image": "",
-                            "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-                        },
-                        {
-                            "name": "CMMPlay",
-                            "image": "",
-                            "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
-                        },
-                        {
-                            "name": "UNBEATEN",
-                            "image": "",
-                            "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
-                        },
-                        {
-                            "name": "CANAL 01",
-                            "image": "",
-                            "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},
-                    {
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}
-                ]
-		},
-        {
-			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},
-                    {
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}
-                ]
-		},
-        {
-            "name": "SERVIDOR 01",
-            "image": "https://i.ibb.co/tzPq9hx/iptv.png",
-            "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u",
-            "import": "false"
-        },
-        {
-            "name": "SERVIDOR 02",
-            "image": "https://i.ibb.co/tzPq9hx/iptv.png",
-            "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
-            "import": "false"
-        },
-        {
-            "name": "SERVIDOR 03",
-            "image": "https://i.ibb.co/tzPq9hx/iptv.png",
-            "url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
-            "import": "false"
+          "name": "SERVIDOR 02",
+          "image": "",
+          "url": "00000"
         }
-    ]
+      ]
+    },
+    {
+      "name": "EN DIRECTO",
+      "image": "https://i.ibb.co/R4Zkg106/imagen-editada-548x572.png",
+      "groups": [
+        {
+          "name": "",
+          "image": "https://i.ibb.co/S79KknYM/FLS.png",
+          "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+          "import": "false"
+        },
+        {
+          "name": "RALLYTV",
+          "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+          "stations": [
+            {
+              "name": "SERVIDOR 01",
+              "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+              "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
+            },
+            {
+              "name": "SERVIDOR 02",
+              "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+              "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+            }
+          ]
+        },
+        {
+          "name": "OTROS",
+          "image": "",
+          "stations": [
+            {
+              "name": "KALTURA",
+              "image": "",
+              "url": "https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
+            },
+            {
+              "name": "ESPN",
+              "image": "",
+              "url": "https://fulbollibre.top/live/espn/high.m3u8"
+            },
+            {
+              "name": "REALMADRIDTV",
+              "image": "",
+              "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+            },
+            {
+              "name": "CMMPlay",
+              "image": "",
+              "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+            },
+            {
+              "name": "UNBEATEN",
+              "image": "",
+              "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+            },
+            {
+              "name": "CANAL 01",
+              "image": "",
+              "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "",
+      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+      "stations": [
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        },
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "",
+      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+      "stations": [
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        },
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "SERVIDOR 01",
+      "image": "https://i.ibb.co/tzPq9hx/iptv.png",
+      "url": "https://raw.githubusercontent.com/la22lo/sports/main/futbol.m3u",
+      "import": "false"
+    },
+    {
+      "name": "SERVIDOR 02",
+      "image": "https://i.ibb.co/tzPq9hx/iptv.png",
+      "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
+      "import": "false"
+    },
+    {
+      "name": "SERVIDOR 03",
+      "image": "https://i.ibb.co/tzPq9hx/iptv.png",
+      "url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
+      "import": "false"
+    }
+  ]
 }
