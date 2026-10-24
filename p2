@@ -1,4 +1,4 @@
-{   "name": "ACT: 23/10/2026 (04:00)",
+{   "name": "ACT: 24/10/2026 (11:00)",
     "groups": [
         {
             "name": "CANALES 01",
@@ -31,11 +31,18 @@
             "import": "false"
         },
         {
-            "name": "",
-            "image": "https://i.ibb.co/S79KknYM/FLS.png",
-            "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
-            "import": "false"
-        },
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},
+                    {
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}
+                ]
+		},
         {
             "name": "EN DIRECTO",
             "image": "https://i.ibb.co/5XFjbsh9/imagen-editada-698x738.png",
@@ -56,6 +63,12 @@
                         }
                     ]
                 },
+				{
+					"name": "",
+					"image": "https://i.ibb.co/S79KknYM/FLS.png",
+					"url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+					"import": "false"
+				},
                 {
                     "name": "RALLYTV",
                     "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
@@ -77,12 +90,12 @@
                     "image": "",
                     "stations": [
                         {
-                            "name": "CANAL 01",
+                            "name": "UNBEATEN",
                             "image": "",
                             "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
                         },
                         {
-                            "name": "CANAL 02",
+                            "name": "CANAL 01",
                             "image": "",
                             "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
                         }
@@ -90,6 +103,19 @@
                 }
             ]
         },
+        {
+			"name": "",
+			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+			"stations": [{
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					},
+                    {
+					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
+					"url": ""
+					}
+                ]
+		},
         {
 			"name": "",
 			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
@@ -112,17 +138,11 @@
         {
             "name": "SERVIDOR 02",
             "image": "https://i.ibb.co/tzPq9hx/iptv.png",
-            "url": "https://t3mpl4ri05.stark8.workers.dev/Eventos.Deportivos.2026.w3u",
-            "import": "false"
-        },
-        {
-            "name": "SERVIDOR 03",
-            "image": "https://i.ibb.co/tzPq9hx/iptv.png",
             "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
             "import": "false"
         },
         {
-            "name": "SERVIDOR 04",
+            "name": "SERVIDOR 03",
             "image": "https://i.ibb.co/tzPq9hx/iptv.png",
             "url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
             "import": "false"
