@@ -1,6 +1,4 @@
-
-{
-  "name": "ACT: 24/10/2026 (12:00)",
+{ "name": "ACT: 24/10/2026 (12:00)",
   "groups": [
     {
       "name": "CANALES 01",
@@ -79,11 +77,6 @@
           "image": "",
           "stations": [
             {
-              "name": "KALTURA",
-              "image": "",
-              "url": "https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
-            },
-            {
               "name": "ESPN",
               "image": "",
               "url": "https://fulbollibre.top/live/espn/high.m3u8"
@@ -96,7 +89,7 @@
             {
               "name": "CMMPlay",
               "image": "",
-              "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+              "url": "https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
             },
             {
               "name": "UNBEATEN",
