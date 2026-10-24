@@ -35,15 +35,15 @@
       "image": "https://i.ibb.co/jCQFssc/hoy.png",
       "stations": [
         {
-          "name": "SERVIDOR 01",
-          "image": "https://i.ibb.co/jCQFssc/hoy.png",
-          "url": "https://fulbollibre.top/live/espn/high.m3u8"
-        },
-        {
-          "name": "SERVIDOR 02",
-          "image": "https://i.ibb.co/jCQFssc/hoy.png",
-          "url": "00000"
-        }
+		  "name": "ESPN",
+		  "image": "https://i.ibb.co/jCQFssc/hoy.png",
+		  "url": "https://fulbollibre.top/live/espn2/high.m3u8"
+		},
+		{
+		  "name": "ESPN 2",
+		  "image": "https://i.ibb.co/jCQFssc/hoy.png",
+		  "url": "https://fulbollibre.top/live/espn/high.m3u8"
+		}
       ]
     },
     {
@@ -78,6 +78,11 @@
           "stations": [
             {
               "name": "ESPN",
+              "image": "",
+              "url": "https://fulbollibre.top/live/espn2/high.m3u8"
+            },
+            {
+              "name": "ESPN 2",
               "image": "",
               "url": "https://fulbollibre.top/live/espn/high.m3u8"
             },
