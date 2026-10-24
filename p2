@@ -30,39 +30,26 @@
             "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcEStREAM%20iDs.w3u",
             "import": "false"
         },
-        {
+		{
 			"name": "",
-			"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-			"stations": [{
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					},
-                    {
-					"image": "https://i.postimg.cc/TwJKznrV/blank.png",
-					"url": ""
-					}
-                ]
+			"image": "https://i.ibb.co/ymnpFJXC/imagen-editada-500x500.png",
+			"stations": [
+				{
+					"name": "SERVIDOR 01",
+					"image": "",
+					"url": "https://fulbollibre.top/live/espn/high.m3u8"
+				},
+				{
+					"name": "SERVIDOR 02",
+					"image": "",
+					"url": "00000"
+				}
+			]
 		},
         {
             "name": "EN DIRECTO",
             "image": "https://i.ibb.co/R4Zkg106/imagen-editada-548x572.png",
             "groups": [
-                {
-                    "name": "PARTIDO DE HOY",
-                    "image": "",
-                    "stations": [
-                        {
-                            "name": "SERVIDOR 01",
-                            "image": "",
-                            "url": "https://fulbollibre.top/live/espn/high.m3u8"
-                        },
-                        {
-                            "name": "SERVIDOR 02",
-                            "image": "",
-                            "url": "00000"
-                        }
-                    ]
-                },
 				{
 					"name": "",
 					"image": "https://i.ibb.co/S79KknYM/FLS.png",
@@ -88,11 +75,21 @@
                 {
                     "name": "OTROS",
                     "image": "",
-                    "stations": [
+                    "stations": [https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8
                         {
                             "name": "ESPN",
                             "image": "",
                             "url": "https://fulbollibre.top/live/espn/high.m3u8"
+                        },
+                        {
+                            "name": "REALMADRIDTV",
+                            "image": "",
+                            "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+                        },
+                        {
+                            "name": "CMMPlay",
+                            "image": "",
+                            "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
                         },
                         {
                             "name": "UNBEATEN",
