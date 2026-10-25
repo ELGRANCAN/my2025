@@ -3,19 +3,19 @@
     {
       "name": "SERVIDOR 01",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
       "import": "false"
     },
     {
       "name": "SERVIDOR 02",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5di462t7j4vu4akwfhvtjhy88qbupktvoacqfqe9uforjvhyi4wr/hashes_acestream.m3u",
       "import": "false"
     },
     {
       "name": "SERVIDOR 03",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
+      "url": "https://tokyo.elcano-ipfs.workers.dev/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes_acestream.m3u",
       "import": "false"
     },
     {
