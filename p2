@@ -1,4 +1,4 @@
-{ "name": "ACT: 25/10/2026 (12:00)",
+{ "name": "ACT: 25/10/2026 (14:00)",
   "groups": [
     {
       "name": "SERVIDOR 01",
@@ -35,14 +35,20 @@
       "image": "https://i.ibb.co/jCQFssc/hoy.png",
       "stations": [
         {
-		  "name": "SERVIDOR 01",
-		  "image": "https://i.ibb.co/jCQFssc/hoy.png",
-		  "url": "https://live.fulbollibre.top/live/espn2/index.m3u8"
+			"name": "SPORTTV 1", 
+			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png", 
+			"url": "https://sportzonline.click/channels/pt/sporttv1.php", 
+			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14", 
+			"referer": "https://sportsonline.st/", 
+			"isHost": true
 		},
 		{
-		  "name": "SERVIDOR 02",
-		  "image": "https://i.ibb.co/jCQFssc/hoy.png",
-		  "url": "https://live.fulbollibre.top/live/espn/index.m3u8"
+			"name": "SPORTTV 2", 
+			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png", 
+			"url": "https://sportzonline.click/channels/pt/sporttv2.php", 
+			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14", 
+			"referer": "https://sportsonline.st/", 
+			"isHost": true
 		}
       ]
     },
@@ -77,24 +83,14 @@
           "image": "",
           "stations": [
             {
-              "name": "ESPN",
+              "name": "CBS SPORTS",
               "image": "",
-              "url": "https://live.fulbollibre.top/live/espn2/index.m3u8"
-            },
-            {
-              "name": "ESPN 2",
-              "image": "",
-              "url": "https://live.fulbollibre.top/live/espn/index.m3u8"
+              "url": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8"
             },
             {
               "name": "REALMADRIDTV",
               "image": "",
               "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-            },
-            {
-              "name": "CBS SPORTS",
-              "image": "",
-              "url": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8"
             },
             {
               "name": "CMMPlay",
