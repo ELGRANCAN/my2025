@@ -42,7 +42,12 @@
 		{
 			"name": "SERVIDOR 02",
 			"image": "",
-			"url": "https://paco@instreams.xyz/live3/H71/index.m3u8?st=U2d8nEd7rtMCBnhnIrFrxw&e=1792966171"
+			"url": "https://instreams.xyz/live3/H71/index.m3u8?st=U2d8nEd7rtMCBnhnIrFrxw&e=1792966171"
+		},
+		{
+			"name": "SERVIDOR 03",
+			"image": "",
+			"url": "https://mossbankstudio.s3-accelerate.amazonaws.com:443/liverpool_720p30.m3u8"
 		}
       ]
     },
