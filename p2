@@ -1,4 +1,4 @@
-{ "name": "ACT: 25/10/2026 (12:00)",
+{ "name": "ACT: 25/10/2026 (12:10)",
   "groups": [
     {
       "name": "SERVIDOR 01",
@@ -39,15 +39,15 @@
 			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png",
 			"url": "https://ww1.sportsonnline.click/channels/hd/hd3.php",
 			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
-			"referer": "https://ww1.sportsonnline.click/",
+            "referer" : "https://w2.sportsonlinee.click/",
 			"isHost": true
 		},
 		{
 			"name": "SPORTTV 2",
 			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png",
 			"url": "https://sportzonline.click/channels/pt/sporttv2.php",
-			"userAgent": "ExoPlayerLib/2.19.1",
-			"referer": "https://sportzonline.click/",
+			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+            "referer" : "https://sportsonline.st/",
 			"isHost": true
 		}
       ]
