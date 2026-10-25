@@ -40,18 +40,14 @@
 			"url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
 		},
 		{
-			"name": "SPORTTV 2",
-			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png",
-			"url": "https://sportzonline.click/channels/pt/sporttv2.php",
-            "referer" : "https://sportzonline.click",
-			"isHost": true
+			"name": "SERVIDOR 02",
+			"image": "",
+			"url": "https://Tdo@instreams.xyz/live3/H71/index.m3u8?st=uDPbGEuJtWxTtSgxZ1yKRw&e=1792955677"
 		},
 		{
-			"name": "CANAL 01",
+			"name": "SERVIDOR 03",
 			"image": "",
-			"url": "https://embedhd.click/play/channel-14.php",
-            "referer" : "https://embedhd.click/",
-			"isHost": true
+			"url": "https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main_dvr_576.m3u8"
 		}
       ]
     },
