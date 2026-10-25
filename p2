@@ -1,4 +1,4 @@
-{ "name": "ACT: 25/10/2026 (12:10)",
+{ "name": "ACT: 25/10/2026 (15:00)",
   "groups": [
     {
       "name": "SERVIDOR 01",
@@ -48,6 +48,13 @@
 			"url": "https://sportzonline.click/channels/pt/sporttv2.php",
 			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
             "referer" : "https://sportsonline.st/",
+			"isHost": true
+		},
+		{
+			"name": "CANAL 01",
+			"image": "",
+			"url": "https://embedhd.click/play/channel-18.php",
+            "referer" : "https://embedhd.click/",
 			"isHost": true
 		}
       ]
