@@ -46,7 +46,7 @@
 			"name": "SPORTTV 2",
 			"image": "https://i.postimg.cc/tgg6zPNh/logo12-15-214155.png",
 			"url": "https://sportzonline.click/channels/pt/sporttv2.php",
-			"userAgent": "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
+			"userAgent": "ExoPlayerLib/2.19.1",
 			"referer": "https://sportzonline.click/",
 			"isHost": true
 		}
