@@ -1,64 +1,113 @@
-
-#EXTM3U
-
-# --- RADIO ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F40Lrqtq/image-3.png" group-title="TELEVISION ONLINE | RADIO",RADIO ONLINE
-https://www.tdtchannels.com/lists/radio.m3u
-
-# --- ESPAÑA E INTERNACIONAL ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJyjBPH6/image-1.png" group-title="TELEVISION ONLINE | ESPAÑA",ESPAÑA
-https://www.tdtchannels.com/lists/tv.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WNkY6KZM/b3713b8a-f6f9-42ee-a8f4-a4904d81e490.png" group-title="TELEVISION ONLINE | INTERNACIONAL",INTERNACIONAL
-https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5
-
-# --- PLUTO TV ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjtw0nYy/plutoTV.png" group-title="TELEVISION ONLINE | PLUTO TV",SERVIDOR 01
-https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjtw0nYy/plutoTV.png" group-title="TELEVISION ONLINE | PLUTO TV",SERVIDOR 02
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pjtw0nYy/plutoTV.png" group-title="TELEVISION ONLINE | PLUTO TV",SERVIDOR 03
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_pluto.m3u
-
-# --- PLEX ---
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0s5PqrQ/plex.png" group-title="TELEVISION ONLINE | PLEX",SERVIDOR 01
-https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_all.m3u
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/V0s5PqrQ/plex.png" group-title="TELEVISION ONLINE | PLEX",SERVIDOR 02
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u
-
-# --- SAMSUNG ---
-#EXTINF:-1 group-title="TELEVISION ONLINE | SAMSUNG",SERVIDOR 01
-https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_all.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | SAMSUNG",SERVIDOR 02
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u
-
-# --- RAKUTEN ---
-#EXTINF:-1 group-title="TELEVISION ONLINE | RAKUTEN",RAKUTEN
-https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u
-
-# --- LG ---
-#EXTINF:-1 group-title="TELEVISION ONLINE | LG",LG
-https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u
-
-# --- OTROS ---
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",TUBI
-https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",XUMO
-https://www.apsattv.com/xumo.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",FIRETV
-https://www.apsattv.com/firetv.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",VIZIO
-https://www.apsattv.com/vizio.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",REDEITV
-https://www.apsattv.com/redeitv.m3u
-
-#EXTINF:-1 group-title="TELEVISION ONLINE | OTROS",VARIOS
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u
+{   "name": "TELEVISION ONLINE",
+    "groups": [{
+			"name": "",
+			"image": "https://i.ibb.co/F40Lrqtq/image-3.png",
+			"url": "https://www.tdtchannels.com/lists/radio.m3u",
+			"import": "false"
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
+			"groups": [{
+					"name": "ESPAÑA",
+					"image": "https://i.ibb.co/sJyjBPH6/image-1.png",
+					"url": "https://www.tdtchannels.com/lists/tv.m3u",
+					"import": "false"
+					},{
+					"name": "INTERNACIONAL",
+					"image": "https://i.ibb.co/WNkY6KZM/b3713b8a-f6f9-42ee-a8f4-a4904d81e490.png",
+					"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn5",
+					"import": "false"
+					}]
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/Llorchico/Pluto/refs/heads/main/pluto_all.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 03",
+					"image": "https://i.ibb.co/pjtw0nYy/plutoTV.png",
+					"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_pluto.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "",
+			"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+					"url": "https://raw.githubusercontent.com/Llorchico/Plex/refs/heads/main/plex_all.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "https://i.ibb.co/V0s5PqrQ/plex.png",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "SANSUMG",
+			"image": "",
+			"groups": [{
+					"name": "SERVIDOR 01",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/Llorchico/Samsung/refs/heads/main/samsung_all.m3u",
+					"import": "false"
+					},{
+					"name": "SERVIDOR 02",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_es.m3u",
+					"import": "false"
+					}]
+		},{
+			"name": "RAKUTEN",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/es_rakuten.m3u",
+			"import": "false"
+		},{
+			"name": "LG",
+			"image": "",
+			"url": "https://raw.githubusercontent.com/Llorchico/LG/refs/heads/main/eslg.m3u",
+			"import": "false"
+		},{
+			"name": "OTROS",
+			"image": "",
+			"groups": [{
+					"name": "TUBI",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u",
+					"import": "false"
+					},{
+					"name": "XUMO",
+					"image": "",
+					"url": "https://www.apsattv.com/xumo.m3u",
+					"import": "false"
+					},{
+					"name": "FIRETV",
+					"image": "",
+					"url": "https://www.apsattv.com/firetv.m3u",
+					"import": "false"
+					},{
+					"name": "VIZIO",
+					"image": "",
+					"url": "https://www.apsattv.com/vizio.m3u",
+					"import": "false"
+					},{
+					"name": "REDEITV",
+					"image": "",
+					"url": "https://www.apsattv.com/redeitv.m3u",
+					"import": "false"
+					},{
+					"name": "VARIOS",
+					"image": "",
+					"url": "https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/tv.m3u",
+					"import": "false"
+					}]
+		}]
+}
