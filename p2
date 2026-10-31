@@ -33,23 +33,8 @@
     {
       "name": "",
       "image": "https://i.ibb.co/jCQFssc/hoy.png",
-      "stations": [
-        {
-			"name": "SERVIDOR 01",
-			"image": "",
-			"url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bUniendocorazones/index.m3u8?secret="
-		},
-		{
-			"name": "SERVIDOR 02",
-			"image": "",
-			"url": "https://instreams.xyz/live3/H71/index.m3u8?st=U2d8nEd7rtMCBnhnIrFrxw&e=1792966171"
-		},
-		{
-			"name": "SERVIDOR 03",
-			"image": "",
-			"url": "https://mossbankstudio.s3-accelerate.amazonaws.com:443/liverpool_720p30.m3u8"
-		}
-      ]
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
+      "import": "false"
     },
     {
       "name": "",
