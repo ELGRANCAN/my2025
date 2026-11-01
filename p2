@@ -1,9 +1,9 @@
-{ "name": "ACT: AUTOMÁTICA (13:00)",
+{ "name": "ACT: 27/10/2026 (13:17)",
   "groups": [
     {
       "name": "SERVIDOR 01",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://tokyo.elcano-ipfs.workers.dev/k2k4r8lm8tkmuxbc8lkmq1in3v0oya1p6pe9o5bu0hu30br5ko08k2gb/data/listas/lista_fuera_iptv.m3u",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
       "import": "false"
     },
     {
