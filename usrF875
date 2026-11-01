@@ -1,24 +1,24 @@
-{	"name": "Suscripcion: 26/10/26",
+{	"name": "Suscripcion: 01/12/26",
     "author": "F875",
     "groups": [{
 			"name": "",
 			"image": "https://i.ibb.co/S4s0tgxw/dep.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/p2",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/d4nP31h7/silep.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/silep",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/VYQmypcD/seir.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/seir",
 			"import": "false"
 		},{
 			"name": "",
 			"image": "https://i.ibb.co/QFQkT0Y9/tv.png",
-			"url": "",
+			"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/vt",
 			"import": "false"
 		}],"url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/usrF875"
 }                                                                                                   
