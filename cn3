@@ -97,7 +97,13 @@
 		  "name": "SPORT TV 5 [PT]",
 		  "image": "",
 		  "url": "acestream://676574456c656d656e747342795461674e616d65"
-		},{
+		},
+		{
+		  "name": "POLSAT SPORT",
+		  "image": "",
+		  "url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
+		},
+		{
 		  "name": "CBS SPORTS",
 		  "image": "",
 		  "url": "https://jmp2.uk/plu-65ea8b928145cb0008509426.m3u8"
