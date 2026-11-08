@@ -42,50 +42,60 @@
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
       "import": "false"
     },
+	{
+	  "name": "",
+	  "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+	  "stations": [
+		{
+		  "name": "SERVIDOR 01",
+		  "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+		  "url": "https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/es/es_ES/playlist.m3u8"
+		},
+		{
+		  "name": "SERVIDOR 02",
+		  "image": "https://i.ibb.co/dJHBFQSm/rallytv.png",
+		  "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8"
+		}
+	  ]
+	},
+    {
+      "name": "",
+      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+      "stations": [
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        },
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "name": "",
+      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+      "stations": [
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        },
+        {
+          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
+          "url": ""
+        }
+      ]
+    },
+	{
+	  "name": "",
+	  "image": "https://i.ibb.co/S79KknYM/FLS.png",
+	  "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+	  "import": "false"
+	},
     {
       "name": "",
       "image": "https://i.ibb.co/fdW0V6d9/directo.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
-      "import": "false"
-    },
-    {
-      "name": "",
-      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-      "stations": [
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        },
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "name": "",
-      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-      "stations": [
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        },
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        }
-      ]
-    },
-    {
-      "name": "SERVIDOR 01",
-      "image": "https://i.ibb.co/P3dw5P4/vt.png",
-      "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
-      "import": "false"
-    },
-    {
-      "name": "SERVIDOR 02",
-      "image": "https://i.ibb.co/P3dw5P4/vt.png",
-      "url": "https://xuperlist2-0.pages.dev/cod_sistema.db",
       "import": "false"
     }
   ]
