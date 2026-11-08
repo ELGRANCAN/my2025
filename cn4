@@ -4,12 +4,22 @@
             {
 			"name": "SERVIDOR 01",
 			"image": "",
-			"url": "https://edge1-us-miami.picarto.tv/stream/hls/golive%2bUniendocorazones/index.m3u8?secret="
+			"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
 		},
 		{
 			"name": "SERVIDOR 02",
 			"image": "",
-			"url": "https://instreams.xyz/live3/H71/index.m3u8?st=U2d8nEd7rtMCBnhnIrFrxw&e=1792966171"
+			"url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
+		},
+		{
+			"name": "SERVIDOR 03",
+			"image": "",
+			"url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
+		},
+		{
+			"name": "SERVIDOR 04",
+			"image": "",
+			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
 		}
       ]
 }
