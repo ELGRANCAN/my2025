@@ -16,31 +16,6 @@
 	  "image": "",
 	  "stations": [
 		{
-		  "name": "DANZ Server 1",
-		  "image": "",
-		  "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
-		},
-		{
-		  "name": "DANZ Server 2",
-		  "image": "",
-		  "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
-		},
-		{
-		  "name": "DANZ Server 3",
-		  "image": "",
-		  "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
-		},
-		{
-		  "name": "DANZ Server 4",
-		  "image": "",
-		  "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
-		},
-		{
-		  "name": "DANZ Server 5",
-		  "image": "",
-		  "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
-		},
-		{
 		  "name": "F1TV FHD 1080p/50fps",
 		  "image": "",
 		  "url": "acestream://e1bb7eccdda788caa43f0d9a1621f7b21fdff9e4"
@@ -74,6 +49,31 @@
 		  "name": "Sky Sport F1 [DE]",
 		  "image": "",
 		  "url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
+		},
+		{
+		  "name": "DANZ Server 1",
+		  "image": "",
+		  "url": "acestream://dddff67edfa7061f643ec5ae0be110169850363d"
+		},
+		{
+		  "name": "DANZ Server 2",
+		  "image": "",
+		  "url": "acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c"
+		},
+		{
+		  "name": "DANZ Server 3",
+		  "image": "",
+		  "url": "acestream://895d08633bb22c2573281655cf3ca44de476cc73"
+		},
+		{
+		  "name": "DANZ Server 4",
+		  "image": "",
+		  "url": "acestream://02be332ebead0484a5354fa25e97b6833b8b129e"
+		},
+		{
+		  "name": "DANZ Server 5",
+		  "image": "",
+		  "url": "acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a"
 		}
 	  ]
 	},
