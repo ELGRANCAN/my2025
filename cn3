@@ -2,6 +2,11 @@
   "image": "https://i.ibb.co/fdW0V6d9/directo.png",
   "groups": [
 	{
+	  "name": "ACESTREAM",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/XUPERLISTS/ONLY-ACES/refs/heads/main/ONLY.ACES.w3u"
+	},
+	{
 	  "name": "FORMULA 1",
 	  "image": "",
 	  "stations": [
