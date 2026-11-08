@@ -60,6 +60,36 @@
 			"name": "SERVIDOR 12",
 			"image": "",
 			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
+		},
+		{
+			"name": "SERVIDOR 13",
+			"image": "",
+			"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
+		},
+		{
+			"name": "SERVIDOR 14",
+			"image": "",
+			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
+		},
+		{
+			"name": "SERVIDOR 15",
+			"image": "",
+			"url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
+		},
+		{
+			"name": "SERVIDOR 16",
+			"image": "",
+			"url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
+		},
+		{
+			"name": "SERVIDOR 17",
+			"image": "",
+			"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
+		},
+		{
+			"name": "SERVIDOR 18",
+			"image": "",
+			"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
 		}
       ]
 }
