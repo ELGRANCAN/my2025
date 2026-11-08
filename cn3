@@ -2,9 +2,14 @@
   "image": "https://i.ibb.co/fdW0V6d9/directo.png",
   "groups": [
 	{
-	  "name": "ACESTREAM",
+	  "name": "ACESTREAM1",
 	  "image": "",
 	  "url": "https://raw.githubusercontent.com/XUPERLISTS/ONLY-ACES/refs/heads/main/ONLY.ACES.w3u"
+	},
+	{
+	  "name": "ACESTREAM2",
+	  "image": "",
+	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt"
 	},
 	{
 	  "name": "FORMULA 1",
