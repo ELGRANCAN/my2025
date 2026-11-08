@@ -2,92 +2,92 @@
       "image": "https://i.ibb.co/jCQFssc/hoy.png",
       "stations": [
             {
-			"name": "SERVIDOR 01",
+			"name": "CANAL 01",
 			"image": "",
 			"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
 		},
 		{
-			"name": "SERVIDOR 02",
+			"name": "CANAL 02",
 			"image": "",
 			"url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
 		},
 		{
-			"name": "SERVIDOR 03",
+			"name": "CANAL 03",
 			"image": "",
 			"url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
 		},
 		{
-			"name": "SERVIDOR 04",
+			"name": "CANAL 04",
 			"image": "",
 			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"  
 		},
 		{
-			"name": "SERVIDOR 05",
+			"name": "CANAL 05",
 			"image": "",
 			"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
 		},
 		{
-			"name": "SERVIDOR 06",
+			"name": "CANAL 06",
 			"image": "",
 			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"
 		},
 		{
-			"name": "SERVIDOR 07",
+			"name": "CANAL 07",
 			"image": "",
 			"url": "acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f"
 		},
 		{
-			"name": "SERVIDOR 08",
+			"name": "CANAL 08",
 			"image": "",
 			"url": "acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5"
 		},
 		{
-			"name": "SERVIDOR 09",
+			"name": "CANAL 09",
 			"image": "",
 			"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
 		},
 		{
-			"name": "SERVIDOR 10",
+			"name": "CANAL 10",
 			"image": "",
 			"url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
 		},
 		{
-			"name": "SERVIDOR 11",
+			"name": "CANAL 11",
 			"image": "",
 			"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
 		},
 		{
-			"name": "SERVIDOR 12",
+			"name": "CANAL 12",
 			"image": "",
 			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
 		},
 		{
-			"name": "SERVIDOR 13",
+			"name": "CANAL 13",
 			"image": "",
 			"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
 		},
 		{
-			"name": "SERVIDOR 14",
+			"name": "CANAL 14",
 			"image": "",
 			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
 		},
 		{
-			"name": "SERVIDOR 15",
+			"name": "CANAL 15",
 			"image": "",
 			"url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
 		},
 		{
-			"name": "SERVIDOR 16",
+			"name": "CANAL 16",
 			"image": "",
 			"url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
 		},
 		{
-			"name": "SERVIDOR 17",
+			"name": "CANAL 17",
 			"image": "",
 			"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
 		},
 		{
-			"name": "SERVIDOR 18",
+			"name": "CANAL 18",
 			"image": "",
 			"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
 		}
