@@ -16,6 +16,11 @@
 	  "image": "",
 	  "stations": [
 		{
+		  "name": "MOVISTAR F1",
+		  "image": "",
+		  "url": "acestream://d65257bb934b73647374224fd62d836815804be2"
+		},
+		{
 		  "name": "F1TV FHD 1080p/50fps",
 		  "image": "",
 		  "url": "acestream://9755a2b072c4244820670cc011d28b77d3a13e98"
