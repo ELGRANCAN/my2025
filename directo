@@ -1,0 +1,47 @@
+{ "name": "EN DIRECTO",
+  "image": "https://i.ibb.co/fdW0V6d9/directo.png",
+  "groups": [
+	{
+	  "name": "",
+	  "image": "https://i.ibb.co/S79KknYM/FLS.png",
+	  "url": "https://iptv-org.github.io/iptv/categories/sports.m3u",
+	  "import": "false"
+	},
+	{
+	  "name": "ACESTREAM1",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/XUPERLISTS/ONLY-ACES/refs/heads/main/ONLY.ACES.w3u"
+	},
+	{
+	  "name": "ACESTREAM2",
+	  "image": "",
+	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt"
+	},
+	{
+	  "name": "OTROS",
+	  "image": "",
+	  "stations": [
+		{
+		  "name": "REALMADRIDTV",
+		  "image": "",
+		  "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
+		},
+		{
+		  "name": "CMMPlay",
+		  "image": "",
+		  "url": "https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
+		},
+		{
+		  "name": "UNBEATEN",
+		  "image": "",
+		  "url": "https://unbeaten-tcl.amagi.tv/playlist.m3u8"
+		},
+		{
+		  "name": "HARD KNOCKS",
+		  "image": "",
+		  "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
+		}
+	  ]
+	}
+  ]
+}
