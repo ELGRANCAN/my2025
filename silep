@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Bad Apples (Malas Manzanas) (2025) - 11.87 GB
-magnet:?xt=urn:btih:b80fdfc2a110bb8a664ed38e6735a31b2831108e&so=0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="44K / UHD (2160p)",Bad Apples (Malas Manzanas) (2025) - 11.87 GB
+http://127.0.0.1:6878/ace/getstream?infohash=b80fdfc2a110bb8a664ed38e6735a31b2831108e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Kangaroo Una aventura en Australia (2025) - 10.15 GB
 magnet:?xt=urn:btih:b925c110e885e4bc8f800f39b4763e0b2ebf5c2e&so=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Tomy (2026) - 19.75 GB
