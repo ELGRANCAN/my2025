@@ -1,4 +1,4 @@
-{ "name": "ACT: 10/11/2026 (13:00)",
+{ "name": "ACT: 11/11/2026 (01:00)",
   "groups": [
     {
       "name": "SERVIDOR 01",
@@ -38,8 +38,8 @@
     },
     {
       "name": "",
-      "image": "https://i.ibb.co/jCQFssc/hoy.png",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/hoy",
+      "image": "https://i.ibb.co/bMydMqLb/ver.png",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/verif",
       "import": "false"
     },
 	{
