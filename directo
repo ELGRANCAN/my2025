@@ -8,12 +8,12 @@
 	  "import": "false"
 	},
 	{
-	  "name": "ACESTREAM1",
+	  "name": "ACESTREAM (muiapp)",
 	  "image": "",
-	  "url": "https://raw.githubusercontent.com/XUPERLISTS/ONLY-ACES/refs/heads/main/ONLY.ACES.w3u"
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/muiapp",
 	},
 	{
-	  "name": "ACESTREAM2",
+	  "name": "ACESTREAM (archive)",
 	  "image": "",
 	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt"
 	},
