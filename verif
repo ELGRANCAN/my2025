@@ -4,9 +4,14 @@
 # https://acestreamid.com/
 # https://overtakefans.com/
 # https://www.pimpletv.ru/
+# https://www.misterchire.com/
+# https://ciriaco.netlify.app/
+# https://www.misterchire.com/
 # Actualizado el 11/11/2026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA2
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA3
@@ -15,6 +20,8 @@ acestream://571ce113b9d600a145766443d7417eccab2e1846
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION
 acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION
+acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION2
 acestream://cafdd40301fad92c6929960e98b1a6feefcf6f18
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION3
