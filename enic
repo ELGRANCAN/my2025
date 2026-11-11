@@ -36,6 +36,8 @@ acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", HBOAVANCES
 acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", BEMAD
+acestream://2e2848b7f0e7005b62dff7d0e91ac7ebf80427fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", MTVESPAÑA
 acestream://9a84a44833e4b8dc39a296584d4f587b7ae3163c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DISNEYCHANNEL
