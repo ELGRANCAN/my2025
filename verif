@@ -116,13 +116,13 @@ acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYBUNDESLIGA*
 acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYPREMIERLEAGUE*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYPREMIER*
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYCRICKET*
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYMAINEVENT*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYEVENT*
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTSNEWS*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYNEWS*
 acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TENNISCHANNEL*
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
