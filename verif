@@ -9,6 +9,14 @@
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA2
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA4
+acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION
+acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION2
+acestream://cafdd40301fad92c6929960e98b1a6feefcf6f18
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION3
+acestream://53a950107d72958b7c607583c66e2b0c2132c6ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", CAMPEONES
 acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", CAMPEONES3
