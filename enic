@@ -22,14 +22,14 @@ acestream://b5b4cf132f1c655ed2f0aaa759a6012db140740a
 acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", CINESPAÑOL
 acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DOCUMENTALES
-acestream://3c1b00267a398093848ded743cfdb547e2232216
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", WARNERTV
 acestream://b047cae03e6a2a9a1fe10d14a7b0aea7741d0f71
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", TCM
 acestream://004556418b644afb93952ffab1a7e17fb3bbda6f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", SYFY
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", COSMO
+acestream://60629355bcbaf5ddee9462e66c72895ca6e580d9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", AXNMOVIES
 acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", SKYSHOWTIME1
@@ -40,5 +40,13 @@ acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
 acestream://9a84a44833e4b8dc39a296584d4f587b7ae3163c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DISNEYCHANNEL
 acestream://280a92fe6ab989ff95cc744ab3e22b50e7829bed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", NICKELODION
+acestream://d01ce5c616b3bca47f539a589d4148eaa9e5b5e8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", NICKJR
+acestream://7e3cfc83b7bd0cd6b1770e2e90216ba10dcf82e7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", BABYTV
 acestream://d865b49d6ec5844e0bcf8e596ab90a7be8bb28fb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DOCUMENTALES
+acestream://3c1b00267a398093848ded743cfdb547e2232216
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", CAZAYPESCA
+acestream://bf81155a02b00125b1b96d026f9808cc9acee93a
