@@ -78,14 +78,36 @@ acestream://872608e734992db636eb79426802cd08f4029afb
 acestream://1735ff3141fa3820090fad58dc548a1390accae9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TELEDEPORTE
 acestream://4048be88f84250719e864868e537612f389df48e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", GOLFZONE*
-acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS2*
+acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS3*
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS4*
+acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZN1*
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZN2*
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZN4*
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZN5*
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZNBAR1*
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZNBAR2*
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEIN1*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEINSPORTS1*
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEINSPORTS2*
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEINSPORTS3*
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTS1*
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTS2*
@@ -100,11 +122,11 @@ acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYMAINEVENT*
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYNEWS*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTSNEWS*
 acestream://07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKY1*
-acestream://88c50cf8bf78a18d89c9efb3805d5a12e04c31b9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TENNISCHANNEL*
 acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", GOLFZONE*
+acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
 acestream://e72d03fb9694164317260f684470be9ab781ed95
