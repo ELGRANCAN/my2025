@@ -96,17 +96,17 @@ acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 acestream://7aa9cc819c6fa781dea6b4de3aa5393258b766d8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", EUROSPORT2*
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN1*
 acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN1*
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS1*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN1*
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS2*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN2*
 acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS3*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN3*
 acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVENSPORTS4*
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ELEVEN4*
 acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZN1*
 acestream://36cad67fed5a739757a9db844a551aa845a8d51b
@@ -152,12 +152,6 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TVPSPORT*
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол1*
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол2*
-acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол3*
-acestream://b6baa046075d82da300fc1b16de96067a8b9540e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", БоксТВ*
 acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
