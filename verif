@@ -150,11 +150,15 @@ acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN2*
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
-acestream://e72d03fb9694164317260f684470be9ab781ed95
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TVPSPORT*
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол1*
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол2*
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", Матч!Футбол3*
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", БоксТВ*
+acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
+acestream://e72d03fb9694164317260f684470be9ab781ed95
