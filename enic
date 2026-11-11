@@ -1,6 +1,34 @@
 #EXTM3U 
 # https://search-ace.stream/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", HITS
+acestream://bb78482832c454dfbb932912d65726619f924873
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", INDIE
+acestream://205cf36437bf4e0643398f62f212832d4b8e271f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", ORIGINALES
+acestream://0364449064d322a1bc0f97d568452053810ef8bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", CINESPAÑOL
+acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DRAMA
+acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", ROMANCE
+acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", COMEDIA
+acestream://b5b4cf132f1c655ed2f0aaa759a6012db140740a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", TERROR
+acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DOCUMENTALES
+acestream://3c1b00267a398093848ded743cfdb547e2232216
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", SYFY
+acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", AXNMOVIES
 acestream://6b4acf7cab48967eccea5c3e89b1e945ceab457c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", SKYSHOWTIME1
 acestream://d98f8926ec3c7c403cec32530f2ab7725cf88bcf
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", HBOAVANCES
+acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", MTVESPAÑA
+acestream://9a84a44833e4b8dc39a296584d4f587b7ae3163c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DISNEYCHANNEL
+acestream://280a92fe6ab989ff95cc744ab3e22b50e7829bed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", BABYTV
+acestream://d865b49d6ec5844e0bcf8e596ab90a7be8bb28fb
