@@ -1,9 +1,13 @@
 #EXTM3U 
 # https://search-ace.stream/
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", ESTRENOS
+acestream://984053fd86da52b0085947109f54a882d3177da0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", HITS
 acestream://bb78482832c454dfbb932912d65726619f924873
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", INDIE
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", CLASICOS
+acestream://5dc05d8801f1e6834f1f59da2e8f7adc17fa6fd3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", ORIGINALES
 acestream://0364449064d322a1bc0f97d568452053810ef8bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", ACCION
@@ -20,6 +24,10 @@ acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DOCUMENTALES
 acestream://3c1b00267a398093848ded743cfdb547e2232216
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", WARNERTV
+acestream://b047cae03e6a2a9a1fe10d14a7b0aea7741d0f71
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", TCM
+acestream://004556418b644afb93952ffab1a7e17fb3bbda6f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", SYFY
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", AXNMOVIES
