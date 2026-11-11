@@ -74,3 +74,7 @@ acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZNBAR2*
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEIN1*
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BUNDESLIGA1*
+acestream://38d8789a448dd0eaf99e0274b555974e4e8f3f3b
