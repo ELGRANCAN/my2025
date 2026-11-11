@@ -18,6 +18,8 @@ acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
 acestream://86262568aa72b956b06ac67b1c310a32248a0e98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZNLALIGA
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", DAZNLALIGA
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA
