@@ -11,11 +11,13 @@
 	  "name": "ACESTREAM (muiapp)",
 	  "image": "",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/muiapp",
+	  "import": "false"
 	},
 	{
 	  "name": "ACESTREAM (archive)",
 	  "image": "",
-	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt"
+	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
+	  "import": "false"
 	},
 	{
 	  "name": "OTROS",
