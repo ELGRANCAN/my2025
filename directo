@@ -8,15 +8,33 @@
 	  "import": "false"
 	},
 	{
-	  "name": "ACESTREAM (muiapp)",
+	  "name": "ACEARCHIVE",
 	  "image": "",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/muiapp",
+	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
 	  "import": "false"
 	},
 	{
-	  "name": "ACESTREAM (archive)",
+	  "name": "ACESPORTS",
 	  "image": "",
-	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acesport",
+	  "import": "false"
+	},
+	{
+	  "name": "ACECINE",
+	  "image": "",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acecine",
+	  "import": "false"
+	},
+	{
+	  "name": "ACEALL",
+	  "image": "",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/aceall",
+	  "import": "false"
+	},
+	{
+	  "name": "ACEXXX",
+	  "image": "",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acex",
 	  "import": "false"
 	},
 	{
@@ -31,7 +49,7 @@
 		{
 		  "name": "CMMPlay",
 		  "image": "",
-		  "url": "https://paco@cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
+		  "url": "https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/a.m3u8"
 		},
 		{
 		  "name": "UNBEATEN",
