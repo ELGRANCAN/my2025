@@ -150,6 +150,8 @@ acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN2*
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TNTSPORTS2*
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", БоксТВ*
 acestream://1acaf203502983cd2993c6835bf0cbde8d016c3d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
