@@ -8,12 +8,6 @@
 	  "import": "false"
 	},
 	{
-	  "name": "ACEARCHIVE",
-	  "image": "",
-	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
-	  "import": "false"
-	},
-	{
 	  "name": "ENLACES",
 	  "image": "",
 	  "stations": [
@@ -38,6 +32,12 @@
 		  "url": "https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8"
 		}
 	  ]
+	},
+	{
+	  "name": "ACEARCHIVE",
+	  "image": "",
+	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
+	  "import": "false"
 	},
 	{
 	  "name": "ACEX",
