@@ -1,8 +1,10 @@
 #EXTM3U
 # https://overtakefans.com/
 # Actualizado el 11/11/2026
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 01
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 00
 acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 01
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 02
 acestream://9755a2b072c4244820670cc011d28b77d3a13e98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 03
