@@ -8,12 +8,6 @@
 	  "import": "false"
 	},
 	{
-	  "name": "ACEARCHIVE",
-	  "image": "",
-	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
-	  "import": "false"
-	},
-	{
 	  "name": "ENLACES",
 	  "image": "",
 	  "stations": [
