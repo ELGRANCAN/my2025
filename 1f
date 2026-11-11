@@ -1,7 +1,4 @@
-#EXTM3U 
-# https://acestreamui.app/
-# https://search-ace.stream/
-# https://acestreamid.com/
+#EXTM3U
 # https://overtakefans.com/
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 01
 acestream://d65257bb934b73647374224fd62d836815804be2
