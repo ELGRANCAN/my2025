@@ -14,27 +14,9 @@
 	  "import": "false"
 	},
 	{
-	  "name": "ACESPORTS",
-	  "image": "",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acesport",
-	  "import": "false"
-	},
-	{
-	  "name": "ACECINE",
-	  "image": "",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acecine",
-	  "import": "false"
-	},
-	{
 	  "name": "ACEALL",
 	  "image": "",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/aceall",
-	  "import": "false"
-	},
-	{
-	  "name": "ACEXXX",
-	  "image": "",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acex",
+      "url": "https://search-ace.stream/playlist",
 	  "import": "false"
 	},
 	{
