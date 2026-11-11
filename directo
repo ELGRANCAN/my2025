@@ -42,7 +42,7 @@
 	{
 	  "name": "ACEX",
 	  "image": "",
-      "url": "https://search-ace.stream/acex",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acex",
 	  "import": "false"
 	}
   ]
