@@ -50,5 +50,7 @@ acestream://7e3cfc83b7bd0cd6b1770e2e90216ba10dcf82e7
 acestream://d865b49d6ec5844e0bcf8e596ab90a7be8bb28fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DOCUMENTALES
 acestream://3c1b00267a398093848ded743cfdb547e2232216
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", DISCOVERY
+acestream://1534834fc65764c8eaca43cf108e0b49158d8c68
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHGz76kt/enic.png", CAZAYPESCA
 acestream://bf81155a02b00125b1b96d026f9808cc9acee93a
