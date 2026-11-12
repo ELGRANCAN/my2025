@@ -28,8 +28,14 @@ acestream://e1825dc2deae9f24ef55e6ff11fe780201ae758d
 acestream://69f76f6516620d91612e7509077b5ac3bb4d3c0b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA2
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA2
+acestream://4c8107cd9165bafd80ad21a71e8285a9a4c990df
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA3
 acestream://571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA3
+acestream://7a949c4fcdb7031281a7bb69b2227945854bfb37
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA3
+acestream://1b449fcf682ca2980e91371dd9b76f65f40c8b7a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", LALIGA4
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", HYPERMOTION
