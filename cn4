@@ -1,95 +1,165 @@
-{     "name": "PARTIDO DE HOY",
-      "image": "https://i.ibb.co/jCQFssc/hoy.png",
-      "stations": [
-            {
-			"name": "CANAL 01",
-			"image": "",
-			"url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
-		},
-		{
-			"name": "CANAL 02",
-			"image": "",
-			"url": "acestream://414222dc7b69a626f29eb964450dae44b3bc9b36"
-		},
-		{
-			"name": "CANAL 03",
-			"image": "",
-			"url": "acestream://458a0ddd7d193f6d2750cd14d03a47f47a808e09"
-		},
-		{
-			"name": "CANAL 04",
-			"image": "",
-			"url": "acestream://d65257bb934b73647374224fd62d836815804be2"  
-		},
-		{
-			"name": "CANAL 05",
-			"image": "",
-			"url": "acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00"
-		},
-		{
-			"name": "CANAL 06",
-			"image": "",
-			"url": "acestream://"
-		},
-		{
-			"name": "CANAL 07",
-			"image": "",
-			"url": "acestream://ef2cf11fc83f4f15a33c9a514a7afd2bce73122f"
-		},
-		{
-			"name": "CANAL 08",
-			"image": "",
-			"url": "acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5"
-		},
-		{
-			"name": "CANAL 09",
-			"image": "",
-			"url": "acestream://36cad67fed5a739757a9db844a551aa845a8d51b"
-		},
-		{
-			"name": "CANAL 10",
-			"image": "",
-			"url": "acestream://cc7b8c39f70aa342248d02c8ab55bafdb4116ed7"
-		},
-		{
-			"name": "CANAL 11",
-			"image": "",
-			"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
-		},
-		{
-			"name": "CANAL 12",
-			"image": "",
-			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
-		},
-		{
-			"name": "CANAL 13",
-			"image": "",
-			"url": "acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b"
-		},
-		{
-			"name": "CANAL 14",
-			"image": "",
-			"url": "acestream://f43ef903dc750610978b47df47a0cb389413fe61"
-		},
-		{
-			"name": "CANAL 15",
-			"image": "",
-			"url": "acestream://b04372b9543d763bd2dbd2a1842d9723fd080076"
-		},
-		{
-			"name": "CANAL 16",
-			"image": "",
-			"url": "acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04"
-		},
-		{
-			"name": "CANAL 17",
-			"image": "",
-			"url": "acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0"
-		},
-		{
-			"name": "CANAL 18",
-			"image": "",
-			"url": "acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801"
-		}
-      ]
-}
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
+#EXTINF:-1 tvg-name="Film+ HD" group-title="NEW LOOP",Film+ HD
+acestream://64b105e8b0fd597405ffaee1bc4b58b649e6e8a0
+#EXTINF:-1 tvg-name="M+ Spanish Cinema HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Spanish Cinema HD Spain
+acestream://dc044c79fcde8ed69ed4c878643b09f09e7ccb72
+#EXTINF:-1 tvg-name="M+ Comedy HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Comedy HD Spain
+acestream://b5b4cf132f1c655ed2f0aaa759a6012db140740a
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="M+ Deportes 6 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MULTI8" group-title="NEW LOOP",M+ Deportes 6 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://765f6a743bcfde948418aaf0de6e66de6a9fbaa6
+#EXTINF:-1 tvg-name="M+ HD Documentaries Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ HD Documentaries Spain
+acestream://3c1b00267a398093848ded743cfdb547e2232216
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M+ DRAMA HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/CPCOLE" group-title="NEW LOOP",M+ DRAMA HD Spain
+acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
+#EXTINF:-1 tvg-id="M+ Hits HD" tvg-name="M+ Hits HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MHITS" group-title="NEW LOOP",M+ Hits HD Spain
+acestream://bb78482832c454dfbb932912d65726619f924873
+#EXTINF:-1 tvg-id="M+ Indie HD" tvg-name="M+ Indie HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MINDI" group-title="NEW LOOP",M+ Indie HD Spain
+acestream://205cf36437bf4e0643398f62f212832d4b8e271f
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-name="M+ LaLiga 720 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LaLiga_por_Movistar_Plus%2B_2022_logo.svg/1200px-LaLiga_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="NEW LOOP",M+ LaLiga 720 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1
+acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES FHD --> NEW ERA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="NEW LOOP",M+ LIGA DE CAMPEONES FHD --> NEW ERA
+acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="NEW LOOP",M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
+acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png" group-title="NEW LOOP",M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
+#EXTINF:-1 tvg-name="M+ Originals HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Originals HD Spain
+acestream://0364449064d322a1bc0f97d568452053810ef8bc
+#EXTINF:-1 tvg-name="M+ PLUS FHD --> NEW ERA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ PLUS FHD --> NEW ERA
+acestream://8c67cdb5ba81976662c3a67984a9545d9cfb0f70
+#EXTINF:-1 tvg-id="M+ Romance" tvg-name="M+ Romance HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Romance HD Spain
+acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
+#EXTINF:-1 tvg-id="M+ Terror" tvg-name="M+ Terror HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Terror HD Spain
+acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
+#EXTINF:-1 tvg-name="M+ Wéstern HD Spain" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Wéstern HD Spain
+acestream://c5d339864350949aa5311a7aca52d4573818c560
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Baloncesto 2 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Baloncesto 3 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://7b0193004089d4d29821a5cdf17f407d0d192314
+#EXTINF:-1 tvg-name="M+ Sports 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Sports 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1
+acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",M+ Baloncesto 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVF1" group-title="NEW LOOP",DAZN F1 HD
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN MotoGP Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVF1" group-title="NEW LOOP",DAZN F1 Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+#EXTINF:-1 tvg-name="DAZN3" group-title="NEW LOOP",DAZN3
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-name="DAZN1" group-title="NEW LOOP",DAZN1
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1 tvg-name="DAZN4" group-title="NEW LOOP",DAZN4
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/M1SD" group-title="NEW LOOP",DAZN 1 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1
+acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD --> NEW ERA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/M1SD" group-title="NEW LOOP",DAZN 1 FHD --> NEW ERA
+acestream://4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD (SAT) --> NEW ERA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/M1SD" group-title="NEW LOOP",DAZN 1 FHD (SAT) --> NEW ERA
+acestream://50a8a13c474848d1efbd5586efdb5b6cdd173fa9
+#EXTINF:-1 tvg-id="DAZN 2 BAR" tvg-name="DAZN 2 BAR FHD --> NEW ERA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="NEW LOOP",DAZN 2 BAR FHD --> NEW ERA
+acestream://2f9211669499f413dab1a490198afab2a9b4b57c
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 FHD --> NEW ERA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVF1" group-title="NEW LOOP",DAZN F1 FHD --> NEW ERA
+acestream://6422e8bc34282871634c81947be093c04ad1bb29
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LaLiga 2 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" group-title="NEW LOOP",DAZN LaLiga 2 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://d7ce121c775a303c470d2139b8e8cfa0db38adad
+#EXTINF:-1 tvg-name="DAZN Mundial 1 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN Mundial 1 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
+#EXTINF:-1 tvg-name="DAZN2" group-title="NEW LOOP",DAZN2
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1 tvg-id="DAZN Baloncesto 2" tvg-name="DAZN Baloncesto 2 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN Baloncesto 2 1080 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://853129258a5cb51f27829eddb934e58b45978344
+#EXTINF:-1 tvg-name="DAZN Basketball 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN Basketball 720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top
+acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MVF1" group-title="NEW LOOP",DAZN F1 1080 elcano.top https://x.com/ace_stream_ https://t.me/acestreamf1
+acestream://d719181097d256073844390b3e094fbcb1bceaa4
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LaLiga Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN LaLiga Shickat | shickat.online (VPN) | shickat.blog | https://ipfs.io/ipns/k51qzi5uqu5dgni30z98zbli9a3vv2xtp8cek1xjikfsels3a259i5clyta19p
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MOTOGP --> NEW ERA" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/DAZNLI" group-title="NEW LOOP",DAZN MOTOGP --> NEW ERA
+acestream://11cbb5346d28af0b972e646832f4be23dd39502d
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ESP2" group-title="NEW LOOP",Eurosport 2 HD
+acestream://ecca00b1faca6383c8708a1177da783091cae73c
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/ESP" group-title="NEW LOOP",Eurosport 1 HD
+acestream://51283456a55830ee48b50df7df27cc9d22382b2a
+#EXTINF:-1 tvg-name="Sky Sports Main Event [UK]" group-title="NEW LOOP",Sky Sports Main Event [UK]
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-name="Sky Sports Football [UK]" group-title="NEW LOOP",Sky Sports Football [UK]
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1 tvg-name="Sky Sports Arena [UK]" group-title="NEW LOOP",Sky Sports Arena [UK]
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-name="Sky Sport 2 HD [EN]" group-title="NEW LOOP",Sky Sport 2 HD [EN]
+acestream://fc9f1f580da8f641a5991d44b399982a3a069f69
+#EXTINF:-1 tvg-name="Sky Sports Cricket [UK]" group-title="NEW LOOP",Sky Sports Cricket [UK]
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-name="Sky Sports LaLiga HD --> NEW ERA" group-title="NEW LOOP",Sky Sports LaLiga HD --> NEW ERA
+acestream://2fab80a8445e31cb98169c0907600e1545ea8557
+#EXTINF:-1 tvg-name="Motor - Wisla Plock (Polish)" group-title="NEW LOOP",Motor - Wisla Plock (Polish)
+acestream://3e87464ed8c42ed14464461ea08860a3040a8944
+#EXTINF:-1 tvg-name="Auto Motor und Sport Channel" group-title="NEW LOOP",Auto Motor und Sport Channel
+acestream://fc97dccda2bf8c39bdeee54dae38078ec20211e7
+#EXTINF:-1 tvg-name="Canal Motor (720p)" group-title="NEW LOOP",Canal Motor (720p)
+acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
+#EXTINF:-1 tvg-name="Motors TV HD" group-title="NEW LOOP",Motors TV HD
+acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
+#EXTINF:-1 tvg-id="Motorvision" tvg-name="Motorvision TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" group-title="NEW LOOP",Motorvision TV
+acestream://9c75e6ed0671eec6670cb2eabcc7d78267c7f404
+#EXTINF:-1 tvg-name="Pluto TV Auto Motor Sport (720p)" group-title="NEW LOOP",Pluto TV Auto Motor Sport (720p)
+acestream://ffa09e597804001f634dd1829f031823411a2595
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" group-title="NEW LOOP",Tennis Channel HD
+acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-name="SuperTennis HD" group-title="NEW LOOP",SuperTennis HD
+acestream://b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-name="Orange TV" group-title="NEW LOOP",Orange TV
+acestream://abdbfccdfd73bb5b1dcad598d539058040fb24fa
+#EXTINF:-1 tvg-name="TNT Sport 4 / ESPN [UK]" group-title="NEW LOOP",TNT Sport 4 / ESPN [UK]
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN [BE]" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="NEW LOOP",ESPN [BE]
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-name="Two" group-title="NEW LOOP",Two
+acestream://c56044c065e03ece5dea404c8839a50704185609
+#EXTINF:-1 tvg-id="ESPN 2" tvg-name="ESPN 2 [BE]" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" group-title="NEW LOOP",ESPN 2 [BE]
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4 [BE]" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" group-title="NEW LOOP",ESPN 4 [BE]
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN HD [US]" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="NEW LOOP",ESPN HD [US]
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-name="ESPN2 [US]" group-title="NEW LOOP",ESPN2 [US]
+acestream://664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-id="Movistar Plus HD" tvg-name="Movistar+" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmarcaficha/MPLUS" group-title="NEW LOOP",Movistar+
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1 tvg-name="BeIN Sports 1 [BE]" group-title="NEW LOOP",BeIN Sports 1 [BE]
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-name="beIN Movies Turk" group-title="NEW LOOP",beIN Movies Turk
+acestream://1de17a996f8618578035dbc4c7ecbf4b0395d0f7
+#EXTINF:-1 tvg-name="BeIN Sports 2 [BE]" group-title="NEW LOOP",BeIN Sports 2 [BE]
+acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-name="BeIN Sports 3 [BE]" group-title="NEW LOOP",BeIN Sports 3 [BE]
+acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-name="beIN SPORTS XTRA" group-title="NEW LOOP",beIN SPORTS XTRA
+acestream://e8e459656f964f601ad4bcda8b81a43ba41c68f9
+#EXTINF:-1 tvg-name="Premier Sports 1 [UK]" group-title="NEW LOOP",Premier Sports 1 [UK]
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-name="Premier Sports 2 [UK]" group-title="NEW LOOP",Premier Sports 2 [UK]
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1 tvg-name="Eleven Sports 2 [BE]" group-title="NEW LOOP",Eleven Sports 2 [BE]
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1 tvg-name="Eleven Sports 3 [BE]" group-title="NEW LOOP",Eleven Sports 3 [BE]
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 tvg-name="Eleven Sports 5 [BE]" group-title="NEW LOOP",Eleven Sports 5 [BE]
+acestream://4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-name="Eleven Sports 1 [BE]" group-title="NEW LOOP",Eleven Sports 1 [BE]
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-name="TNT Sport 2 [UK]" group-title="NEW LOOP",TNT Sport 2 [UK]
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-name="TNT Sport 3 [UK]" group-title="NEW LOOP",TNT Sport 3 [UK]
+acestream://5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-name="TNT Sport 1 [UK]" group-title="NEW LOOP",TNT Sport 1 [UK]
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-name="Ziggo Sport" group-title="NEW LOOP",Ziggo Sport
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-id="Ziggo.Sport.2.nl" tvg-name="Ziggo Sport 2" tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000095_019371/channelLogo?type=channel" group-title="NEW LOOP",Ziggo Sport 2
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-id="Ziggo.Sport.6.nl" tvg-name="Ziggo Sport 6" tvg-logo="https://staticqbr-prod-nl.gnp.cloud.ziggogo.tv/image-service/intent/NL_000099_019256/channelLogo?type=channel" group-title="NEW LOOP",Ziggo Sport 6
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
