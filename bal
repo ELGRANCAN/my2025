@@ -1,28 +1,34 @@
 #EXTM3U 
 # ACTUALIZADO EL 12/11/2026
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 01
-acestream://d65257bb934b73647374224fd62d836815804be2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 02
-acestream://9755a2b072c4244820670cc011d28b77d3a13e98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 03
-acestream://ad943873644a71be8cf545566aa902fcddb9208d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 04
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 05
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 06
-acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 07
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 08
-acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 09
-acestream://02be332ebead0484a5354fa25e97b6833b8b129e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 10
-acestream://895d08633bb22c2573281655cf3ca44de476cc73
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 11
-acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 12
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", CANAL 13
-acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
+#DAZN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB
+acestream://f460b9c1b77222ac21b0e148f2b2c07791ce2d5d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB
+acestream://8033aae52386138bac76bd7a16b8c1ab67bcd679
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB
+acestream://9dd9cd78f0b08097a0ad290606dbbee999709fa5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB2
+acestream://09ee8afc1d9b468d3b470c682cfcacd58a95e273
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB3
+acestream://0ca08fccd1d403b33a6eca52f9a0b6215140e162
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB3
+acestream://13d68ecb392251a81489ce75be90388498ecfb91
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", DAZNB3
+acestream://8e2f1e1f1fdc8e7d324dc931a6fb65fc4d1a71da
+#MOVISTAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB
+acestream://5ba57eae303be35f8b551d2ba27b27ef0dd649b0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB
+acestream://be93edb36056187656714f66c84026662f483e2f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB
+acestream://7afd36951b7c47b2d784ad1282f0d8fa532d0fe0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB
+acestream://4639224a85a8e244acfbf6f7f616e062354cf485
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB2
+acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB2
+acestream://ad50a4fcd5fc51b2fdfaba02216e3e1ee7c310d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB2
+acestream://1aedb9d609bbfec87c2614d126a384a1f0ae136f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Ymvzs6K/imagen-editada-500x500.png", MOVISTARB3
+acestream://e675aecf437124d37f7f2daf31669f1af532a50c
