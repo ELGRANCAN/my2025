@@ -144,6 +144,12 @@ acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", BEINSPORTS3*
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ZIGGO1*
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ZIGGO2*
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ZIGGO6*
+acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTS1*
 acestream://7c12288663069a12aff58f3f62e8ea47ab78c65d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", SKYSPORTS2*
