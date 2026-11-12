@@ -44,17 +44,9 @@
     },
     {
       "name": "",
-      "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-      "stations": [
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        },
-        {
-          "image": "https://i.postimg.cc/TwJKznrV/blank.png",
-          "url": ""
-        }
-      ]
+      "image": "",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/bal",
+      "import": "false"
     },
 	{
 	  "name": "",
