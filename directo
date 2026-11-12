@@ -8,6 +8,12 @@
 	  "import": "false"
 	},
 	{
+	  "name": "ACESTREAM1",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
+	  "import": "false"
+	},
+	{
 	  "name": "ENLACES",
 	  "image": "",
 	  "stations": [
