@@ -161,7 +161,11 @@ acestream://039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", GOLFZONE*
 acestream://d4acffe8f08b7728d3b489ab5ca37398a5636689
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN*
+acestream://4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN*
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN2*
+acestream://664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", ESPN2*
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", TNTSPORTS1*
