@@ -8,6 +8,12 @@
 	  "import": "false"
 	},
 	{
+	  "name": "SEARCH-ACE",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/search-ace_sport",
+	  "import": "false"
+	},
+	{
 	  "name": "ACESTREAM1",
 	  "image": "",
 	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
