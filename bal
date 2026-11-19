@@ -1,5 +1,7 @@
 #EXTM3U 
 # ACTUALIZADO EL 12/11/2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bMydMqLb/ver.png", NBATV*
+acestream://e72d03fb9694164317260f684470be9ab781ed95
 #DAZN
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S4xwYRT6/bal.png", DAZNB
 acestream://f460b9c1b77222ac21b0e148f2b2c07791ce2d5d
