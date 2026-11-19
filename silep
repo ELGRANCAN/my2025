@@ -1,5 +1,35 @@
 #EXTM3U
 # ACTUALIZADO EL 19/11/2026
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",La Odisea (2026) - 30.98 GB
+acestream://8350905b49f9e49c4d645e2d39d480234db63559
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Peleas a domicilio (Bagarre) (2026) - 17.92 GB
+acestream://3721a3745ef28cd150173861e9e9be2d94d5376c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Guardaespaldas por Navidad (2026) - 15.92 GB
+acestream://1a590d767440c484463ff08e10d4fe69131b5312
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Hombres de acero (Wasteman) (2025) - 11.92 GB
+acestream://c0d93208933331c51e5830010d9ce9f9f11a23c8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",No nos rendimos (2026) - 20.00 GB
+acestream://1d1dfad9182d16450cab5feec24de0e5b7487297
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Heartland (2026) - 16.52 GB
+acestream://f9f822b1e79f812f4350f6cd39bf78c3096b902b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Expedicion Salvar nuestros mares (2026) - 2.36 GB
+acestream://4576f513d932775c0acabca337f4686b7ff648c3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Todo lo que fuimos (2025) - 9.04 GB
+acestream://64506e586d3dc3696890c9d4376831a2382ddc5e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",La Odisea (2026) - 6.33 GB
+acestream://e896fe95fc3874681afdc521343c0dc6a65a6a3b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Hombres de acero (Wasteman) (2025) - 14.98 GB
+acestream://e5c3e601468db2858d535a2b818c5bf1fad018f6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",La copia perfecta (Laffaire Bojarski) (2025) - 17.56 GB
+acestream://bb7db1a5fc539f02e87c2691fdf3398cd74111d9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Peleas a domicilio (Bagarre) (2026) - 6.53 GB
+acestream://bea9389bf272ae8233f18f3ec6294d8aec2645c3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",El intercambio navideño (2026) - 6.10 GB
+acestream://e6796e6737ef257c084024679bf75431c0c498ce
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",No nos rendimos (2026) - 9.03 GB
+acestream://db0a1f58489cceeca9f3e7985da986ac35af2fbc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="1080p / Full HD",Heartland (2026) - 6.70 GB
+acestream://57a245a5fcefed4cc3ad568d2d5e060d44cb47ad
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",Allen (2026) - 15.98 GB
 acestream://aa244ec35439070c0327c64fc4461881f2702ad7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7W9xPnb/p2ptv.png" group-title="4K / UHD (2160p)",El intercambio navideño (2026) - 14.44 GB
