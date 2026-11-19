@@ -5,15 +5,15 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 01
 acestream://d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 02
-acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
+acestream://79587e4c7a6ae12905a6fc8b61147fc59aa38480
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 03
 acestream://ba499561ddbfa192bc37fe84808ac72e155ec7d5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 04
-acestream://cc1e589254acacb246733233397d50e3ab3591a7
+acestream://dc149729d6b4be6ae8199eae450611d1d06e5149
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 05
 acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 06*
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 06
+acestream://cc1e589254acacb246733233397d50e3ab3591a7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 07*
 acestream://9755a2b072c4244820670cc011d28b77d3a13e98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 08*
@@ -38,3 +38,5 @@ acestream://895d08633bb22c2573281655cf3ca44de476cc73
 acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 18*
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gLB4X1FZ/1f.png", CANAL 19*
+acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
