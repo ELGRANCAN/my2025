@@ -1,37 +1,37 @@
 { "name": "20/11/2026 (23:00)",
   "groups": [
     {
-      "name": "SERVIDOR 01",
+      "name": "EVENTOS 01",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
       "import": "false"
     },
     {
-      "name": "SERVIDOR 02",
+      "name": "EVENTOS 02",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn2",
       "import": "false"
     },
     {
-      "name": "SERVIDOR 03",
+      "name": "EVENTOS 03",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
       "import": "false"
     },
     {
-      "name": "SERVIDOR 04",
+      "name": "EVENTOS 04",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
       "import": "false"
     },
     {
-      "name": "SERVIDOR 05",
+      "name": "EVENTOS 05",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcesStream.IDs.m3u",
       "import": "false"
     },
     {
-      "name": "SERVIDOR 06",
+      "name": "EVENTOS 06",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
       "import": "false"
