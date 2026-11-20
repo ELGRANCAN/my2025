@@ -4,6 +4,12 @@
 	{
 	  "name": "ACESTREAMUI",
 	  "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/search-ace_sport",
+	  "import": "false"
+	},
+	{
+	  "name": "ACESTREAMUI",
+	  "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acestreamui",
 	  "import": "false"
 	},
