@@ -8,6 +8,12 @@
 	  "import": "false"
 	},
 	{
+	  "name": "ACESTREAMUI",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acestreamui",
+	  "import": "false"
+	},
+	{
 	  "name": "ACEARCHIVE",
 	  "image": "",
 	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
@@ -16,7 +22,7 @@
 	{
 	  "name": "ACESTREAM1",
 	  "image": "",
-	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn4",
+	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acestreamui",
 	  "import": "false"
 	},
 	{
