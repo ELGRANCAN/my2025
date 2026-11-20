@@ -3,13 +3,13 @@
   "groups": [
 	{
 	  "name": "ACESTREAMUI",
-	  "image": "",
+	  "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 	  "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/acestreamui",
 	  "import": "false"
 	},
 	{
 	  "name": "ACEARCHIVE",
-	  "image": "",
+	  "image": "https://i.ibb.co/7W9xPnb/p2ptv.png",
 	  "url": "https://archive.org/download/tvonline_202311/tvonline.txt",
 	  "import": "false"
 	},
