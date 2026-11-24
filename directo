@@ -26,6 +26,12 @@
 	  "import": "false"
 	},
 	{
+	  "name": "CHUCKYSPORT",
+	  "image": "",
+	  "url": "https://raw.githubusercontent.com/Chukymlapla/Deport/refs/heads/main/Deport",
+	  "import": "false"
+	},
+	{
 	  "name": "ENLACES",
 	  "image": "",
 	  "stations": [
