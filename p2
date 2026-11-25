@@ -1,6 +1,18 @@
-{ "name": "24/11/2026 (23:00)",
+{ "name": "25/11/2026 (19:00)",
   "groups": [
     {
+      "name": "LISTA 01",
+      "image": "https://i.ibb.co/ccpsQrx2/cn.png",
+      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
+      "import": "false"
+    },
+    {
+      "name": "LISTA 02",
+      "image": "https://i.ibb.co/ccpsQrx2/cn.png",
+      "url": "https://listam3u.markellinks.app/lista.m3u",
+      "import": "false"
+    },
+	{
       "name": "EVENTOS 01",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn1",
@@ -13,25 +25,13 @@
       "import": "false"
     },
     {
-      "name": "EVENTOS 03",
-      "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://raw.githubusercontent.com/ELGRANCAN/my2025/refs/heads/main/cn3",
-      "import": "false"
-    },
-    {
       "name": "EVENTOS 04",
-      "image": "https://i.ibb.co/ccpsQrx2/cn.png",
-      "url": "https://listam3u.markellinks.app/lista.m3u",
-      "import": "false"
-    },
-    {
-      "name": "EVENTOS 05",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/af1Series1/Tritolgia/refs/heads/main/AcesStream.IDs.m3u",
       "import": "false"
     },
     {
-      "name": "EVENTOS 06",
+      "name": "EVENTOS 05",
       "image": "https://i.ibb.co/ccpsQrx2/cn.png",
       "url": "https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/eventos.m3u",
       "import": "false"
