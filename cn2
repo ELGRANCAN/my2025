@@ -1,187 +1,323 @@
 #EXTM3U
-# https://ciriaco.netlify.app/
-# ACTUALIZADO EL 24/11/2026
-#EXTINF:-1,M. Liga de Campeones 2 --> New Loop
-acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
-#EXTINF:-1,BT Sport 2 [UK] --> New Loop
-acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1,ZIGGO SPORT 3 -->SPORTV
-acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
-#EXTINF:-1,DAZN 1 Bar HD [DE] --> SPORTV
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1,Ziggo Sport --> New Loop
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1,Eleven Sports 1 [BE] --> SPORTV
-acestream://36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1,M+ Liga de Campeones 2 720p * --> Elcano
-acestream://8308bca81e6e712089b1b42b4a4cc29f7cb2c0d0
-#EXTINF:-1,M+ Liga de Campeones 2 720p ** --> Elcano
-acestream://9c50223858795ed2360934c389db8ad39b89fbce
-#EXTINF:-1,M+ Liga de Campeones 2 1080p ** --> Elcano
-acestream://97778f11e7264d4fcc3bb4575496828b743a3729
-#EXTINF:-1,M+ Liga de Campeones 2 1080p ** --> Elcano
-acestream://ecbca54159ba47f1873b90f0ea2db6f35f15465b
-#EXTINF:-1,M. Liga de Campeones 3 --> New Loop
-acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
-#EXTINF:-1,BT Sport / ESPN [UK] --> New Loop
-acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1,ZIGGO SPORT 4 -->SPORTV
-acestream://36dfc36084b2138d3451c4700b462ac1094d693d
-#EXTINF:-1,Sky Sports Arena [UK] --> New Loop
-acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1,DAZN 2 Bar HD [DE] --> SPORTV
-acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
-#EXTINF:-1,Eleven Sports 2 [BE] --> SPORTV
-acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1,M+ Liga de Campeones 3 720p * --> Elcano
-acestream://ba65b116a89c2c2fd50a44e497ec7508e61fba70
-#EXTINF:-1,M+ Liga de Campeones 3 720p ** --> Elcano
-acestream://0f456a24bd967d963f3023dcaf9b85fc18c60b32
-#EXTINF:-1,M+ Liga de Campeones 3 1080p * --> Elcano
-acestream://ad312a4e135c1a2e9f5ca0e65a382dda794eb5f4
-#EXTINF:-1,M+ Liga de Campeones 3 1080p ** --> Elcano
-acestream://6791c61745373ccba7bc7d97798a3a1399401067
-#EXTINF:-1,M+ Liga de Campeones 3 1080p ** --> Elcano
-acestream://9ecf7d06c6ed24a6b4a7a76f7ff4951bd89e9f7a
-#EXTINF:-1,Esport3 720p * --> Elcano
-acestream://af29bd066eab597e8c8e61070c85dc7d35b2678f
-#EXTINF:-1,Esport3 1080p * --> Elcano
-acestream://cb3554a33b957c111aef5311b6df00e71681cb98
-#EXTINF:-1,Esport3 1080p ** --> Elcano
-acestream://72166569359b9e691cb69c368e5fa406f56d05b1
-#EXTINF:-1,M+ Baloncesto 2 1080p * --> Elcano
-acestream://3924a58c2fcc1f97c973a3320cc65bf69c5ac30f
-#EXTINF:-1,M+ Baloncesto 3 1080p ** --> Elcano
-acestream://ae561eef41780388e1a69280027b79a9027eabe5
-#EXTINF:-1,M. Deportes 2 HD --> New Loop
-acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1,M+ Deportes 2 720p ** --> Elcano
-acestream://a1f8f7f65edfd3a7ca91e5f1c9bcbd65b6180ff5
-#EXTINF:-1,M+ Deportes 2 1080p * --> Elcano
-acestream://663a8434b8d1a9f8fe0e6c59f72ad6ede8960ff1
-#EXTINF:-1,DAZN Baloncesto 1080p ** --> Elcano
-acestream://c6cc8cba09cf8aa2d5938320a1ebcfd89ac22d47
-#EXTINF:-1,DAZN Baloncesto 1080p ** --> Elcano
-acestream://0f8c227759c6b28bc02c9d9166c3f120be79020f
-#EXTINF:-1,M+ Vamos --> New Loop
-acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
-#EXTINF:-1,Vamos --> NEW ERA III
-acestream://86262568aa72b956b06ac67b1c310a32248a0e98
-#EXTINF:-1,M+ Vamos 720p * --> Elcano
-acestream://cdc332904a0f9be7db0328b0046c56ac1c0b73c9
-#EXTINF:-1,M+ Vamos 720p ** --> Elcano
-acestream://6a820c397bc0c0ed5eacbde84ca2933df3a65c69
-#EXTINF:-1,BeIN Sports 1 [BE] --> New Loop
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1,M+ Baloncesto 4 1080p * --> Elcano
-acestream://067c48855642547ddac789239aec60c5910821c0
-#EXTINF:-1,M. Liga de Campeones 4 --> New Loop
-acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
-#EXTINF:-1,Eleven Sports 3 [BE] --> SPORTV
-acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1,M+ Liga de Campeones 4 1080p * --> Elcano
-acestream://2f258bc82c512417b24a2ab88e36c41358bc4224
-#EXTINF:-1,M+ Liga de Campeones 4 1080p ** --> Elcano
-acestream://680695cb3706332b7c52fa8daa07a4774391487f
-#EXTINF:-1,M+ Liga de Campeones 4 1080p ** --> Elcano
-acestream://bf0fd04f544d9c1f555bc8f4b53ff9c2d292b295
-#EXTINF:-1,M. Liga de Campeones 5 --> New Loop
-acestream://42464375d3070ef1cbba2e7b2106bf8c80037076
-#EXTINF:-1,BT Sport 1 [UK] --> New Loop
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1,M+ Liga de Campeones 5 1080p ** --> Elcano
-acestream://99a9841f76ab2db5faa8885e983f36e0a1ce78b8
-#EXTINF:-1,Movistar+ --> NEW ERA III
-acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
-#EXTINF:-1,M. Liga de Campeones --> New Loop
-acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
-#EXTINF:-1,Ziggo Sport 2 --> New Loop
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1,MOVISTAR PLUS 1080p * --> Elcano
-acestream://423d84a999fde31dd1cebad55a55ae7160664b21
-#EXTINF:-1,MOVISTAR PLUS 1080p ** --> Elcano
-acestream://307dc7009b8649338d8325acfe18e4129239404d
-#EXTINF:-1,M+ Liga de Campeones 720p * --> Elcano
-acestream://ff0e1806dc0529bc6fdf5246508813fffb3f2fd1
-#EXTINF:-1,M+ Liga de Campeones 720p ** --> Elcano
-acestream://210da6e1ee579e8963e62b47e943687e0c86ea03
-#EXTINF:-1,M+ Liga de Campeones 1080p * --> Elcano
-acestream://3a996d7b2b971e9e3ddd42784081de12f8d1c483
-#EXTINF:-1,M+ Liga de Campeones 1080p ** --> Elcano
-acestream://bc98b66ed40392851bcb1c9eca8166a80d880694
-#EXTINF:-1,M+ Liga de Campeones 1080p ** --> Elcano
-acestream://76f0f810b6f72d5e98d188689526a052b0900ac5
-#EXTINF:-1,M. Liga de Campeones 6 --> New Loop
-acestream://062d160d570b01bcb2b3fb033a0ae5977bbb9beb
-#EXTINF:-1,M+ Liga de Campeones 6 1080p * --> Elcano
-acestream://1f82efcb3d4fbf728c23dd67ce82ccd9cf964ff8
-#EXTINF:-1,M+ Liga de Campeones 6 1080p ** --> Elcano
-acestream://2dac20ec61a17e1bf675ff8cfc7700339e4c28de
-#EXTINF:-1,M+ Liga de Campeones 6 1080p ** --> Elcano
-acestream://9ce149cb61665efd04b3cabfaa7a182f62313e68
-#EXTINF:-1,M. Liga de Campeones 8 --> New Loop
-acestream://9732997a3f8e243f8a4b2bb780892909b32f9990
-#EXTINF:-1,M+ Liga de Campeones 8 1080p * --> Elcano
-acestream://127550116ee809bdba0b63d94a3af855312eda38
-#EXTINF:-1,M+ Liga de Campeones 8 1080p ** --> Elcano
-acestream://d789ffe5c863251c606997bdcfa32b944f583a5b
-#EXTINF:-1,M. Liga de Campeones 7 --> New Loop
-acestream://57c6c8afe4ec1f7bd652c0ed0e6170c18826aa8a
-#EXTINF:-1,M+ Liga de Campeones 7 1080p * --> Elcano
-acestream://d53bd1bac92af0000b78c0973268201b1fe877a5
-#EXTINF:-1,M+ Liga de Campeones 7 1080p ** --> Elcano
-acestream://e336447c6f28842e6fe60b511d297005b5118bdb
-#EXTINF:-1,M+ Baloncesto 1080p ** --> Elcano
-acestream://7d69b0c14741cacc0e851604cf34da0ca35b98d2
-#EXTINF:-1,M. Liga de Campeones 9 --> New Loop
-acestream://7bd9eb646507e01086eb535511f378a75b8bea63
-#EXTINF:-1,M+ VAMOS 2 720p * --> Elcano
-acestream://3c4481f7915bb3787cd5f9045cd8d4c85ca90e1d
-#EXTINF:-1,M+ VAMOS 2 1080p ** --> Elcano
-acestream://fdcae9a9f055bce6ba137c0a249bb968fb934852
-#EXTINF:-1,M+ VAMOS 2 1080p ** --> Elcano
-acestream://b1da82eaa4617ff024c8df7c6744b82ebc06a236
-#EXTINF:-1,Sky Sports Main Event [UK] --> New Loop
-acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1,BeIN Sports 2 [BE] --> New Loop
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
+# https://ciriaco.onrender.com/
+# ACTUALIZADO EL 26/11/2026
 #EXTINF:-1,TELEDEPORTE Spain --> New Loop
 acestream://4048be88f84250719e864868e537612f389df48e
 #EXTINF:-1,Teledeporte 720p ** --> Elcano
-acestream://530c4fe68f46f7eeb168ddb07026f40d96a0b6ce
+acestream://5dfb3ff59c2e74af038cf0bc6737f642085a8a08
 #EXTINF:-1,Teledeporte 1080p * --> Elcano
-acestream://81aead134bb63a51291d23e793fcddca981ee834
+acestream://dedcc558023307a8ac04ab79d051b057c0d04366
 #EXTINF:-1,Teledeporte 1080p ** --> Elcano
-acestream://e2764331e372ba2b3fd65be11eace463405864da
-#EXTINF:-1,DAZN Baloncesto 2 720p * --> Elcano
-acestream://5ebe8c2bc85fb9c555403031b7af759b05aa4087
-#EXTINF:-1,M. Golf 2 HD --> New Loop
-acestream://1735ff3141fa3820090fad58dc548a1390accae9
-#EXTINF:-1,M. Golf HD --> New Loop
-acestream://872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1,M+ Golf 1080p * --> Elcano
-acestream://ae4f7fc836e02b39b1bf19eb91887ea0896493e4
-#EXTINF:-1,DAZN2 --> New Loop
-acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
-#EXTINF:-1,DAZN 2 1080p * --> Elcano
-acestream://7f330c2aca08790036f149083c7d15ae7735c558
-#EXTINF:-1,DAZN 2 1080p ** --> Elcano
-acestream://1bb42436e8858cb0d086800f98bcd43b741ed332
+acestream://cf04e7ca42c9c890623155101b892faaf15536fc
 #EXTINF:-1,Eurosport 1 --> NEW ERA III
 acestream://62a5750be4d2218b1064f83afaac4770fd92350d
 #EXTINF:-1,Eurosport 1 --> SPORTV
 acestream://05004eac5955c789c41c4799cfedcf3b4468cb4a
 #EXTINF:-1,Eurosport 1 1080p * --> Elcano
-acestream://63fadd3305634481e9cf210663b5730cf5fae478
+acestream://9e8e05bd143f702daa900c6ab1a2491e7159d43a
 #EXTINF:-1,Eurosport 1 1080p ** --> Elcano
-acestream://b8a8758706321fe6372c470b2df4815d916829c1
+acestream://b0595a031c44f2dfa4f9d34cccc4339f83b9663a
+#EXTINF:-1,M. Liga de Campeones --> New Loop
+acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1,Eleven Sports 1 [BE] --> SPORTV
+acestream://36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1,M+ Liga de Campeones 720p * --> Elcano
+acestream://5d42986f09c7e650aaa5dd8b5a8549ff108ba0ca
+#EXTINF:-1,M+ Liga de Campeones 1080p * --> Elcano
+acestream://40680e435e0d6af0ed1737e7b7ce9a28e9f66e93
+#EXTINF:-1,M+ Liga de Campeones 1080p ** --> Elcano
+acestream://31d3d31cb2ea078c79a6a03ef65af4267bf67276
+#EXTINF:-1,M+ Liga de Campeones 1080p ** --> Elcano
+acestream://e26bcd3eb6d1c41bf6d9a32c1e24986f8932d3d4
+#EXTINF:-1,Movistar+ --> NEW ERA III
+acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
+#EXTINF:-1,M. Deportes 2 HD --> New Loop
+acestream://3afe1af18f8ff78e9946856911b00c67477052b5
+#EXTINF:-1,MOVISTAR PLUS 1080p * --> Elcano
+acestream://d12ec6cf0d831af9f07cd20bc5028daa42570090
+#EXTINF:-1,MOVISTAR PLUS 1080p ** --> Elcano
+acestream://f989ef8595170b3d2214b0c674b66315b454fd34
+#EXTINF:-1,M+ Deportes 2 720p ** --> Elcano
+acestream://f6339b8ae05712e26c59a2fe51e1a1af39046330
+#EXTINF:-1,M+ Deportes 2 1080p * --> Elcano
+acestream://9f1d8af4de68af6a1a8d80f799e67cb8a12afb45
+#EXTINF:-1,M+ Baloncesto 2 1080p * --> Elcano
+acestream://cb8e491202df292afc5cd4be387b9bd3ebb590ca
+#EXTINF:-1,M. Liga de Campeones 3 --> New Loop
+acestream://90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1,Eleven Sports 3 [BE] --> SPORTV
+acestream://dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1,M+ Liga de Campeones 3 720p * --> Elcano
+acestream://6e5bf01c7a86898becea0167e1a5a3ee2333f226
+#EXTINF:-1,M+ Liga de Campeones 3 1080p * --> Elcano
+acestream://bc67da5c1192f574371d6cb8922d9a4b6786395b
+#EXTINF:-1,M+ Liga de Campeones 3 1080p ** --> Elcano
+acestream://141c3c295b6394502ff2e2c0ad5c2d1b3cbccf8c
+#EXTINF:-1,M. Liga de Campeones 4 --> New Loop
+acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
+#EXTINF:-1,Eleven Sports 2 [BE] --> SPORTV
+acestream://d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
+#EXTINF:-1,M+ Liga de Campeones 4 1080p * --> Elcano
+acestream://7fc557e2b4fd2cd54b8783e05caa05c2a92d128d
+#EXTINF:-1,M+ Liga de Campeones 4 1080p ** --> Elcano
+acestream://b9a1c9715fa2a1688c78385b26189e84e75b1761
+#EXTINF:-1,M+ Liga de Campeones 4 1080p ** --> Elcano
+acestream://fdc6af3f46eb9ab38b021883215d19bae7bdacbb
+#EXTINF:-1,M. Liga de Campeones 6 --> New Loop
+acestream://062d160d570b01bcb2b3fb033a0ae5977bbb9beb
+#EXTINF:-1,M+ Liga de Campeones 6 720p ** --> Elcano
+acestream://b65d8bfd3326fbb0a974805598dceafaea862822
+#EXTINF:-1,M+ Liga de Campeones 6 1080p ** --> Elcano
+acestream://304350c5a8aaa063345c6dfb2af39c48add5c9db
+#EXTINF:-1,M. Liga de Campeones 5 --> New Loop
+acestream://42464375d3070ef1cbba2e7b2106bf8c80037076
+#EXTINF:-1,M. Liga de Campeones 7 --> New Loop
+acestream://57c6c8afe4ec1f7bd652c0ed0e6170c18826aa8a
+#EXTINF:-1,M+ Liga de Campeones 7 1080p * --> Elcano
+acestream://63bc84a2770ac962d950d93154fa29b958a17ade
+#EXTINF:-1,M+ Liga de Campeones 7 1080p ** --> Elcano
+acestream://aa3168cd64fa1cea8409dcd1ceb294659de70c00
+#EXTINF:-1,M. Liga de Campeones 9 --> New Loop
+acestream://7bd9eb646507e01086eb535511f378a75b8bea63
+#EXTINF:-1,M. Liga de Campeones 8 --> New Loop
+acestream://9732997a3f8e243f8a4b2bb780892909b32f9990
+#EXTINF:-1,M+ Liga de Campeones 8 1080p * --> Elcano
+acestream://e349cb9747e15145a208e7b40889cb68cd72bad9
+#EXTINF:-1,M+ Liga de Campeones 8 1080p ** --> Elcano
+acestream://2c1c284fa3876add98232a0c71c7be20291cb2c6
 #EXTINF:-1,M. Liga de Campeones 10 --> New Loop
 acestream://927ddafbf6c37881023b3a9dec3c4a26480d488f
 #EXTINF:-1,M. Liga de Campeones 11 --> New Loop
 acestream://41f476ec85da28deeb6492a9804c1d493a884627
+#EXTINF:-1,M. Liga de Campeones 2 --> New Loop
+acestream://338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1,M+ Liga de Campeones 2 720p * --> Elcano
+acestream://8172bad285bb6562bd7595961f177a1d74eda7cc
+#EXTINF:-1,M+ Liga de Campeones 2 1080p ** --> Elcano
+acestream://8b9ba477244a0250a6499ecd24cc4f1c706920fd
+#EXTINF:-1,M+ Liga de Campeones 2 1080p ** --> Elcano
+acestream://83a934b42da82df03373281e108999e83432f756
+#EXTINF:-1,M+ Baloncesto 4 1080p * --> Elcano
+acestream://0316a8ddd74705941dea5b6bf90a2fbfd8bd021e
+#EXTINF:-1,M+ Baloncesto 1080p * --> Elcano
+acestream://e12c43fb7682a16dcee666b3e7563540ad61dab2
+#EXTINF:-1,M+ Baloncesto 1080p ** --> Elcano
+acestream://60f0b193dc279cec051cfd93a36bdc62b7087edd
+#EXTINF:-1,DAZN2 --> New Loop
+acestream://b0eabe0fdd02fdd165896236765a9b753a2ff516
+#EXTINF:-1,DAZN1 --> New Loop
+acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
+#EXTINF:-1,DAZN 2 1080p ** --> Elcano
+acestream://25d297f187e991e15d914b55634b391fe30a0586
+#EXTINF:-1,DAZN 1 720p ** --> Elcano
+acestream://a4bacd37e900db881b92f88f193ae4f5d4b71de1
+#EXTINF:-1,DAZN 1 1080p * --> Elcano
+acestream://5ef477d88ce68228737a34cf66cd0fd590144f07
+#EXTINF:-1,DAZN 1 1080p ** --> Elcano
+acestream://6e79104b1f7e6445a2ba606bc66bebd1cca0e894
+#EXTINF:-1,M+ Baloncesto 3 1080p * --> Elcano
+acestream://2ee08fd13ac32951319fd389b585f6a5ff10a35e
+#EXTINF:-1,M+ Baloncesto 3 1080p ** --> Elcano
+acestream://f645199c617b2f0894506d8d3ef8369212f602eb
+#EXTINF:-1,M+ Baloncesto 5 1080p * --> Elcano
+acestream://8386be1a2da3e852fe8935381a629e1fa604f6b4
+#EXTINF:-1,M+ Baloncesto 5 1080p ** --> Elcano
+acestream://c1a4b01aec9ca89c8c1a59fdb9f60439bded2cb9
+#EXTINF:-1,Esport3 720p * --> Elcano
+acestream://c755ce5dc95aea9aad950b51b2e5329c8c93297a
+#EXTINF:-1,Esport3 1080p * --> Elcano
+acestream://c61abcd996ba2749c4efc383a1252b74288cbe82
+#EXTINF:-1,Esport3 1080p ** --> Elcano
+acestream://6a540b5777fe88e8dfad78be46544e87e766d67a
+#EXTINF:-1,M+ Vamos --> New Loop
+acestream://f35418bcdbdf47c2d88adef411e9ed15cb2ccc38
+#EXTINF:-1,Vamos --> NEW ERA III
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
+#EXTINF:-1,M+ Vamos 720p * --> Elcano
+acestream://a2ecc7702a6bca1194af7ad0249e1984e763f360
+#EXTINF:-1,M. Golf 2 HD --> New Loop
+acestream://1735ff3141fa3820090fad58dc548a1390accae9
+#EXTINF:-1,M. Golf HD --> New Loop
+acestream://872608e734992db636eb79426802cd08f4029afb
+#EXTINF:-1,M+ Golf 1080p * --> Elcano
+acestream://ed5caa6d11a873249bb7af36e2b3819d901e371a
+#EXTINF:-1,DAZN MOTO GP (SOLO EVENTOS) --> NEW ERA III
+acestream://30bfcdcc472367415184132bf9d8f46a0a4e8b32
+#EXTINF:-1,DAZN MOTOGP --> NEW ERA VI
+acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1,Dazn MotoGP 720p * --> Elcano
+acestream://218137b5dc6bb17ec3df65019225ceb7ddeb37e6
+#EXTINF:-1,Dazn MotoGP 720p ** --> Elcano
+acestream://962c7fe92b214b0962459bec921a5cdcc28bcfe3
+#EXTINF:-1,Dazn MotoGP 1080p * --> Elcano
+acestream://67432c0f35d043614507ffedf8200380ee428ffd
+#EXTINF:-1,Dazn MotoGP 1080p * --> Elcano
+acestream://2c93d18fdd0fb5eea0d350c9d3f8dbc0b7180ee2
+#EXTINF:-1,Dazn MotoGP 1080p ** --> Elcano
+acestream://cf3b2fd13ef43c7e6c7effaf9065586dc46ad693
+#EXTINF:-1,Dazn MotoGP 1080p ** --> Elcano
+acestream://7ad59ae667501a487ac7cc9f694d0f7446b30e55
+#EXTINF:-1,Eurosport 2 (DETENIDO) --> NEW ERA III
+acestream://32fcf8e1513049ef9f90d08ba9040fe34b01d9fd
+#EXTINF:-1,Eurosport 2 --> SPORTV
+acestream://12a4595f177744ff0d7312c411db81893bc78727
+#EXTINF:-1,Eurosport 2 720p ** --> Elcano
+acestream://8913883d8cdf47e596acc6c67bc20ed892855834
+#EXTINF:-1,DAZN F1 HD --> New Loop
+acestream://d65257bb934b73647374224fd62d836815804be2
+#EXTINF:-1,Dazn F1 (SOLO EVENTOS) --> NEW ERA III
+acestream://c21d60fa884b24f3cedcb1110b84ac2bcb0c2d19
+#EXTINF:-1,DAZN F1 --> NEW ERA VI
+acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
+#EXTINF:-1,DAZN F1 720p * --> Elcano
+acestream://60470af74eee510c0def6048604bb02c9a67f149
+#EXTINF:-1,DAZN F1 720p ** --> Elcano
+acestream://deeb39d6a2c7ef693785fdba4baf6dc7452d2b61
+#EXTINF:-1,DAZN F1 720p ** --> Elcano
+acestream://8ccc6b757f58d5d018687b725c422821340aa063
+#EXTINF:-1,DAZN F1 1080p * --> Elcano
+acestream://4236714aa65e854f90bb6b710369bfb6e862cb23
+#EXTINF:-1,DAZN F1 1080p ** --> Elcano
+acestream://bbbd1b53d1ab40f0a289ed638784cca08a1439b2
+#EXTINF:-1,DAZN F1 1080p ** --> Elcano
+acestream://5edc7f666fa59e18f3b6c6f2631f353f0e6adf2e
+#EXTINF:-1,DAZN F1 1080p ** --> Elcano
+acestream://463e67b7b81a6f38a84dd5df3c522ed73b4f421c
+#EXTINF:-1,DAZN Baloncesto 720p * --> Elcano
+acestream://dd23f050bfa06aa868adbead83abbde73d1bc7b9
+#EXTINF:-1,RFEF TV 1080p * --> Elcano
+acestream://a7b5c04af991db5dfd102070a7aee75778240977
+#EXTINF:-1,RFEF TV 1080p * --> Elcano
+acestream://208790a77fe517fa2e1a482c6cccc2dc1cdbe14c
+#EXTINF:-1,DAZN Baloncesto 2 1080p ** --> Elcano
+acestream://2c12e2eb9114dca783d5089e2425b2a787541ec1
+#EXTINF:-1,M. LaLiga TV Hypermotion --> New Loop
+acestream://568ac81baafba91dc9a28a7554a1dd790fdf0c0d
+#EXTINF:-1,LALIGA HYPERMOTION --> NEW ERA VI
+acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
+#EXTINF:-1,Матч! Футбол 3 --> SPORTV
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1,LaLiga TV Hypermotion 720p * --> Elcano
+acestream://1b67f6ee79e186ef13733e9e7a6d30aae1f7ed55
+#EXTINF:-1,LaLiga TV Hypermotion 1080p * --> Elcano
+acestream://3edf88aa2b038dca392977cde970660df00a5d36
+#EXTINF:-1,DAZN Baloncesto 3 1080p ** --> Elcano
+acestream://a8545d3c721f091420297dc6fcb0bd767246d789
+#EXTINF:-1,Матч! Футбол HD --> SPORTV
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1,Матч! HD --> SPORTV
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1,Eleven Sports 1 HD [PL] --> SPORTV
+acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
+#EXTINF:-1,DAZN 1 Bar HD [DE] --> SPORTV
+acestream://897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1,Eleven Sports 3 HD [PL] --> SPORTV
+acestream://b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+#EXTINF:-1,M. LaLiga (disabled) --> New Loop
+acestream://cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1,M. LaLiga --> New Loop
+acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
+#EXTINF:-1,Movistar la liga HDR --> NEW ERA III
+acestream://7108ad98920a87cc7dc857748e69a5d725890b98
+#EXTINF:-1,MOVISTAR LALIGA --> NEW ERA VI
+acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
+#EXTINF:-1,Матч! Футбол 2 --> SPORTV
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1,M+ LaLiga 720p * --> Elcano
+acestream://ad1c7ab18775a1a84e240e18e812051ae37f59d5
+#EXTINF:-1,M+ LaLiga 720p * --> Elcano
+acestream://7f418be09a42f83a17dad2e304ae02f8f11cfdc5
+#EXTINF:-1,M+ LaLiga 720p ** --> Elcano
+acestream://1bdc6064990aca17ed37775b185fc8696deed244
+#EXTINF:-1,M+ LaLiga 1080p * --> Elcano
+acestream://64c18dd07556a8e11039be1f448bd73ce9be84ee
+#EXTINF:-1,M+ LaLiga 1080p ** --> Elcano
+acestream://ab26ca2517da28f74a3ac55c5eb956d5bf8633b4
+#EXTINF:-1,M+ LaLiga 1080p ** --> Elcano
+acestream://a6c284e70d65e82171536ba58d8457e2c6fe6ff2
+#EXTINF:-1,M+ LaLiga 1080p ** --> Elcano
+acestream://9236afc7e7ac404577aaa20698731c71ad9b33a3
+#EXTINF:-1,Setanta Live 1 [RU] --> SPORTV
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1,M. Deportes HD --> New Loop
+acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1,Movistar Deportes --> NEW ERA III
+acestream://af393f93814d03160d48d2730759593b7bea5b47
+#EXTINF:-1,M+ Deportes 720p * --> Elcano
+acestream://a8c60e23b7d217eb899227330d0b153148ecd42c
+#EXTINF:-1,M+ Deportes 720p ** --> Elcano
+acestream://f304aff2f23f0519ed626cf4ef27bc2201f3565e
+#EXTINF:-1,M+ Deportes 1080p * --> Elcano
+acestream://60be120bd0cc6782e4f5041dc84413b8b5c98635
+#EXTINF:-1,M+ Deportes 1080p ** --> Elcano
+acestream://5f851f8e4907cd8ef8d7f44c0948429ef6e79e00
+#EXTINF:-1,M. Deportes 3 HD --> New Loop
+acestream://39fefdecfc953dcf6e7c589739bf486c2e605ed0
+#EXTINF:-1,M+ Deportes 3 720p ** --> Elcano
+acestream://a504fac014c00378bb40f6e9141a0873a57e6163
+#EXTINF:-1,M+ Deportes 3 1080p * --> Elcano
+acestream://950941ea26ae1d63d91153f582d2d4dbc45b9e28
+#EXTINF:-1,M+ Deportes 3 1080p ** --> Elcano
+acestream://239fc67555e053a344d0259560ae23c37a96e64b
+#EXTINF:-1,M+ VAMOS 3 720p ** --> Elcano
+acestream://f3c64d332547a4090fce322cf3413d73d9146254
+#EXTINF:-1,DAZN LaLiga --> New Loop
+acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1,DAZN LaLiga --> New Loop
+acestream://45ee8e08bb341a56b2ed36da327e2e9fee54d13e
+#EXTINF:-1,DAZN liga --> NEW ERA III
+acestream://f43ef903dc750610978b47df47a0cb389413fe61
+#EXTINF:-1,DAZN LALIGA --> NEW ERA VI
+acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
+#EXTINF:-1,DAZN LaLiga 720p ** --> Elcano
+acestream://6e77ccae02c587835822318eb4a7ea18e80d9cd5
+#EXTINF:-1,DAZN LaLiga 1080p * --> Elcano
+acestream://7f11f3366b520f71adedddf6ff1ad70362cc6a65
+#EXTINF:-1,DAZN LaLiga 1080p ** --> Elcano
+acestream://5518b767f76d8de58e85396f58da30effa67ca06
+#EXTINF:-1,DAZN LaLiga 1080p ** --> Elcano
+acestream://21d08c2193cd16b9fe3f1f402e5f3713336dd4b2
+#EXTINF:-1,M. LaLiga TV Hypermotion 2 --> New Loop
+acestream://cafdd40301fad92c6929960e98b1a6feefcf6f18
+#EXTINF:-1,LaLiga TV Hypermotion 2 720p * --> Elcano
+acestream://9aeaf9ce7abd8f8d19ed7cd62c5b10589f368c92
+#EXTINF:-1,LaLiga TV Hypermotion 2 1080p * --> Elcano
+acestream://e3138f1a8f174892b7b7f3af6daf7ee3a15888c6
+#EXTINF:-1,LaLiga TV Hypermotion 2 1080p ** --> Elcano
+acestream://6aecc2f70f324f7f92e7e9b60f4f854270f69666
+#EXTINF:-1,La 2 TVE 1080p * --> Elcano
+acestream://44a0ce503eac925ba2a3edc64a65afa03b3cc654
+#EXTINF:-1,La 2 TVE 1080p ** --> Elcano
+acestream://5b7cdad234fe3a5ff928397fc9461f7240b67553
+#EXTINF:-1,Ziggo Sport 2 --> New Loop
+acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1,BT Sport / ESPN [UK] --> New Loop
+acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1,Polsat Sport Premium 2 [PL] --> SPORTV
+acestream://3147c586346aee00c005d1caa55204d38678c95f
+#EXTINF:-1,BT Sport 1 [UK] --> New Loop
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1,ZIGGO SPORT 3 -->SPORTV
+acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
+#EXTINF:-1,Polsat Sport Premium 1 [PL] --> SPORTV
+acestream://4ce55db7e578ff52a6e526cf610e477464b8a99f
+#EXTINF:-1,Ziggo Sport --> New Loop
+acestream://fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1,BT Sport 2 [UK] --> New Loop
+acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1,BT Sport 3 [UK] --> New Loop
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1,M+ Baloncesto 5 1080p * --> Elcano
-acestream://71892f06a6186573476b2fb4ef543b1a44a1c78e
-#EXTINF:-1,M+ Baloncesto 5 1080p ** --> Elcano
-acestream://a42e875cf6809d8995aeff48f5f10e9ab31b2a9a
+#EXTINF:-1,1 Federacion (SOLO EVENTOS) --> NEW ERA III
+acestream://6adb885bc4b91164c17bcf99375b68c41abe6ac1
+#EXTINF:-1,SkySP PL [UK] --> New Loop
+acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+#EXTINF:-1,Sky Sports Main Event [UK] --> New Loop
+acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1,Premier Sports 1 [UK] --> New Loop
+acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1,Premier Sports 2 [UK] --> New Loop
+acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+#EXTINF:-1,Sky Sports Football [UK] --> New Loop
+acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
+#EXTINF:-1,BeIN Sports 1 [BE] --> New Loop
+acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
